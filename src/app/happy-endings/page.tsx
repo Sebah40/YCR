@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { Heart, ArrowRight } from "lucide-react";
 
 export const metadata = { title: "Happy Endings" };
 
@@ -229,18 +230,16 @@ export default function HappyEndingsPage() {
   return (
     <div className="bg-cream">
       {/* Header */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-16 pt-20 text-center">
+      <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-14 pt-16 text-center">
         <div className="relative mx-auto max-w-4xl px-6">
-          <div className="mb-6 inline-flex items-center gap-2 rounded-full bg-coral-100 px-5 py-2 text-sm font-medium text-coral-700">
-            <svg className="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
-              <path fillRule="evenodd" d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z" clipRule="evenodd" />
-            </svg>
+          <div className="mb-5 inline-flex items-center gap-2 rounded-full bg-coral-100 px-4 py-1.5 text-[13px] font-medium text-coral-700">
+            <Heart className="h-3.5 w-3.5" strokeWidth={2} fill="currentColor" />
             Celebrating Forever Homes
           </div>
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
             Happy Endings
           </h1>
-          <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-warm-600 sm:text-xl">
+          <p className="mx-auto mt-5 max-w-2xl text-base leading-relaxed text-warm-600 sm:text-lg">
             Every rescue story deserves a happy ending. Here we celebrate the chihuahuas who
             found their forever homes and the families who opened their hearts.
           </p>
@@ -249,22 +248,18 @@ export default function HappyEndingsPage() {
 
       {/* Stats Banner */}
       <section className="bg-amber-500">
-        <div className="mx-auto flex max-w-4xl items-center justify-center gap-4 px-6 py-8 text-center">
-          <svg className="h-10 w-10 shrink-0 text-amber-100" viewBox="0 0 24 24" fill="currentColor">
-            <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
-          </svg>
-          <p className="text-2xl font-bold text-white sm:text-3xl">{adoptedDogs.length}+ dogs placed in loving homes</p>
-          <svg className="h-10 w-10 shrink-0 text-amber-100" viewBox="0 0 24 24" fill="currentColor">
-            <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
-          </svg>
+        <div className="mx-auto flex max-w-4xl items-center justify-center gap-3 px-6 py-6 text-center">
+          <Heart className="h-8 w-8 shrink-0 text-amber-100" strokeWidth={1.5} fill="currentColor" />
+          <p className="text-xl font-bold text-white sm:text-2xl">{adoptedDogs.length}+ dogs placed in loving homes</p>
+          <Heart className="h-8 w-8 shrink-0 text-amber-100" strokeWidth={1.5} fill="currentColor" />
         </div>
       </section>
 
       {/* Success Stories Intro */}
-      <section className="mx-auto max-w-4xl px-6 py-16 text-center">
+      <section className="mx-auto max-w-4xl px-6 py-14 text-center">
         <h2 className="text-3xl font-bold text-warm-900 sm:text-4xl">Our Success Stories</h2>
-        <div className="mx-auto mt-4 h-1 w-16 rounded-full bg-coral-400" />
-        <p className="mx-auto mt-8 max-w-2xl text-lg leading-relaxed text-warm-600">
+        <div className="mx-auto mt-3 h-1 w-16 rounded-full bg-coral-400" />
+        <p className="mx-auto mt-6 max-w-2xl text-base leading-relaxed text-warm-600 sm:text-lg">
           Each face below represents a life transformed &mdash; a scared or abandoned pup
           who now knows the warmth of a loving home. These happy endings are possible because
           of our incredible adopters, foster families, and volunteers.
@@ -272,15 +267,15 @@ export default function HappyEndingsPage() {
       </section>
 
       {/* Photo Gallery */}
-      <section className="mx-auto max-w-7xl px-6 pb-20">
-        <p className="mb-8 text-center text-sm font-medium uppercase tracking-widest text-warm-500">
+      <section className="mx-auto max-w-7xl px-6 pb-16">
+        <p className="mb-6 text-center text-xs font-medium uppercase tracking-widest text-warm-500">
           Every face, a life changed
         </p>
-        <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6">
+        <div className="grid grid-cols-2 gap-2.5 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6">
           {adoptedDogs.map((dog, index) => (
             <div
               key={`${dog.name}-${index}`}
-              className="group relative overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-warm-200/50 transition-all hover:-translate-y-0.5 hover:shadow-lg"
+              className="group relative overflow-hidden rounded-xl bg-white shadow-sm ring-1 ring-warm-200/50 transition-all hover:-translate-y-0.5 hover:shadow-lg"
             >
               <div className="aspect-square overflow-hidden">
                 <Image
@@ -291,37 +286,33 @@ export default function HappyEndingsPage() {
                   className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
                 />
               </div>
-              <div className="px-3 py-2 text-center">
-                <p className="text-sm font-semibold text-warm-800">{dog.name}</p>
+              <div className="px-2.5 py-1.5 text-center">
+                <p className="text-[13px] font-semibold text-warm-800">{dog.name}</p>
               </div>
             </div>
           ))}
         </div>
-        <p className="mt-10 text-center text-warm-500">
+        <p className="mt-8 text-center text-warm-500">
           &hellip;and many more whose stories continue to inspire us every day.
         </p>
       </section>
 
       {/* CTA */}
-      <section className="bg-gradient-to-b from-cream to-amber-50 px-6 pb-24 pt-8">
+      <section className="bg-gradient-to-b from-cream to-amber-50 px-6 pb-20 pt-6">
         <div className="mx-auto max-w-2xl text-center">
-          <svg className="mx-auto mb-6 h-12 w-12 text-coral-400" viewBox="0 0 24 24" fill="currentColor">
-            <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
-          </svg>
+          <Heart className="mx-auto mb-5 h-10 w-10 text-coral-400" strokeWidth={1.5} fill="currentColor" />
           <h2 className="text-3xl font-bold text-warm-900 sm:text-4xl">
             Want to add a happy ending?
           </h2>
-          <p className="mt-4 text-lg text-warm-600">
+          <p className="mt-4 text-base text-warm-600">
             Start the adoption process today and give a chihuahua the loving home they deserve.
           </p>
           <Link
             href="/adoption"
-            className="mt-8 inline-flex items-center gap-2 rounded-full bg-coral-500 px-8 py-3.5 text-lg font-semibold text-white shadow-lg transition-colors hover:bg-coral-600"
+            className="mt-6 inline-flex items-center gap-2 rounded-full bg-coral-500 px-7 py-3 text-base font-semibold text-white shadow-sm transition-colors hover:bg-coral-600"
           >
             Start the Adoption Process
-            <svg className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-              <path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd" />
-            </svg>
+            <ArrowRight className="h-4 w-4" strokeWidth={2} />
           </Link>
         </div>
       </section>

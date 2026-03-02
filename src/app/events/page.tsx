@@ -24,7 +24,7 @@ export default function EventsPage() {
               alt="Long-haired Chihuahua"
               width={200}
               height={280}
-              className="h-auto w-48 shrink-0 rounded-2xl shadow-lg"
+              className="h-auto w-48 shrink-0 rounded-2xl shadow-sm"
             />
             <div className="text-center sm:text-left">
               <p className="text-xl leading-relaxed text-warm-700">
@@ -64,7 +64,7 @@ export default function EventsPage() {
           <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
             <Link
               href="/donate"
-              className="inline-flex items-center rounded-full bg-coral-500 px-8 py-3.5 text-sm font-semibold text-white shadow-lg transition-all hover:bg-coral-400"
+              className="inline-flex items-center rounded-full bg-coral-500 px-8 py-3.5 text-sm font-semibold text-white shadow-sm transition-all hover:bg-coral-400"
             >
               Donate via iGive
             </Link>

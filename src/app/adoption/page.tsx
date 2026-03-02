@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { Check, Heart } from "lucide-react";
 
 export const metadata = { title: "Adoption" };
 
@@ -69,7 +70,7 @@ export default function AdoptionPage() {
   return (
     <div className="bg-cream">
       {/* Header */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-16 pt-24 sm:pb-20 sm:pt-32">
+      <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-14 pt-20 sm:pb-16 sm:pt-28">
         <div className="relative mx-auto max-w-4xl px-6 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
             Adopting a Yankee Chihuahua
@@ -78,9 +79,9 @@ export default function AdoptionPage() {
       </section>
 
       {/* Intro */}
-      <section className="py-16 sm:py-24">
+      <section className="py-14 sm:py-20">
         <div className="mx-auto max-w-4xl px-6">
-          <div className="space-y-6 text-lg leading-relaxed text-warm-700">
+          <div className="space-y-5 text-base leading-relaxed text-warm-700 sm:text-lg">
             <Image
               src="/images/Joey-Transparent.png"
               alt="Joey the Chihuahua"
@@ -107,13 +108,13 @@ export default function AdoptionPage() {
       </section>
 
       {/* Adoption Process */}
-      <section className="bg-white py-16 sm:py-24">
+      <section className="bg-white py-14 sm:py-20">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-3xl font-bold tracking-tight text-warm-900 sm:text-4xl">
             Adoption Process
           </h2>
           <div className="mx-auto mt-2 h-1 w-16 rounded-full bg-coral-400" />
-          <div className="mt-8 space-y-6 text-lg leading-relaxed text-warm-700">
+          <div className="mt-6 space-y-5 text-base leading-relaxed text-warm-700 sm:text-lg">
             <Image
               src="/images/scraped/images/holidays/st-patrick/chi-st-patrick-shamrock.png"
               alt="Chihuahua with shamrock"
@@ -148,14 +149,14 @@ export default function AdoptionPage() {
       </section>
 
       {/* Cost of Adoption */}
-      <section className="py-16 sm:py-24">
+      <section className="py-14 sm:py-20">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-3xl font-bold tracking-tight text-warm-900 sm:text-4xl">
             Cost of an Adoption
           </h2>
           <p className="mt-1 text-sm font-medium text-warm-500">(donation plus applicable medical)</p>
           <div className="mx-auto mt-2 h-1 w-16 rounded-full bg-amber-400" />
-          <div className="mt-8 space-y-6 text-base leading-relaxed text-warm-700">
+          <div className="mt-6 space-y-5 text-base leading-relaxed text-warm-700">
             <p>
               Adoption cost is based on age (donation) plus any/all applicable medical
               expenses. YCRAA willingly accepts Chihuahuas and Chi mixes young and old. Any
@@ -179,31 +180,31 @@ export default function AdoptionPage() {
             height={140}
             className="float-right ml-6 mb-4 rounded-lg"
           />
-          <h3 className="mt-10 text-lg font-semibold text-warm-800">
+          <h3 className="mt-8 text-lg font-semibold text-warm-800">
             The requested adoption donation of a Chihuahua based on age is as follows:
           </h3>
-          <div className="mt-6 overflow-hidden rounded-2xl border border-warm-200 bg-white shadow-sm">
+          <div className="mt-5 overflow-hidden rounded-xl border border-warm-200 bg-white shadow-sm">
             <table className="w-full text-left text-sm">
               <thead>
                 <tr className="border-b border-warm-200 bg-warm-50">
-                  <th className="px-6 py-3 font-semibold text-warm-800">Age</th>
-                  <th className="px-6 py-3 font-semibold text-warm-800">Donation</th>
-                  <th className="hidden px-6 py-3 font-semibold text-warm-800 sm:table-cell">Medical Expenses</th>
+                  <th className="px-5 py-3 font-semibold text-warm-800">Age</th>
+                  <th className="px-5 py-3 font-semibold text-warm-800">Donation</th>
+                  <th className="hidden px-5 py-3 font-semibold text-warm-800 sm:table-cell">Medical Expenses</th>
                 </tr>
               </thead>
               <tbody>
                 {fees.map((row) => (
                   <tr key={row.age} className="border-b border-warm-100 last:border-0">
-                    <td className="px-6 py-3 font-medium text-warm-800">{row.age}</td>
-                    <td className="px-6 py-3 text-warm-600">{row.donation}</td>
-                    <td className="hidden px-6 py-3 text-warm-500 sm:table-cell">{row.medical}</td>
+                    <td className="px-5 py-3 font-medium text-warm-800">{row.age}</td>
+                    <td className="px-5 py-3 text-warm-600">{row.donation}</td>
+                    <td className="hidden px-5 py-3 text-warm-500 sm:table-cell">{row.medical}</td>
                   </tr>
                 ))}
               </tbody>
             </table>
           </div>
 
-          <div className="mt-8 space-y-4 text-base leading-relaxed text-warm-700">
+          <div className="mt-6 space-y-4 text-base leading-relaxed text-warm-700">
             <p>
               For puppies, YCRAA requires adopters to sign a spay/neuter contract and to
               submit a pre-paid receipt from a veterinarian for spay/neuter surgery (adopter
@@ -219,19 +220,17 @@ export default function AdoptionPage() {
       </section>
 
       {/* Adoption Policies */}
-      <section className="bg-white py-16 sm:py-24">
+      <section className="bg-white py-14 sm:py-20">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-3xl font-bold tracking-tight text-warm-900 sm:text-4xl">
             Adoption Policies of YCRAA
           </h2>
           <div className="mx-auto mt-2 h-1 w-16 rounded-full bg-coral-400" />
-          <ul className="mt-8 space-y-4">
+          <ul className="mt-6 space-y-3">
             {policies.map((item, idx) => (
-              <li key={idx} className="flex items-start gap-4">
-                <span className="mt-1 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-coral-100 text-coral-600">
-                  <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
-                    <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                  </svg>
+              <li key={idx} className="flex items-start gap-3">
+                <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-coral-100 text-coral-600">
+                  <Check className="h-3 w-3" strokeWidth={2.5} />
                 </span>
                 <span className="text-warm-700">{item}</span>
               </li>
@@ -241,12 +240,12 @@ export default function AdoptionPage() {
       </section>
 
       {/* Why We Do Not Place with Intact Animals */}
-      <section className="py-16 sm:py-24">
+      <section className="py-14 sm:py-20">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-2xl font-bold tracking-tight text-warm-900 sm:text-3xl">
             Why we do not place dogs in homes with intact animals.
           </h2>
-          <div className="mt-8 space-y-6 text-base leading-relaxed text-warm-700">
+          <div className="mt-6 space-y-5 text-base leading-relaxed text-warm-700">
             <Image
               src="/images/articles/chi-fawn2.gif"
               alt="Chihuahua"
@@ -320,13 +319,13 @@ export default function AdoptionPage() {
       </section>
 
       {/* Senior Dogs */}
-      <section className="bg-white py-16 sm:py-24">
+      <section className="bg-white py-14 sm:py-20">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-3xl font-bold tracking-tight text-warm-900 sm:text-4xl">
             Senior Dogs &mdash; &ldquo;Golden Oldies&rdquo;
           </h2>
           <div className="mx-auto mt-2 h-1 w-16 rounded-full bg-amber-400" />
-          <div className="mt-8 space-y-6 text-base leading-relaxed text-warm-700">
+          <div className="mt-6 space-y-5 text-base leading-relaxed text-warm-700">
             <Image
               src="/images/articles/chi-older.gif"
               alt="Senior Chihuahua"
@@ -360,16 +359,14 @@ export default function AdoptionPage() {
             </p>
           </div>
 
-          <h3 className="mt-10 text-lg font-semibold text-warm-800">
+          <h3 className="mt-8 text-lg font-semibold text-warm-800">
             Reasons to Adopt a Senior Dog
           </h3>
-          <ul className="mt-6 space-y-3">
+          <ul className="mt-5 space-y-2.5">
             {seniorReasons.map((reason, idx) => (
               <li key={idx} className="flex items-start gap-3">
-                <span className="mt-1.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-amber-100 text-amber-600">
-                  <svg className="h-3 w-3" viewBox="0 0 20 20" fill="currentColor">
-                    <path fillRule="evenodd" d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z" clipRule="evenodd" />
-                  </svg>
+                <span className="mt-1 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-amber-100 text-amber-600">
+                  <Heart className="h-3 w-3" strokeWidth={2} fill="currentColor" />
                 </span>
                 <span className="text-warm-700">{reason}</span>
               </li>
@@ -379,7 +376,7 @@ export default function AdoptionPage() {
       </section>
 
       {/* State Coordinators */}
-      <section className="py-16 sm:py-24">
+      <section className="py-14 sm:py-20">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-2xl font-bold tracking-tight text-warm-900 sm:text-3xl">
             Contact Your State Coordinator
@@ -392,12 +389,12 @@ export default function AdoptionPage() {
           <p className="mt-2 text-warm-600 italic">
             ...all the information you need is just a click away.
           </p>
-          <div className="mt-8 flex flex-wrap gap-3">
+          <div className="mt-6 flex flex-wrap gap-2.5">
             {states.map((state) => (
               <a
                 key={state}
                 href="mailto:info@yankeechihuahuarescue.org"
-                className="rounded-full border border-amber-200 bg-white px-5 py-2.5 text-sm font-medium text-amber-700 shadow-sm transition-all hover:-translate-y-0.5 hover:shadow-md"
+                className="rounded-full border border-amber-200 bg-white px-5 py-2 text-sm font-medium text-amber-700 shadow-sm transition-all hover:-translate-y-0.5 hover:shadow-md"
               >
                 {state}
               </a>
@@ -407,12 +404,12 @@ export default function AdoptionPage() {
       </section>
 
       {/* Past Adoptions Info */}
-      <section className="bg-white py-16 sm:py-24">
+      <section className="bg-white py-14 sm:py-20">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-2xl font-bold tracking-tight text-warm-900 sm:text-3xl">
             Information about Past Yankee Chihuahua Adoptions
           </h2>
-          <div className="mt-6 space-y-4 text-base leading-relaxed text-warm-700">
+          <div className="mt-5 space-y-4 text-base leading-relaxed text-warm-700">
             <p>
               Through the past years some of the information about past YCRAA adoptions has
               been lost. If you have any information about any of Yankee Chihuahua Rescue past
@@ -426,7 +423,7 @@ export default function AdoptionPage() {
             </p>
             <p>Thanks so much!</p>
           </div>
-          <p className="mt-6 text-sm text-warm-500">
+          <p className="mt-5 text-sm text-warm-500">
             If you experience problems with the online form please request an Adoption
             Application by email to:{" "}
             <a href="mailto:YankeeChiRescue@gmail.com" className="text-amber-600 underline">
@@ -437,14 +434,14 @@ export default function AdoptionPage() {
       </section>
 
       {/* Quote */}
-      <section className="bg-gradient-to-br from-warm-800 to-warm-900 py-16 sm:py-20">
+      <section className="bg-gradient-to-br from-warm-800 to-warm-900 py-14 sm:py-20">
         <div className="mx-auto max-w-4xl px-6 text-center">
           <Image
             src="/images/articles/chi-wh-lt.gif"
             alt="Chihuahua"
             width={120}
             height={140}
-            className="mx-auto mb-6 rounded-lg"
+            className="mx-auto mb-5 rounded-lg"
           />
           <blockquote className="text-xl italic leading-relaxed text-amber-100 sm:text-2xl">
             &ldquo;Blessed is the person who has earned the love of an old dog.&rdquo;

@@ -41,7 +41,7 @@ export default function VersatileChihuahuaPage() {
                 alt="Therapy Chihuahua"
                 width={300}
                 height={227}
-                className="rounded-xl shadow-md"
+                className="rounded-xl "
               />
             </div>
 
@@ -124,7 +124,7 @@ export default function VersatileChihuahuaPage() {
                 alt="Chihuahua Fly Ball"
                 width={249}
                 height={285}
-                className="shrink-0 rounded-xl shadow-md"
+                className="shrink-0 rounded-xl "
               />
               <div>
                 <p>
@@ -142,7 +142,7 @@ export default function VersatileChihuahuaPage() {
                 alt="Max, AKC Top Dog Agility Chihuahua"
                 width={300}
                 height={200}
-                className="shrink-0 rounded-xl shadow-md"
+                className="shrink-0 rounded-xl "
               />
               <div>
                 <p>
@@ -160,7 +160,7 @@ export default function VersatileChihuahuaPage() {
                 alt="Chihuahua pulling wagon"
                 width={300}
                 height={290}
-                className="shrink-0 rounded-xl shadow-md"
+                className="shrink-0 rounded-xl "
               />
               <div>
                 <p>Very handy on market day.</p>

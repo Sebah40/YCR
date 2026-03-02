@@ -66,7 +66,7 @@ export default function DonatePage() {
               alt="iGive Members"
               width={600}
               height={300}
-              className="mx-auto h-auto w-full max-w-xl rounded-xl shadow-md"
+              className="mx-auto h-auto w-full max-w-xl rounded-xl"
             />
           </a>
 
@@ -89,7 +89,7 @@ export default function DonatePage() {
               alt="iGive partner stores"
               width={625}
               height={300}
-              className="mx-auto h-auto w-full max-w-xl rounded-xl shadow-md"
+              className="mx-auto h-auto w-full max-w-xl rounded-xl"
             />
           </a>
         </div>
@@ -114,7 +114,7 @@ export default function DonatePage() {
                 alt="How iGive works"
                 width={600}
                 height={300}
-                className="mx-auto h-auto w-full max-w-xl rounded-xl shadow-md"
+                className="mx-auto h-auto w-full max-w-xl rounded-xl"
               />
             </a>
           </div>
@@ -146,7 +146,7 @@ export default function DonatePage() {
                 alt="You shop with stores, stores donate to your cause"
                 width={635}
                 height={200}
-                className="mx-auto h-auto w-full max-w-xl rounded-xl shadow-md"
+                className="mx-auto h-auto w-full max-w-xl rounded-xl"
               />
             </a>
           </div>
@@ -243,7 +243,7 @@ export default function DonatePage() {
             href="http://www.igive.com/html/refer.cfm?causeid=47590"
             target="_blank"
             rel="noopener noreferrer"
-            className="mt-8 inline-flex items-center rounded-full bg-amber-400 px-8 py-3.5 text-base font-semibold text-warm-900 shadow-lg transition-all hover:bg-amber-300"
+            className="mt-8 inline-flex items-center rounded-full bg-amber-400 px-8 py-3.5 text-base font-semibold text-warm-900 shadow-sm transition-all hover:bg-amber-300"
           >
             Join iGive Now
           </a>

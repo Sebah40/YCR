@@ -1,41 +1,41 @@
 @import "tailwindcss";
 
 @theme inline {
-  --color-amber-50: #fffbeb;
-  --color-amber-100: #fef3c7;
-  --color-amber-200: #fde68a;
-  --color-amber-300: #fcd34d;
-  --color-amber-400: #fbbf24;
-  --color-amber-500: #f59e0b;
-  --color-amber-600: #d97706;
-  --color-amber-700: #b45309;
-  --color-amber-800: #92400e;
-  --color-amber-900: #78350f;
+  --color-amber-50: #fdfcf5;
+  --color-amber-100: #faf5de;
+  --color-amber-200: #f3e9b0;
+  --color-amber-300: #e8d36e;
+  --color-amber-400: #d9b83a;
+  --color-amber-500: #c49e18;
+  --color-amber-600: #a38312;
+  --color-amber-700: #7a620e;
+  --color-amber-800: #5c4a0b;
+  --color-amber-900: #3d3108;
 
-  --color-warm-50: #fdf8f0;
-  --color-warm-100: #f5ebe0;
-  --color-warm-200: #e8d5c0;
-  --color-warm-300: #d4a574;
-  --color-warm-400: #c2854a;
-  --color-warm-500: #a16830;
-  --color-warm-600: #8b5526;
-  --color-warm-700: #6b3f1d;
-  --color-warm-800: #4a2c15;
-  --color-warm-900: #2d1a0e;
+  --color-warm-50: #f6faf7;
+  --color-warm-100: #eaf1ec;
+  --color-warm-200: #cedbd3;
+  --color-warm-300: #8baa97;
+  --color-warm-400: #5e8a71;
+  --color-warm-500: #3e705a;
+  --color-warm-600: #2e5844;
+  --color-warm-700: #204234;
+  --color-warm-800: #163027;
+  --color-warm-900: #0d1f17;
 
-  --color-coral-50: #fff5f2;
-  --color-coral-100: #ffe4db;
-  --color-coral-200: #ffc4b0;
-  --color-coral-300: #ff9b7a;
-  --color-coral-400: #ff7849;
-  --color-coral-500: #e85d30;
-  --color-coral-600: #c24422;
-  --color-coral-700: #9c3319;
-  --color-coral-800: #7a2a16;
-  --color-coral-900: #5c2013;
+  --color-coral-50: #f0f6f2;
+  --color-coral-100: #dbeae1;
+  --color-coral-200: #b3d5c1;
+  --color-coral-300: #7dba97;
+  --color-coral-400: #4a9e72;
+  --color-coral-500: #2f8259;
+  --color-coral-600: #246a48;
+  --color-coral-700: #1c5439;
+  --color-coral-800: #16422e;
+  --color-coral-900: #103323;
 
-  --color-cream: #fdf8f0;
-  --color-cream-dark: #f5ebe0;
+  --color-cream: #f6faf7;
+  --color-cream-dark: #eaf1ec;
 
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
 }
@@ -49,30 +49,20 @@ html {
   scroll-behavior: smooth;
 }
 
-/* St. Patrick's Day theme overrides */
-[data-theme="st-patrick"] {
-  --color-warm-50: #f0fdf4;
-  --color-warm-100: #dcfce7;
-  --color-warm-200: #bbf7d0;
-  --color-warm-300: #4ade80;
-  --color-warm-400: #22c55e;
-  --color-warm-500: #16a34a;
-  --color-warm-600: #15803d;
-  --color-warm-700: #166534;
-  --color-warm-800: #14532d;
-  --color-warm-900: #052e16;
+@keyframes fall {
+  0% {
+    transform: translateY(-5%) rotate(0deg);
+  }
+  100% {
+    transform: translateY(110vh) rotate(360deg);
+  }
+}
 
-  --color-coral-50: #ecfdf5;
-  --color-coral-100: #d1fae5;
-  --color-coral-200: #a7f3d0;
-  --color-coral-300: #6ee7b7;
-  --color-coral-400: #34d399;
-  --color-coral-500: #10b981;
-  --color-coral-600: #059669;
-  --color-coral-700: #047857;
-  --color-coral-800: #065f46;
-  --color-coral-900: #064e3b;
-
-  --color-cream: #f0fdf4;
-  --color-cream-dark: #dcfce7;
+@keyframes sway {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(var(--drift, 20px));
+  }
 }

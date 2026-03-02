@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { Check } from "lucide-react";
 
 export const metadata = { title: "Why Rescues Do Not Place Dogs in Homes with Intact Animals" };
 
@@ -27,7 +28,7 @@ const stats = [
 export default function WhyNoIntactAnimalsPage() {
   return (
     <div className="bg-cream">
-      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-16 pt-20 text-center">
+      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-14 pt-16 text-center">
         <div className="mx-auto max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
             Why Rescues Do Not Place Dogs in Homes with Intact Animals
@@ -35,9 +36,9 @@ export default function WhyNoIntactAnimalsPage() {
         </div>
       </section>
 
-      <div className="mx-auto max-w-4xl px-6 pb-24">
-        <article className="py-16">
-          <div className="space-y-6 text-base leading-relaxed text-warm-700">
+      <div className="mx-auto max-w-4xl px-6 pb-20">
+        <article className="py-14">
+          <div className="space-y-5 text-base leading-relaxed text-warm-700">
             <p>
               The main reason why Yankee Chihuahua Rescue will not place a chihuahua in a home
               where the pets have not been neutered is because they deserve a home with
@@ -45,7 +46,7 @@ export default function WhyNoIntactAnimalsPage() {
               thing for them -- Neutering.
             </p>
 
-            <h2 className="!mt-12 text-2xl font-bold text-warm-900">
+            <h2 className="!mt-10 text-2xl font-bold text-warm-900">
               Health benefits of neutering
             </h2>
             <div className="h-1 w-12 rounded-full bg-amber-400" />
@@ -69,7 +70,7 @@ export default function WhyNoIntactAnimalsPage() {
 
             <p>Excessive prepuce/penis discharge is also reduced by neutering.</p>
 
-            <h2 className="!mt-12 text-2xl font-bold text-warm-900">
+            <h2 className="!mt-10 text-2xl font-bold text-warm-900">
               Behavioral concerns with unneutered dogs
             </h2>
             <div className="h-1 w-12 rounded-full bg-coral-400" />
@@ -94,7 +95,7 @@ export default function WhyNoIntactAnimalsPage() {
               These are not the type of environments we want fosters to endure.
             </p>
 
-            <h2 className="!mt-12 text-2xl font-bold text-warm-900">
+            <h2 className="!mt-10 text-2xl font-bold text-warm-900">
               Post-neutering improvements
             </h2>
             <div className="h-1 w-12 rounded-full bg-amber-400" />
@@ -112,19 +113,7 @@ export default function WhyNoIntactAnimalsPage() {
               {stats.map((s) => (
                 <li key={s} className="flex items-start gap-3">
                   <span className="mt-1 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-amber-100 text-amber-600">
-                    <svg
-                      className="h-3 w-3"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      stroke="currentColor"
-                      strokeWidth={2.5}
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M4.5 12.75l6 6 9-13.5"
-                      />
-                    </svg>
+                    <Check className="h-3 w-3" strokeWidth={2.5} />
                   </span>
                   <span>{s}</span>
                 </li>
@@ -133,7 +122,7 @@ export default function WhyNoIntactAnimalsPage() {
 
             <p>In other words, they are much better behaved.</p>
 
-            <div className="!mt-12 rounded-2xl border border-amber-200 bg-gradient-to-br from-amber-50 to-warm-50 p-8 text-center shadow-sm">
+            <div className="!mt-10 rounded-xl border border-amber-200 bg-gradient-to-br from-amber-50 to-warm-50 p-8 text-center shadow-sm">
               <p className="text-lg font-bold italic text-warm-800">
                 Well behaved companions are what a Yankee Chihuahua deserves.
               </p>
@@ -141,7 +130,7 @@ export default function WhyNoIntactAnimalsPage() {
           </div>
         </article>
 
-        <div className="border-t border-warm-200 pt-8">
+        <div className="border-t border-warm-200 pt-6">
           <Link
             href="/chihuahua-info"
             className="text-sm font-semibold text-coral-600 hover:text-coral-700"

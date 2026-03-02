@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { Check } from "lucide-react";
 
 export const metadata = { title: "Chihuahua Treats" };
 
@@ -81,7 +82,7 @@ const goodTreats = [
 export default function ChihuahuaTreatsPage() {
   return (
     <div className="bg-cream">
-      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-16 pt-20 text-center">
+      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-14 pt-16 text-center">
         <div className="mx-auto max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
             Chihuahua Treats
@@ -89,56 +90,44 @@ export default function ChihuahuaTreatsPage() {
         </div>
       </section>
 
-      <div className="mx-auto max-w-4xl px-6 pb-24">
+      <div className="mx-auto max-w-4xl px-6 pb-20">
         {/* Bad Treats */}
-        <section className="py-16">
+        <section className="py-14">
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
             Treats to AVOID giving your Chihuahua
           </h2>
           <div className="mt-2 h-1 w-16 rounded-full bg-coral-400" />
-          <p className="mt-6 text-warm-700">
+          <p className="mt-5 text-warm-700">
             While some of these foods, if given in very small amounts, cause no harm to many
             dogs, remember that the Chihuahua is a very small dog and should not get ANY of
             these.
           </p>
-          <div className="mt-8 space-y-6">
+          <div className="mt-6 space-y-4">
             {badTreats.map((t) => (
-              <div key={t.name} className="rounded-xl border border-coral-100 bg-white p-6">
+              <div key={t.name} className="rounded-xl border border-coral-100 bg-white p-5">
                 <h3 className="font-semibold text-coral-700">{t.name}</h3>
-                <p className="mt-2 text-sm leading-relaxed text-warm-600">{t.desc}</p>
+                <p className="mt-1.5 text-sm leading-relaxed text-warm-600">{t.desc}</p>
               </div>
             ))}
           </div>
         </section>
 
         {/* Good Treats */}
-        <section className="py-16">
+        <section className="py-14">
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
             Treats that are fine for your Chihuahua
           </h2>
           <div className="mt-2 h-1 w-16 rounded-full bg-amber-400" />
-          <p className="mt-6 text-warm-700">
+          <p className="mt-5 text-warm-700">
             Remember that even healthy treats should be given in relatively small amounts. A
             good rule of thumb is that 90% of your dog&apos;s diet should come from its regular
             well-balanced food.
           </p>
-          <div className="mt-8 grid gap-3 sm:grid-cols-2">
+          <div className="mt-6 grid gap-2.5 sm:grid-cols-2">
             {goodTreats.map((t) => (
-              <div key={t} className="flex items-center gap-3 rounded-xl border border-amber-100 bg-white p-4">
-                <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-amber-100 text-amber-600">
-                  <svg
-                    className="h-4 w-4"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                    strokeWidth={2.5}
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M4.5 12.75l6 6 9-13.5"
-                    />
-                  </svg>
+              <div key={t} className="flex items-center gap-3 rounded-xl border border-amber-100 bg-white p-3.5">
+                <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-amber-100 text-amber-600">
+                  <Check className="h-3 w-3" strokeWidth={2.5} />
                 </span>
                 <span className="text-sm font-medium text-warm-700">{t}</span>
               </div>
@@ -146,7 +135,7 @@ export default function ChihuahuaTreatsPage() {
           </div>
         </section>
 
-        <div className="border-t border-warm-200 pt-8">
+        <div className="border-t border-warm-200 pt-6">
           <Link
             href="/chihuahua-info"
             className="text-sm font-semibold text-coral-600 hover:text-coral-700"

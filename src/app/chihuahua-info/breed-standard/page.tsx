@@ -101,7 +101,7 @@ export default function BreedStandardPage() {
               alt="Chihuahua Smooth Coat"
               width={187}
               height={199}
-              className="rounded-xl shadow-md"
+              className="rounded-xl"
             />
             <p className="mt-2 text-sm font-medium text-warm-600">Smooth Coat</p>
           </div>
@@ -111,7 +111,7 @@ export default function BreedStandardPage() {
               alt="Chihuahua Long Coat"
               width={190}
               height={190}
-              className="rounded-xl shadow-md"
+              className="rounded-xl"
             />
             <p className="mt-2 text-sm font-medium text-warm-600">Long Coat</p>
           </div>

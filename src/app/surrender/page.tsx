@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { AlertTriangle, Check } from "lucide-react";
 
 export const metadata = { title: "Surrender" };
 
@@ -24,7 +25,7 @@ export default function SurrenderPage() {
   return (
     <div className="bg-cream">
       {/* Header */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-warm-100 to-cream pb-16 pt-24 sm:pb-20 sm:pt-32">
+      <section className="relative overflow-hidden bg-gradient-to-b from-warm-100 to-cream pb-14 pt-20 sm:pb-16 sm:pt-28">
         <div className="relative mx-auto max-w-4xl px-6 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
             Surrendering your Chihuahua
@@ -33,16 +34,14 @@ export default function SurrenderPage() {
       </section>
 
       {/* ID Badge Warning */}
-      <section className="py-16 sm:py-24">
+      <section className="py-14 sm:py-20">
         <div className="mx-auto max-w-4xl px-6">
-          <div className="rounded-2xl border-2 border-coral-300 bg-coral-50 p-8 sm:p-10">
-            <div className="flex items-start gap-5">
-              <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-coral-200">
-                <svg className="h-6 w-6 text-coral-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
-                </svg>
+          <div className="rounded-xl border-2 border-coral-300 bg-coral-50 p-6 sm:p-8">
+            <div className="flex items-start gap-4">
+              <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-coral-200">
+                <AlertTriangle className="h-5 w-5 text-coral-700" strokeWidth={2} />
               </div>
-              <div className="space-y-3 text-coral-800">
+              <div className="space-y-2.5 text-coral-800">
                 <p>
                   We at Yankee Chihuahua Rescue display a Rescue Photo I.D. Badge while
                   conducting rescues, home visits and/or general rescue business.
@@ -61,9 +60,9 @@ export default function SurrenderPage() {
       </section>
 
       {/* Main Content */}
-      <section className="bg-white py-16 sm:py-24">
+      <section className="bg-white py-14 sm:py-20">
         <div className="mx-auto max-w-4xl px-6">
-          <div className="space-y-6 text-lg leading-relaxed text-warm-700">
+          <div className="space-y-5 text-base leading-relaxed text-warm-700 sm:text-lg">
             <Image
               src="/images/scraped/images/holidays/st-patrick/chi-st-partrick-sleep-in-hat.png"
               alt="Chihuahua sleeping in St. Patrick's hat"
@@ -90,13 +89,13 @@ export default function SurrenderPage() {
       </section>
 
       {/* What Happens */}
-      <section className="py-16 sm:py-24">
+      <section className="py-14 sm:py-20">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-3xl font-bold text-warm-900 sm:text-4xl">
             What happens when I surrender my dog to rescue?
           </h2>
           <div className="mx-auto mt-2 h-1 w-16 rounded-full bg-amber-400" />
-          <div className="mt-8 space-y-6 text-base leading-relaxed text-warm-700">
+          <div className="mt-6 space-y-5 text-base leading-relaxed text-warm-700">
             <Image
               src="/images/scraped/images/holidays/st-patrick/chi-irish-heart-leaf.png"
               alt="Chihuahua with Irish heart leaf"
@@ -128,19 +127,17 @@ export default function SurrenderPage() {
       </section>
 
       {/* Requirements */}
-      <section className="bg-white py-16 sm:py-24">
+      <section className="bg-white py-14 sm:py-20">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-3xl font-bold text-warm-900 sm:text-4xl">
             The surrendered dogs must
           </h2>
           <div className="mx-auto mt-2 h-1 w-16 rounded-full bg-amber-400" />
-          <ul className="mx-auto mt-10 max-w-2xl space-y-4">
+          <ul className="mx-auto mt-8 max-w-2xl space-y-3">
             {requirements.map((item) => (
-              <li key={item} className="flex items-start gap-4">
-                <span className="mt-1 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-amber-100 text-amber-600">
-                  <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
-                    <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                  </svg>
+              <li key={item} className="flex items-start gap-3">
+                <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-amber-100 text-amber-600">
+                  <Check className="h-3 w-3" strokeWidth={2.5} />
                 </span>
                 <span className="text-warm-700">{item}</span>
               </li>
@@ -150,22 +147,22 @@ export default function SurrenderPage() {
       </section>
 
       {/* Surrender Process */}
-      <section className="py-16 sm:py-24">
+      <section className="py-14 sm:py-20">
         <div className="mx-auto max-w-5xl px-6">
           <h2 className="text-3xl font-bold text-warm-900 sm:text-4xl">
             The Surrender Process
           </h2>
           <div className="mx-auto mt-2 h-1 w-16 rounded-full bg-coral-400" />
-          <div className="relative mt-14">
+          <div className="relative mt-12">
             <div aria-hidden="true" className="absolute left-6 top-0 hidden h-full w-0.5 bg-gradient-to-b from-warm-300 via-amber-300 to-warm-300 sm:left-8 md:block" />
-            <ol className="space-y-10 md:space-y-12">
+            <ol className="space-y-8 md:space-y-10">
               {steps.map((step, idx) => (
                 <li key={idx} className="relative md:pl-24">
-                  <div className="mb-4 flex items-start gap-4 md:mb-0">
-                    <div className="relative z-10 flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-warm-400 to-amber-400 text-lg font-bold text-white shadow-lg ring-4 ring-cream sm:h-16 sm:w-16 sm:text-xl md:absolute md:left-0 md:top-0">
+                  <div className="mb-3 flex items-start gap-4 md:mb-0">
+                    <div className="relative z-10 flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-warm-400 to-amber-400 text-lg font-bold text-white shadow-sm ring-2 ring-cream sm:h-16 sm:w-16 sm:text-xl md:absolute md:left-0 md:top-0">
                       {idx + 1}
                     </div>
-                    <div className="flex-1 rounded-2xl border border-warm-100 bg-white/80 p-6 shadow-sm sm:p-8">
+                    <div className="flex-1 rounded-xl border border-warm-100 bg-white/80 p-5 shadow-sm sm:p-6">
                       <p className="leading-relaxed text-warm-600">{step}</p>
                     </div>
                   </div>
@@ -177,14 +174,14 @@ export default function SurrenderPage() {
       </section>
 
       {/* Take the Time */}
-      <section className="bg-white py-16 sm:py-24">
+      <section className="bg-white py-14 sm:py-20">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
             Take the time to be sure surrender is the right thing to do for your dog and
             yourself
           </h2>
-          <div className="mt-8 space-y-6 text-base leading-relaxed text-warm-700">
-            <div className="rounded-2xl border-2 border-coral-300 bg-coral-50 p-8">
+          <div className="mt-6 space-y-5 text-base leading-relaxed text-warm-700">
+            <div className="rounded-xl border-2 border-coral-300 bg-coral-50 p-6">
               <p>
                 We at Yankee Chihuahua Rescue and Adoption display a Rescue Photo I.D. Badge
                 while conducting rescues, home visits and/or general rescue business.{" "}

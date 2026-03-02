@@ -42,7 +42,7 @@ export default function AboutPage() {
   return (
     <div>
       {/* Header */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-amber-50 via-cream to-coral-50 py-24 sm:py-32">
+      <section className="relative overflow-hidden bg-gradient-to-br from-amber-50 via-cream to-coral-50 py-14 sm:py-16">
         <div className="mx-auto max-w-4xl px-6 text-center">
           <h1 className="text-4xl font-extrabold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
             About Yankee Chihuahua Rescue and Adoption
@@ -51,7 +51,7 @@ export default function AboutPage() {
       </section>
 
       {/* Main Content */}
-      <section className="bg-white py-16 sm:py-24">
+      <section className="bg-white py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <div className="space-y-6 text-lg leading-relaxed text-warm-700">
             <Image
@@ -88,7 +88,7 @@ export default function AboutPage() {
       </section>
 
       {/* How You Can Help */}
-      <section className="py-16 sm:py-24">
+      <section className="py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
             If you love dogs as much as we do, then please consider helping our rescue efforts.
@@ -134,7 +134,7 @@ export default function AboutPage() {
       </section>
 
       {/* YCRAA Objectives */}
-      <section className="bg-white py-16 sm:py-24">
+      <section className="bg-white py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
             YCRAA objectives are to:
@@ -161,7 +161,7 @@ export default function AboutPage() {
       </section>
 
       {/* Quote */}
-      <section className="bg-gradient-to-br from-warm-800 to-warm-900 py-16 sm:py-20">
+      <section className="bg-gradient-to-br from-warm-800 to-warm-900 py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6 text-center">
           <Image
             src="/images/scraped/images/holidays/st-patrick/chi-st-patrick-lucky-dog.gif"

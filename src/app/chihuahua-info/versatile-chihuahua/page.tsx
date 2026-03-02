@@ -6,7 +6,7 @@ export const metadata = { title: "The Versatile Chihuahua" };
 export default function VersatileChihuahuaPage() {
   return (
     <div className="bg-cream">
-      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-16 pt-20 text-center">
+      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-8 pt-14 text-center">
         <div className="mx-auto max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
             The Versatile Chihuahua
@@ -15,7 +15,7 @@ export default function VersatileChihuahuaPage() {
       </section>
 
       <div className="mx-auto max-w-4xl px-6 pb-24">
-        <article className="py-16">
+        <article className="py-10">
           <div className="space-y-6 text-base leading-relaxed text-warm-700">
             <p>
               Cheeky, extrovert, and full of life, the Chihuahua may be the smallest breed in

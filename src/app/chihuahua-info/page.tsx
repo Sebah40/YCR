@@ -76,28 +76,25 @@ export default function ChihuahuaInfoPage() {
   return (
     <div className="bg-cream">
       {/* Header */}
-      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-14 pt-16 text-center">
+      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-8 pt-14 text-center">
         <div className="mx-auto max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
             Chihuahua Information
           </h1>
-          <div className="mt-8 flex items-center justify-center gap-6">
-            <Image src="/images/scraped/images/holidays/st-patrick/chi-st-patrick-pub.jpg" alt="Chihuahua at the pub" width={180} height={140} className="h-auto w-36 rounded-lg sm:w-44" />
-            <Image src="/images/scraped/images/holidays/st-patrick/chi-hat-graphic02.png" alt="Chihuahua with hat" width={140} height={160} className="hidden h-auto w-28 sm:block sm:w-36" />
-          </div>
         </div>
       </section>
 
       <div className="mx-auto max-w-4xl px-6 pb-20">
         {/* Breed Information */}
-        <section className="py-14">
+        <section className="py-10">
+          <Image src="/images/scraped/images/holidays/st-patrick/chi-st-patrick-pub.jpg" alt="Chihuahua at the pub" width={140} height={110} className="float-right ml-5 mb-3 hidden h-auto w-28 rounded-lg sm:block sm:w-36" />
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">Breed Information</h2>
           <div className="mt-2 h-1 w-16 rounded-full bg-amber-400" />
           <ArticleList items={breedInfo} accentBg="bg-amber-100" accentText="text-amber-600" />
         </section>
 
         {/* Articles by YCRAA Volunteers */}
-        <section className="py-14">
+        <section className="py-10">
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
             Articles by YCRAA Volunteers
           </h2>
@@ -110,7 +107,8 @@ export default function ChihuahuaInfoPage() {
         </section>
 
         {/* Articles Related to Rescue and Adoption */}
-        <section className="py-14">
+        <section className="py-10">
+          <Image src="/images/scraped/images/holidays/st-patrick/chi-hat-graphic02.png" alt="Chihuahua with hat" width={110} height={130} className="float-right ml-5 mb-3 hidden h-auto w-24 sm:block sm:w-28" />
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
             Articles Related to Rescue and Adoption
           </h2>
@@ -119,7 +117,7 @@ export default function ChihuahuaInfoPage() {
         </section>
 
         {/* Articles of Interest */}
-        <section className="py-14">
+        <section className="py-10">
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">Articles of Interest</h2>
           <div className="mt-2 h-1 w-16 rounded-full bg-coral-400" />
           <ArticleList
@@ -130,7 +128,7 @@ export default function ChihuahuaInfoPage() {
         </section>
 
         {/* Quote */}
-        <section className="py-14">
+        <section className="py-10">
           <div className="mx-auto max-w-3xl rounded-xl border border-amber-200 bg-gradient-to-br from-amber-50 to-warm-50 p-10 text-center shadow-sm">
             <blockquote className="text-lg italic leading-relaxed text-warm-700">
               &ldquo;Our task must be to free ourselves... by widening our circle of compassion

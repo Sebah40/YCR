@@ -84,7 +84,7 @@ const disqualifications = [
 export default function BreedStandardPage() {
   return (
     <div className="bg-cream">
-      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-16 pt-20 text-center">
+      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-8 pt-14 text-center">
         <div className="mx-auto max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
             AKC - Chihuahua Breed Standard
@@ -117,7 +117,7 @@ export default function BreedStandardPage() {
           </div>
         </div>
 
-        <div className="space-y-12 py-16">
+        <div className="space-y-12 py-10">
           {sections.map((section) => (
             <div key={section.title}>
               <h2 className="text-xl font-bold text-warm-900">{section.title}</h2>

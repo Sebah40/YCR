@@ -70,7 +70,7 @@ export default function AdoptionPage() {
   return (
     <div className="bg-cream">
       {/* Header */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-14 pt-20 sm:pb-16 sm:pt-28">
+      <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-8 pt-14 sm:pb-10 sm:pt-16">
         <div className="relative mx-auto max-w-4xl px-6 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
             Adopting a Yankee Chihuahua
@@ -79,77 +79,81 @@ export default function AdoptionPage() {
       </section>
 
       {/* Intro */}
-      <section className="py-14 sm:py-20">
+      <section className="py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
-          <div className="space-y-5 text-base leading-relaxed text-warm-700 sm:text-lg">
+          <div className="flex gap-6">
             <Image
               src="/images/Joey-Transparent.png"
               alt="Joey the Chihuahua"
               width={150}
               height={200}
-              className="float-left mr-6 mb-4 hidden rounded-lg sm:block"
+              className="hidden h-auto w-32 shrink-0 self-start rounded-lg sm:block"
             />
-            <p>
-              YCRAA Chihuahuas have all found themselves homeless through no fault of their own.
-            </p>
-            <ul className="ml-6 list-disc space-y-2">
-              <li>Some are released to us by their owners due to changes in family circumstances</li>
-              <li>Some are from owners realizing that a Chihuahua is not a good match for them</li>
-              <li>Some are strays from animal shelters and humane societies</li>
-              <li>A few come from puppy mills and backyard breeders.</li>
-            </ul>
-            <p>
-              Our adult Chihuahuas are spayed/neutered, tested and if necessary, treated, for
-              heartworm and other parasites. All Chihuahuas are brought up to date on their
-              inoculations prior to their placement in loving forever homes.
-            </p>
+            <div className="space-y-5 text-base leading-relaxed text-warm-700 sm:text-lg">
+              <p>
+                YCRAA Chihuahuas have all found themselves homeless through no fault of their own.
+              </p>
+              <ul className="ml-6 list-disc space-y-2">
+                <li>Some are released to us by their owners due to changes in family circumstances</li>
+                <li>Some are from owners realizing that a Chihuahua is not a good match for them</li>
+                <li>Some are strays from animal shelters and humane societies</li>
+                <li>A few come from puppy mills and backyard breeders.</li>
+              </ul>
+              <p>
+                Our adult Chihuahuas are spayed/neutered, tested and if necessary, treated, for
+                heartworm and other parasites. All Chihuahuas are brought up to date on their
+                inoculations prior to their placement in loving forever homes.
+              </p>
+            </div>
           </div>
         </div>
       </section>
 
       {/* Adoption Process */}
-      <section className="bg-white py-14 sm:py-20">
+      <section className="bg-white py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-3xl font-bold tracking-tight text-warm-900 sm:text-4xl">
             Adoption Process
           </h2>
           <div className="mx-auto mt-2 h-1 w-16 rounded-full bg-coral-400" />
-          <div className="mt-6 space-y-5 text-base leading-relaxed text-warm-700 sm:text-lg">
+          <div className="mt-6 flex gap-6">
+            <div className="space-y-5 text-base leading-relaxed text-warm-700 sm:text-lg">
+              <p>
+                The first step in adoption is to fill out an Adoption Application. This form
+                gives basic information about the type of Chihuahua that will best fit into your
+                family. Once the application is received and reviewed to ensure it is complete and
+                meets our adoption criteria, a YCRAA volunteer will then contact you for a phone
+                interview and arrange for a home visit. When there is a particular YCRAA dog you
+                may be interested in then the Foster Mom will also contact you to talk about
+                their foster. We do not have a shelter or facility where the Chihuahuas may be
+                visited, we are a network of foster homes here in New England. Foster parents
+                volunteer their time and put a lot into evaluating and rehabilitating YCRAA
+                Chihuahuas until they are ready for placement.
+              </p>
+              <p>
+                If it seems like a good match then a visit is arranged to meet the dog. Sometimes
+                a home is approved to adopt a YCRAA Chihuahua but it is not the best match for
+                the particular dog requested. The application then remains on file as a
+                &ldquo;Pre-approved Home&rdquo; until the right dog comes along. We often have
+                dogs that have just come in and are not listed yet, but the Adoption Coordinator
+                will know about them. Many of our YCRAA Chihuahuas get matched to applicants that
+                are waiting on our &ldquo;Approved Homes&rdquo; list. Becoming an Approved Home
+                is the best way to be matched with a YCRAA dog.
+              </p>
+            </div>
             <Image
               src="/images/scraped/images/holidays/st-patrick/chi-st-patrick-shamrock.png"
               alt="Chihuahua with shamrock"
               width={160}
               height={180}
-              className="float-right ml-6 mb-4 hidden h-auto w-32 sm:block sm:w-40"
+              className="hidden h-auto w-32 shrink-0 self-start sm:block sm:w-40"
             />
-            <p>
-              The first step in adoption is to fill out an Adoption Application. This form
-              gives basic information about the type of Chihuahua that will best fit into your
-              family. Once the application is received and reviewed to ensure it is complete and
-              meets our adoption criteria, a YCRAA volunteer will then contact you for a phone
-              interview and arrange for a home visit. When there is a particular YCRAA dog you
-              may be interested in then the Foster Mom will also contact you to talk about
-              their foster. We do not have a shelter or facility where the Chihuahuas may be
-              visited, we are a network of foster homes here in New England. Foster parents
-              volunteer their time and put a lot into evaluating and rehabilitating YCRAA
-              Chihuahuas until they are ready for placement.
-            </p>
-            <p>
-              If it seems like a good match then a visit is arranged to meet the dog. Sometimes
-              a home is approved to adopt a YCRAA Chihuahua but it is not the best match for
-              the particular dog requested. The application then remains on file as a
-              &ldquo;Pre-approved Home&rdquo; until the right dog comes along. We often have
-              dogs that have just come in and are not listed yet, but the Adoption Coordinator
-              will know about them. Many of our YCRAA Chihuahuas get matched to applicants that
-              are waiting on our &ldquo;Approved Homes&rdquo; list. Becoming an Approved Home
-              is the best way to be matched with a YCRAA dog.
-            </p>
           </div>
         </div>
       </section>
 
       {/* Cost of Adoption */}
-      <section className="py-14 sm:py-20">
+      <section className="py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-3xl font-bold tracking-tight text-warm-900 sm:text-4xl">
             Cost of an Adoption
@@ -173,16 +177,18 @@ export default function AdoptionPage() {
             </p>
           </div>
 
-          <Image
-            src="/images/articles/chi-fawn3.gif"
-            alt="Chihuahua"
-            width={130}
-            height={140}
-            className="float-right ml-6 mb-4 rounded-lg"
-          />
-          <h3 className="mt-8 text-lg font-semibold text-warm-800">
-            The requested adoption donation of a Chihuahua based on age is as follows:
-          </h3>
+          <div className="mt-8 flex items-start gap-6">
+            <h3 className="text-lg font-semibold text-warm-800">
+              The requested adoption donation of a Chihuahua based on age is as follows:
+            </h3>
+            <Image
+              src="/images/articles/chi-fawn3.gif"
+              alt="Chihuahua"
+              width={100}
+              height={110}
+              className="hidden h-auto w-20 shrink-0 rounded-lg sm:block"
+            />
+          </div>
           <div className="mt-5 overflow-hidden rounded-xl border border-warm-200 bg-white shadow-sm">
             <table className="w-full text-left text-sm">
               <thead>
@@ -220,7 +226,7 @@ export default function AdoptionPage() {
       </section>
 
       {/* Adoption Policies */}
-      <section className="bg-white py-14 sm:py-20">
+      <section className="bg-white py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-3xl font-bold tracking-tight text-warm-900 sm:text-4xl">
             Adoption Policies of YCRAA
@@ -240,29 +246,33 @@ export default function AdoptionPage() {
       </section>
 
       {/* Why We Do Not Place with Intact Animals */}
-      <section className="py-14 sm:py-20">
+      <section className="py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-2xl font-bold tracking-tight text-warm-900 sm:text-3xl">
             Why we do not place dogs in homes with intact animals.
           </h2>
-          <div className="mt-6 space-y-5 text-base leading-relaxed text-warm-700">
+          <div className="mt-6 flex gap-6">
             <Image
               src="/images/articles/chi-fawn2.gif"
               alt="Chihuahua"
-              width={140}
-              height={130}
-              className="float-left mr-6 mb-4 rounded-lg"
+              width={120}
+              height={110}
+              className="hidden h-auto w-24 shrink-0 self-start rounded-lg sm:block"
             />
-            <p>
-              We are often asked, &ldquo;Why will you not place a Yankee Chihuahua in a home
-              with dogs that have not been neutered?&rdquo;
-            </p>
-            <p>
-              The main reason we will not place a Yankee Chihuahua in a home where the current
-              pets have not been neutered, is because we want to place our Chihuahuas in homes
-              with responsible owners. Responsible owners take good care of their pets and do
-              the best thing for them -- which includes Neutering.
-            </p>
+            <div className="space-y-5 text-base leading-relaxed text-warm-700">
+              <p>
+                We are often asked, &ldquo;Why will you not place a Yankee Chihuahua in a home
+                with dogs that have not been neutered?&rdquo;
+              </p>
+              <p>
+                The main reason we will not place a Yankee Chihuahua in a home where the current
+                pets have not been neutered, is because we want to place our Chihuahuas in homes
+                with responsible owners. Responsible owners take good care of their pets and do
+                the best thing for them -- which includes Neutering.
+              </p>
+            </div>
+          </div>
+          <div className="mt-5 space-y-5 text-base leading-relaxed text-warm-700">
             <p className="font-semibold text-warm-800">
               There are several health benefits to neutering.
             </p>
@@ -319,44 +329,46 @@ export default function AdoptionPage() {
       </section>
 
       {/* Senior Dogs */}
-      <section className="bg-white py-14 sm:py-20">
+      <section className="bg-white py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-3xl font-bold tracking-tight text-warm-900 sm:text-4xl">
             Senior Dogs &mdash; &ldquo;Golden Oldies&rdquo;
           </h2>
           <div className="mx-auto mt-2 h-1 w-16 rounded-full bg-amber-400" />
-          <div className="mt-6 space-y-5 text-base leading-relaxed text-warm-700">
+          <div className="mt-6 flex gap-6">
+            <div className="space-y-5 text-base leading-relaxed text-warm-700">
+              <p>
+                Adopting a senior dog can be an extremely rewarding experience. It is not for
+                everyone, but those who have the time and the heart to take in a senior are
+                usually richly rewarded. Many of these dogs lost loving homes when an owner died
+                or became too ill to care for them. A few were discarded when they developed
+                health problems, and no one cared enough to get treatment for them.
+              </p>
+              <p>
+                Others are casualties of a divorce or a move to a place where dogs are not
+                allowed. They are often frightened at first, and confused by the loss of a
+                long-familiar home. It can take a little extra time and patience to convince them
+                that they can be safe and loved again. Once they feel secure, though, they seem
+                to know they&apos;ve been given a second chance at life. They don&apos;t ask for
+                much: just a warm place to sleep, good meals, and plenty of love. They will not
+                be with you as long as a younger dog - but you will have given them years of love
+                in place of fear, confusion, and a premature death. And the love and gratitude
+                they give in return is a very special thing.
+              </p>
+              <p>
+                If you would consider adopting an older dog, please fill in an application. Often
+                these wonderful dogs need a new home quickly. If we have your application and are
+                on our waiting list they can be adopted right to you and the trauma of losing
+                their home is greatly reduced.
+              </p>
+            </div>
             <Image
               src="/images/articles/chi-older.gif"
               alt="Senior Chihuahua"
               width={130}
               height={160}
-              className="float-right ml-6 mb-4 rounded-lg"
+              className="hidden h-auto w-24 shrink-0 self-start rounded-lg sm:block"
             />
-            <p>
-              Adopting a senior dog can be an extremely rewarding experience. It is not for
-              everyone, but those who have the time and the heart to take in a senior are
-              usually richly rewarded. Many of these dogs lost loving homes when an owner died
-              or became too ill to care for them. A few were discarded when they developed
-              health problems, and no one cared enough to get treatment for them.
-            </p>
-            <p>
-              Others are casualties of a divorce or a move to a place where dogs are not
-              allowed. They are often frightened at first, and confused by the loss of a
-              long-familiar home. It can take a little extra time and patience to convince them
-              that they can be safe and loved again. Once they feel secure, though, they seem
-              to know they&apos;ve been given a second chance at life. They don&apos;t ask for
-              much: just a warm place to sleep, good meals, and plenty of love. They will not
-              be with you as long as a younger dog - but you will have given them years of love
-              in place of fear, confusion, and a premature death. And the love and gratitude
-              they give in return is a very special thing.
-            </p>
-            <p>
-              If you would consider adopting an older dog, please fill in an application. Often
-              these wonderful dogs need a new home quickly. If we have your application and are
-              on our waiting list they can be adopted right to you and the trauma of losing
-              their home is greatly reduced.
-            </p>
           </div>
 
           <h3 className="mt-8 text-lg font-semibold text-warm-800">
@@ -376,7 +388,7 @@ export default function AdoptionPage() {
       </section>
 
       {/* State Coordinators */}
-      <section className="py-14 sm:py-20">
+      <section className="py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-2xl font-bold tracking-tight text-warm-900 sm:text-3xl">
             Contact Your State Coordinator
@@ -404,7 +416,7 @@ export default function AdoptionPage() {
       </section>
 
       {/* Past Adoptions Info */}
-      <section className="bg-white py-14 sm:py-20">
+      <section className="bg-white py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-2xl font-bold tracking-tight text-warm-900 sm:text-3xl">
             Information about Past Yankee Chihuahua Adoptions
@@ -434,7 +446,7 @@ export default function AdoptionPage() {
       </section>
 
       {/* Quote */}
-      <section className="bg-gradient-to-br from-warm-800 to-warm-900 py-14 sm:py-20">
+      <section className="bg-gradient-to-br from-warm-800 to-warm-900 py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6 text-center">
           <Image
             src="/images/articles/chi-wh-lt.gif"

@@ -39,24 +39,19 @@ export default function VolunteerPage() {
   return (
     <div>
       {/* Header */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-amber-50 via-cream to-coral-50 py-16 sm:py-24">
+      <section className="relative overflow-hidden bg-gradient-to-br from-amber-50 via-cream to-coral-50 py-10 sm:py-14">
         <div className="relative mx-auto max-w-7xl px-6 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
-            Ever thought of volunteering for Chihuahua rescue?
+            Volunteer for Chihuahua Rescue
           </h1>
-          <p className="mx-auto mt-5 max-w-2xl text-base leading-relaxed text-warm-600 sm:text-lg">
+          <p className="mx-auto mt-4 max-w-2xl text-base leading-relaxed text-warm-600 sm:text-lg">
             Volunteer opportunities are available in a variety of areas
           </p>
-          <div className="mt-8 flex items-center justify-center gap-6">
-            <Image src="/images/scraped/images/holidays/st-patrick/chi-st-patrick-pub2.png" alt="Chihuahua at the pub" width={140} height={140} className="h-auto w-28 sm:w-36" />
-            <Image src="/images/scraped/images/holidays/st-patrick/chix2---happy-st-patrick-day.jpg" alt="Happy St. Patrick's Day Chihuahuas" width={160} height={100} className="h-auto w-32 rounded-lg sm:w-40" />
-            <Image src="/images/scraped/images/holidays/st-patrick/chi-st-patrick01.jpg" alt="Chihuahua St. Patrick's Day" width={140} height={140} className="hidden h-auto w-28 rounded-lg sm:block sm:w-36" />
-          </div>
         </div>
       </section>
 
       {/* Volunteer Opportunities */}
-      <section className="py-14 sm:py-20">
+      <section className="py-10 sm:py-14">
         <div className="mx-auto max-w-7xl px-6">
           <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
             {roles.map((role) => (
@@ -74,7 +69,7 @@ export default function VolunteerPage() {
       </section>
 
       {/* Call to Action */}
-      <section className="bg-gradient-to-br from-warm-800 via-warm-900 to-warm-900 py-14 sm:py-20">
+      <section className="bg-gradient-to-br from-warm-800 via-warm-900 to-warm-900 py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6 text-center">
           <h2 className="text-2xl font-bold text-amber-100 sm:text-3xl">
             Just a few hours can make a difference in the life of a homeless Chihuahua
@@ -109,12 +104,14 @@ export default function VolunteerPage() {
       </section>
 
       {/* YCRAA Objectives */}
-      <section className="py-14 sm:py-20">
+      <section className="py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
-          <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
-            YCRAA objectives:
-          </h2>
-          <ul className="mt-6 space-y-4">
+          <div className="flex gap-6">
+            <div className="flex-1">
+              <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
+                YCRAA objectives:
+              </h2>
+              <ul className="mt-6 space-y-4">
             {objectives.map((item, idx) => {
               const isComplex = typeof item === "object";
               return (
@@ -141,19 +138,22 @@ export default function VolunteerPage() {
               );
             })}
           </ul>
-          <div className="mt-6 space-y-3 text-warm-700">
-            <p>Each home is carefully screened before placement.</p>
-            <p>
-              Each dog is evaluated for temperament, has a vet exam, is up to date on all
-              shots, and receives whatever other vet care is needed. Adult dogs are also
-              spayed or neutered before adoption.
-            </p>
+              <div className="mt-6 space-y-3 text-warm-700">
+                <p>Each home is carefully screened before placement.</p>
+                <p>
+                  Each dog is evaluated for temperament, has a vet exam, is up to date on all
+                  shots, and receives whatever other vet care is needed. Adult dogs are also
+                  spayed or neutered before adoption.
+                </p>
+              </div>
+            </div>
+            <Image src="/images/scraped/images/holidays/st-patrick/chix2---happy-st-patrick-day.jpg" alt="Happy St. Patrick's Day Chihuahuas" width={140} height={90} className="hidden h-auto w-32 shrink-0 self-start rounded-lg sm:block" />
           </div>
         </div>
       </section>
 
       {/* Quote */}
-      <section className="bg-gradient-to-br from-warm-800 to-warm-900 py-14 sm:py-20">
+      <section className="bg-gradient-to-br from-warm-800 to-warm-900 py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6 text-center">
           <p className="text-base italic text-amber-100 sm:text-lg">
             The basis of all animal rights should be the Golden Rule:

@@ -7,7 +7,7 @@ export default function EventsPage() {
   return (
     <div className="bg-cream">
       {/* Header */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-16 pt-24 sm:pb-20 sm:pt-32">
+      <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-8 pt-14 sm:pb-10 sm:pt-16">
         <div className="relative mx-auto max-w-4xl px-6 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
             Current Events
@@ -16,7 +16,7 @@ export default function EventsPage() {
       </section>
 
       {/* Main Content */}
-      <section className="py-16 sm:py-24">
+      <section className="py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <div className="flex flex-col items-center gap-10 sm:flex-row sm:items-start">
             <Image
@@ -52,7 +52,7 @@ export default function EventsPage() {
       </section>
 
       {/* Support CTA */}
-      <section className="bg-white py-16 sm:py-24">
+      <section className="bg-white py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6 text-center">
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
             Support Yankee Chihuahua Rescue
@@ -62,12 +62,14 @@ export default function EventsPage() {
             donating, volunteering, or shopping through iGive.
           </p>
           <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
-            <Link
-              href="/donate"
+            <a
+              href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=S69AP6GHFKRUS"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center rounded-full bg-coral-500 px-8 py-3.5 text-sm font-semibold text-white shadow-sm transition-all hover:bg-coral-400"
             >
-              Donate via iGive
-            </Link>
+              Donate via PayPal
+            </a>
             <Link
               href="/volunteer"
               className="inline-flex items-center rounded-full border-2 border-amber-500 px-8 py-3.5 text-sm font-semibold text-amber-700 transition-colors hover:bg-amber-50"

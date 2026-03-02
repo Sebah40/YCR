@@ -5,7 +5,7 @@ export const metadata = { title: "The Chihuahua" };
 export default function TheChihuahuaPage() {
   return (
     <div className="bg-cream">
-      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-16 pt-20 text-center">
+      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-8 pt-14 text-center">
         <div className="mx-auto max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
             The Chihuahua
@@ -15,7 +15,7 @@ export default function TheChihuahuaPage() {
       </section>
 
       <div className="mx-auto max-w-4xl px-6 pb-24">
-        <article className="prose-warm py-16">
+        <article className="prose-warm py-10">
           <div className="space-y-6 text-base leading-relaxed text-warm-700">
             <p>
               The Chihuahua is the smallest breed of dog in the world and is named after the

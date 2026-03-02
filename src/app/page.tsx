@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowRight, Gift } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 import FallingLeaves from "@/components/FallingLeaves";
 
 export default function Home() {
@@ -94,68 +94,68 @@ export default function Home() {
       </section>
 
       {/* Donations Section */}
-      <section className="bg-white py-14 sm:py-20">
-        <div className="mx-auto max-w-6xl px-6">
+      <section className="bg-white py-10 sm:py-14">
+        <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-center text-3xl font-bold tracking-tight text-warm-900 sm:text-4xl">
             Donations are welcomed
           </h2>
-          <div className="mt-10 grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4 lg:grid-cols-4">
-            {["Collars", "Bedding", "Sweaters", "Coats", "Coupons", "Pee Pads", "Crates", "Toys"].map((item) => (
-              <div key={item} className="flex flex-col items-center rounded-xl border border-warm-100 bg-white p-5 text-center shadow-sm transition-all hover:shadow-md">
-                <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-amber-50 text-amber-500">
-                  <Gift className="h-5 w-5" strokeWidth={1.5} />
-                </div>
-                <p className="mt-2.5 text-sm font-semibold text-warm-800">{item}</p>
-              </div>
-            ))}
-          </div>
-          <p className="mt-5 text-center text-warm-600">
-            Services are always much appreciated.
-          </p>
-          <p className="mt-3 text-center text-sm text-warm-500">
-            To donate items please send details of all items in an email to{" "}
-            <a href="mailto:info@yankeechihuahuarescue.org" className="text-amber-600 underline">
-              info@yankeechihuahuarescue.org
-            </a>
-          </p>
-          <p className="mt-1 text-center text-sm text-warm-500">
-            Please remember to include your Contact information, Company name and Location.
-          </p>
-          <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
+
+          {/* Donate buttons */}
+          <div className="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <a
               href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=S69AP6GHFKRUS"
               target="_blank"
               rel="noopener noreferrer"
-              className="transition-opacity hover:opacity-80"
+              className="inline-flex items-center gap-3 rounded-full bg-coral-500 px-8 py-3.5 text-base font-semibold text-white shadow-sm transition-colors hover:bg-coral-600"
             >
               <Image
                 src="/images/scraped/images/paypal-donate/paypal-donate.png"
-                alt="Donate via PayPal"
-                width={120}
-                height={80}
-                className="h-auto w-28"
+                alt="PayPal"
+                width={80}
+                height={20}
+                className="h-5 w-auto brightness-0 invert"
               />
+              Donate via PayPal
             </a>
             <a
               href="https://gofund.me/a6cb95fec"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center rounded-full bg-amber-400 px-6 py-2.5 text-sm font-semibold text-warm-900 shadow transition-all hover:bg-amber-300"
+              className="inline-flex items-center rounded-full bg-amber-500 px-8 py-3.5 text-base font-semibold text-white shadow-sm transition-colors hover:bg-amber-600"
             >
-              GoFundMe
+              Donate via GoFundMe
             </a>
+          </div>
+
+          {/* Item donations */}
+          <div className="mt-8 rounded-xl border border-warm-100 bg-warm-50 p-6 text-center">
+            <p className="text-sm font-semibold text-warm-800">We also accept item donations</p>
+            <p className="mt-2 text-sm text-warm-600">
+              Collars, Bedding, Sweaters, Coats, Coupons, Pee Pads, Crates, Toys &mdash; services are always appreciated.
+            </p>
+            <p className="mt-2 text-sm text-warm-500">
+              Email details to{" "}
+              <a href="mailto:info@yankeechihuahuarescue.org" className="text-amber-600 underline">
+                info@yankeechihuahuarescue.org
+              </a>
+            </p>
+          </div>
+
+          {/* iGive - shopping, not donation */}
+          <div className="mt-6 text-center">
             <Link
               href="/donate"
               className="inline-flex items-center rounded-full border border-warm-300 px-6 py-2.5 text-sm font-semibold text-warm-700 transition-colors hover:border-amber-400 hover:bg-amber-50"
             >
-              Donate via iGive
+              Shop via iGive
             </Link>
+            <p className="mt-2 text-xs text-warm-500">You shop. Your cause gets money. For free.</p>
           </div>
         </div>
       </section>
 
       {/* Volunteer CTA */}
-      <section className="bg-gradient-to-br from-warm-800 via-warm-900 to-warm-900 py-14 sm:py-20">
+      <section className="bg-gradient-to-br from-warm-800 via-warm-900 to-warm-900 py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6 text-center">
           <h2 className="text-3xl font-bold tracking-tight text-amber-100 sm:text-4xl">
             Yankee Chihuahua Rescue is looking for dedicated people
@@ -176,7 +176,7 @@ export default function Home() {
       </section>
 
       {/* Bottom Quote & Thanks */}
-      <section className="py-14 sm:py-20">
+      <section className="py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6 text-center">
           <Image
             src="/images/imgA4.jpg"

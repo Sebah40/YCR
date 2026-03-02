@@ -230,7 +230,7 @@ export default function HappyEndingsPage() {
   return (
     <div className="bg-cream">
       {/* Header */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-14 pt-16 text-center">
+      <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-8 pt-14 text-center">
         <div className="relative mx-auto max-w-4xl px-6">
           <div className="mb-5 inline-flex items-center gap-2 rounded-full bg-coral-100 px-4 py-1.5 text-[13px] font-medium text-coral-700">
             <Heart className="h-3.5 w-3.5" strokeWidth={2} fill="currentColor" />
@@ -256,7 +256,7 @@ export default function HappyEndingsPage() {
       </section>
 
       {/* Success Stories Intro */}
-      <section className="mx-auto max-w-4xl px-6 py-14 text-center">
+      <section className="mx-auto max-w-4xl px-6 py-10 text-center">
         <h2 className="text-3xl font-bold text-warm-900 sm:text-4xl">Our Success Stories</h2>
         <div className="mx-auto mt-3 h-1 w-16 rounded-full bg-coral-400" />
         <p className="mx-auto mt-6 max-w-2xl text-base leading-relaxed text-warm-600 sm:text-lg">

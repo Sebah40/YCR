@@ -98,7 +98,7 @@ const scoring = [
 export default function ResponsiblePetParentPage() {
   return (
     <div className="bg-cream">
-      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-16 pt-20 text-center">
+      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-8 pt-14 text-center">
         <div className="mx-auto max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
             Are You a Responsible Pet Parent?
@@ -110,7 +110,7 @@ export default function ResponsiblePetParentPage() {
       </section>
 
       <div className="mx-auto max-w-4xl px-6 pb-24">
-        <div className="space-y-16 py-16">
+        <div className="space-y-12 py-10">
           {questions.map((q, qIdx) => (
             <div key={qIdx}>
               <h2 className="text-xl font-bold text-warm-900">

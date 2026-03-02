@@ -1,25 +1,25 @@
 import Image from "next/image";
 
-export const metadata = { title: "Donate via iGive" };
+export const metadata = { title: "Support YCR via iGive" };
 
 export default function DonatePage() {
   return (
     <div className="bg-cream">
       {/* Header */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-16 pt-24 sm:pb-20 sm:pt-32">
+      <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-8 pt-14 sm:pb-10 sm:pt-16">
         <div className="relative mx-auto max-w-4xl px-6 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
-            Support YCR through iGive
+            Shop to Support YCR
           </h1>
-          <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-warm-600">
-            #GiveToReceive &mdash; Help Yankee Chihuahua Rescue and Adoption every time
-            you shop online
+          <p className="mx-auto mt-4 max-w-2xl text-lg leading-relaxed text-warm-600">
+            You shop. Your cause gets money. For free. &mdash; Help Yankee Chihuahua Rescue
+            every time you shop online through iGive.
           </p>
         </div>
       </section>
 
       {/* iGive Logo & Intro */}
-      <section className="py-16 sm:py-24">
+      <section className="py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6 text-center">
           <a
             href="http://www.igive.com/html/refer.cfm?causeid=47590"
@@ -54,7 +54,7 @@ export default function DonatePage() {
       </section>
 
       {/* Members */}
-      <section className="bg-white py-16 sm:py-24">
+      <section className="bg-white py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6 text-center">
           <a
             href="http://www.igive.com/html/refer.cfm?causeid=47590"
@@ -77,7 +77,7 @@ export default function DonatePage() {
       </section>
 
       {/* Store Logos */}
-      <section className="py-16 sm:py-24">
+      <section className="py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6 text-center">
           <a
             href="http://www.igive.com/html/refer.cfm?causeid=47590"
@@ -96,7 +96,7 @@ export default function DonatePage() {
       </section>
 
       {/* How it Works */}
-      <section className="bg-white py-16 sm:py-24">
+      <section className="bg-white py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-center text-2xl font-bold text-warm-900 sm:text-3xl">
             How it works
@@ -154,7 +154,7 @@ export default function DonatePage() {
       </section>
 
       {/* iSearchiGive Banner */}
-      <section className="bg-white py-12 sm:py-16">
+      <section className="bg-white py-8 sm:py-12">
         <div className="mx-auto max-w-4xl px-6 text-center">
           <p className="mb-6 text-lg font-medium text-warm-700">
             Our animal rescue earns money every time you search.
@@ -195,7 +195,7 @@ export default function DonatePage() {
       </section>
 
       {/* PayPal */}
-      <section className="py-16 sm:py-24">
+      <section className="py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6 text-center">
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
             Donate directly via PayPal
@@ -223,7 +223,7 @@ export default function DonatePage() {
       </section>
 
       {/* CTA */}
-      <section className="bg-gradient-to-br from-warm-800 to-warm-900 py-16 sm:py-20">
+      <section className="bg-gradient-to-br from-warm-800 to-warm-900 py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6 text-center">
           <Image
             src="/images/scraped/images/holidays/new-year/chi-synth02.png"

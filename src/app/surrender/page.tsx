@@ -25,7 +25,7 @@ export default function SurrenderPage() {
   return (
     <div className="bg-cream">
       {/* Header */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-warm-100 to-cream pb-14 pt-20 sm:pb-16 sm:pt-28">
+      <section className="relative overflow-hidden bg-gradient-to-b from-warm-100 to-cream pb-8 pt-14 sm:pb-10 sm:pt-16">
         <div className="relative mx-auto max-w-4xl px-6 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
             Surrendering your Chihuahua
@@ -34,7 +34,7 @@ export default function SurrenderPage() {
       </section>
 
       {/* ID Badge Warning */}
-      <section className="py-14 sm:py-20">
+      <section className="py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <div className="rounded-xl border-2 border-coral-300 bg-coral-50 p-6 sm:p-8">
             <div className="flex items-start gap-4">
@@ -60,7 +60,7 @@ export default function SurrenderPage() {
       </section>
 
       {/* Main Content */}
-      <section className="bg-white py-14 sm:py-20">
+      <section className="bg-white py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <div className="space-y-5 text-base leading-relaxed text-warm-700 sm:text-lg">
             <Image
@@ -89,7 +89,7 @@ export default function SurrenderPage() {
       </section>
 
       {/* What Happens */}
-      <section className="py-14 sm:py-20">
+      <section className="py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-3xl font-bold text-warm-900 sm:text-4xl">
             What happens when I surrender my dog to rescue?
@@ -127,7 +127,7 @@ export default function SurrenderPage() {
       </section>
 
       {/* Requirements */}
-      <section className="bg-white py-14 sm:py-20">
+      <section className="bg-white py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-3xl font-bold text-warm-900 sm:text-4xl">
             The surrendered dogs must
@@ -147,7 +147,7 @@ export default function SurrenderPage() {
       </section>
 
       {/* Surrender Process */}
-      <section className="py-14 sm:py-20">
+      <section className="py-10 sm:py-14">
         <div className="mx-auto max-w-5xl px-6">
           <h2 className="text-3xl font-bold text-warm-900 sm:text-4xl">
             The Surrender Process
@@ -174,7 +174,7 @@ export default function SurrenderPage() {
       </section>
 
       {/* Take the Time */}
-      <section className="bg-white py-14 sm:py-20">
+      <section className="bg-white py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
             Take the time to be sure surrender is the right thing to do for your dog and

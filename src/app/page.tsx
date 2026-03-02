@@ -46,34 +46,34 @@ export default function Home() {
                 </Link>
               </div>
             </div>
-            <div className="relative mx-auto max-w-md lg:max-w-none">
-              <div className="overflow-hidden rounded-3xl shadow-2xl shadow-warm-400/20">
+            <div className="relative mx-auto lg:mx-0">
+              <div className="min-h-[400px] overflow-hidden rounded-3xl shadow-2xl shadow-warm-400/20">
                 <Image
                   src="/images/hero.jpg"
                   alt="Chihuahua available for adoption"
-                  width={600}
-                  height={500}
+                  width={800}
+                  height={600}
                   className="h-auto w-full object-cover"
                   priority
                 />
               </div>
-              <div className="absolute -bottom-4 -left-4 overflow-hidden rounded-2xl shadow-lg ring-4 ring-cream">
+              <div className="absolute -bottom-6 -left-6 overflow-hidden rounded-2xl shadow-lg ring-4 ring-cream">
                 <Image
                   src="/images/holly.jpg"
                   alt="Holly (adopted)"
-                  width={120}
-                  height={120}
-                  className="h-24 w-24 object-cover"
+                  width={160}
+                  height={160}
+                  className="h-32 w-32 object-cover"
                 />
                 <p className="bg-white px-2 py-1 text-center text-xs font-medium text-warm-700">Holly (adopted)</p>
               </div>
-              <div className="absolute -right-4 -top-4 overflow-hidden rounded-2xl shadow-lg ring-4 ring-cream">
+              <div className="absolute -right-6 -top-6 overflow-hidden rounded-2xl shadow-lg ring-4 ring-cream">
                 <Image
                   src="/images/baby.jpg"
                   alt="Baby (adopted)"
-                  width={100}
-                  height={100}
-                  className="h-20 w-20 object-cover"
+                  width={140}
+                  height={140}
+                  className="h-28 w-28 object-cover"
                 />
                 <p className="bg-white px-2 py-1 text-center text-xs font-medium text-warm-700">Baby (adopted)</p>
               </div>

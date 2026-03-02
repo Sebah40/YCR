@@ -3,6 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
+import ThemeToggle from "./ThemeToggle";
 
 const navLinks = [
   { href: "/about", label: "About" },
@@ -62,6 +63,9 @@ export default function Navigation() {
             </a>
           </li>
           <li className="ml-1">
+            <ThemeToggle />
+          </li>
+          <li className="ml-1">
             <Link
               href="/adoption"
               className="rounded-full bg-coral-500 px-5 py-2 text-sm font-semibold text-white transition-colors hover:bg-coral-600"
@@ -96,6 +100,9 @@ export default function Navigation() {
       {mobileOpen && (
         <div className="xl:hidden border-t border-amber-100 bg-white px-6 pb-4">
           <ul className="flex flex-col gap-1 pt-2">
+            <li className="flex justify-center pb-1">
+              <ThemeToggle />
+            </li>
             {navLinks.map((link) => (
               <li key={link.href}>
                 <Link

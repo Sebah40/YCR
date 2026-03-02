@@ -48,3 +48,31 @@ body {
 html {
   scroll-behavior: smooth;
 }
+
+/* St. Patrick's Day theme overrides */
+[data-theme="st-patrick"] {
+  --color-warm-50: #f0fdf4;
+  --color-warm-100: #dcfce7;
+  --color-warm-200: #bbf7d0;
+  --color-warm-300: #4ade80;
+  --color-warm-400: #22c55e;
+  --color-warm-500: #16a34a;
+  --color-warm-600: #15803d;
+  --color-warm-700: #166534;
+  --color-warm-800: #14532d;
+  --color-warm-900: #052e16;
+
+  --color-coral-50: #ecfdf5;
+  --color-coral-100: #d1fae5;
+  --color-coral-200: #a7f3d0;
+  --color-coral-300: #6ee7b7;
+  --color-coral-400: #34d399;
+  --color-coral-500: #10b981;
+  --color-coral-600: #059669;
+  --color-coral-700: #047857;
+  --color-coral-800: #065f46;
+  --color-coral-900: #064e3b;
+
+  --color-cream: #f0fdf4;
+  --color-cream-dark: #dcfce7;
+}

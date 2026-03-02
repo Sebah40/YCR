@@ -1,0 +1,134 @@
+# Page: volunteer
+# Source: /m-volunteer.html
+
+## IMAGES ON THIS PAGE:
+  - src: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+    alt: Happy St. Patrick's Day
+    width: 298
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: images/holidays/St%20Patrick/Chi%20St%20Patrick%20pub2.png
+    alt: 
+    width: 207
+  - src: images/holidays/St%20Patrick/Chi%20St%20Patrick01.jpg
+    alt: 
+    width: 224
+  - src: images/holidays/St%20Patrick/ChiX2%20-%20happy%20st%20patrick%20day.jpg
+    alt: 
+    width: 226
+  - src: images/holidays/St%20Patrick/clover%20border%20right.png
+    alt: 
+    width: 115
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=211]
+ | Serving the Six New England States
+
+[IMAGE: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png | alt="Happy St. Patrick's Day" | align= | width=298]
+ | [LINK:i-give.html]iGive.com
+
+[LINK:happydogs/reconstruction.html]Happy Endings
+
+[LINK:events.html]Current Events
+
+[LINK:guest/index.php]Guest Book
+
+[LINK:https://gofund.me/a6cb95fec]GoFundMe
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | [LINK:index.html]
+[IMAGE: images/button68.gif | alt="Home" | align= | width=100]
+[LINK:m-about.html]
+[IMAGE: images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:m-info.html]
+[IMAGE: images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:m-volunteer.html]
+[IMAGE: images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:m-adopt.html]
+[IMAGE: images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:m-surrender.html]
+[IMAGE: images/button80.gif | alt="Surrender" | align= | width=100]
+ | 
+
+[LINK:i-give.html]
+[IMAGE: images/Save-a-Dog.gif | alt="Save a Dog via iGive" | align= | width=120]
+
+|  | 
+
+[IMAGE: images/holidays/St%20Patrick/Chi%20St%20Patrick%20pub2.png | alt="" | align= | width=207]
+
+[IMAGE: images/holidays/St%20Patrick/Chi%20St%20Patrick01.jpg | alt="" | align= | width=224]
+
+ | 
+## Ever thought of volunteering for Chihuahua rescue?
+Volunteer opportunities are available in a variety of areas
+
+- monitoring shelters, notifying YCRAA about Chihuahuas that may be there
+- providing permanent foster homes for special-needs Chihuahuas
+[IMAGE: images/holidays/St%20Patrick/ChiX2%20-%20happy%20st%20patrick%20day.jpg | alt="" | align= | width=226]
+
+- maintaining contact with shelters and other rescue groups
+- manning the YCRAA booth at fairs and shows
+- screening applicants via telephoning and home visits
+- educating the public about the 'real' Chihuahua
+- creating and maintaining public relations and websites
+- writing articles for our newsletter, website, etc.
+- following up on adoption placements
+- providing foster homes
+- transporting YCRAA dogs
+- maintaining records
+- responding to inquirers
+- fundraising
+- andmore!!
+#### Just a few hours can make a difference in the life of a homeless Chihuahua
+
+All these roles are critical to our success. Can you help?
+For more information email us:[LINK:mailto:volunteer@yankeechihuahuarescue.org?subject=I'd like more information about Volunteering]volunteer@yankeechihuahuarescue.org
+
+[LINK:form/appi-volunteer-formspree.html]Volunteer Application[LINK:form/appi-foster-formspree.html]Foster Home Application
+
+#### YCRAA objectives:
+
+- Rehabilitate and place homeless Chihuahuas and Chihuahua mixes in homes that meet the needs of each dog.
+- Promote responsible pet guardianship through education, resulting in a rewarding experience and relationship
+
+- How to choose the right dog.
+- Care for it.
+- The importance of proper socialization.
+- Build good working relationships with veterinary professionals, other reputable animal rescue associations and dog training organizations.
+- Ensure, to the best of our ability, that every dog placed will never be homeless again.
+
+Each home is carefully screened before placement.
+
+Each dog is evaluated for temperament, has a vet exam, is up to date on all shots, and receives whatever other vet care is needed. Adult dogs are also spayed or neutered before adoption.
+ | 
+
+The basis of all animal rights should be the Golden Rule:
+
+We should treat them as we would wish them to treat us, were any other species in our dominant position.
+
+~Christine Stevens
+
+[IMAGE: images/holidays/St%20Patrick/clover%20border%20right.png | alt="" | align= | width=115]
+
+|  |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: images/iSearchiGive.gif | alt="iGive.com" | align= | width=460]
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+ | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+
+[/TABLE]

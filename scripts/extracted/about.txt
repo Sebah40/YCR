@@ -1,0 +1,128 @@
+# Page: about
+# Source: /m-about.html
+
+## IMAGES ON THIS PAGE:
+  - src: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+    alt: Happy St. Patrick's Day
+    width: 298
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: images/holidays/St%20Patrick/Chi%20St%20Patrick%20lucky%20charm.png
+    alt: 
+    width: 366
+  - src: images/holidays/St%20Patrick/Chi%20St%20Patrick%20lucky%20dog.gif
+    alt: 
+    width: 287
+  - src: images/holidays/St%20Patrick/clover%20border%20right.png
+    alt: 
+    width: 115
+  - src: images/holidays/St%20Patrick/clover%20border%20right.png
+    alt: 
+    width: 115
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=211]
+ | Serving the Six New England States
+
+[IMAGE: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png | alt="Happy St. Patrick's Day" | align= | width=298]
+ | [LINK:i-give.html]iGive.com
+
+[LINK:happydogs/reconstruction.html]Happy Endings
+
+[LINK:events.html]Current Events
+
+[LINK:guest/index.php]Guest Book
+
+[LINK:https://gofund.me/a6cb95fec]GoFundMe
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | [LINK:index.html]
+[IMAGE: images/button68.gif | alt="Home" | align= | width=100]
+[LINK:m-about.html]
+[IMAGE: images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:m-info.html]
+[IMAGE: images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:m-volunteer.html]
+[IMAGE: images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:m-adopt.html]
+[IMAGE: images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:m-surrender.html]
+[IMAGE: images/button80.gif | alt="Surrender" | align= | width=100]
+ | 
+
+[LINK:i-give.html]
+[IMAGE: images/Save-a-Dog.gif | alt="Save a Dog via iGive" | align= | width=120]
+
+|  | 
+
+[IMAGE: images/holidays/St%20Patrick/Chi%20St%20Patrick%20lucky%20charm.png | alt="" | align= | width=366]
+
+[IMAGE: images/holidays/St%20Patrick/Chi%20St%20Patrick%20lucky%20dog.gif | alt="" | align= | width=287]
+
+ | 
+# About Yankee Chihuahua Rescue and Adoption
+
+YCRAA is a small group of dedicated, unpaid volunteer dog lovers whose mission is to rescue, provide sanctuary, and ultimately to re-home abandoned, stray and neglected Chihuahuas. We also assist dogs who, because of extenuating circumstances, are unable to remain in their homes with their owners.
+
+We operate this rescue in our free time, aside from full-time jobs. Our dogs reside in foster homes. This provides a 'home' environment and the time to over come any difficulties medically or socially and provides an easier transition into an adoptive home. Our goal is to find only the best homes for the dogs in our care.
+
+Founded in 2000, YCRAA’s ultimate goal is to create a world where all Chihuahuas and Chi mixes have loving, permanent. Where no good natured dog, no matter what their age, are considered to be surplus or un-adoptable.
+
+All YCRAA Chihuahuas and Chihuahua mixes are brought up to date on shots and spayed or neutered prior to adoption.
+If you love dogs as much as we do, then please consider helping our rescue efforts.
+You can help in the following areas:
+
+- Foster care
+Giving a homeless Chihuahua a temporary home. Sometimes these Chihuahuas are one step away from being euthanized. The stories of their lives can be heart wrenching, but you can help to start them on their road to a happy ending!
+- Reference check assistance
+We ask all adopters for a personal references and a vet reference. The average reference check takes 10 minutes. A form will guide you through a list of questions.
+- Transport assistance
+We need drivers to pick up dogs and bring them to foster homes, vet visits, grooming appointments. The average time commitment is 2 hours.
+- Adoption follow-up assistance and "Happy Endings" write-ups
+We need assistance following up on recent adoptions, and a friendly phone call to past adopters. Our "Happy Endings" are in need of up dating.
+
+- Administrative assistancee
+We need assistance in updating our standard adoption contracts and other related forms. If you have a computer and a few spare hours, please let us know..
+
+If interested in any of the above, please send an email toIf interested in any of the above, please send an email to[LINK:mailto:Volunteer@yankeechihuahuarescue.org?subject=Volunteering]Volunteer@yankeechihuahuarescue.org
+
+[LINK:form/appi-volunteer-formspree.html]Volunteer Application[LINK:form/appi-foster-formspree.html]Foster Home Application
+YCRAA objectives are to:
+
+- Rehabilitate and place homeless Chihuahuas and Chihuahua mixes in homes that meet the needs of each dog.
+- Promote responsible pet guardianship through education about how to choose the right dog and care for it, resulting in a rewarding experience.
+- Build good working relationships with veterinary professionals and other reputable animal rescue organizations.
+- Ensure, to the best of our ability, that every dog placed will never be homeless again.
+Each home is carefully screened before placement.
+- Each dog is evaluated for temperament, has a vet exam, is up to date on all shots, and receives whatever other vet care is needed.
+- Adult dogs are spayed or neutered before adoption. | 
+
+Non-violence leads to the highest ethics, which is the goal of all evolution. Until we stop harming all other living beings, we are still savages.
+
+~Thomas A. Edison
+
+[IMAGE: images/holidays/St%20Patrick/clover%20border%20right.png | alt="" | align= | width=115]
+
+[IMAGE: images/holidays/St%20Patrick/clover%20border%20right.png | alt="" | align= | width=115]
+
+|  |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: images/iSearchiGive.gif | alt="iGive.com" | align= | width=460]
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+ | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+
+[/TABLE]

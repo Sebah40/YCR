@@ -1,0 +1,85 @@
+# Page: teacup
+# Source: /i-teacup.html
+
+## IMAGES ON THIS PAGE:
+  - src: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+    alt: Happy St. Patrick's Day
+    width: 298
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=211]
+ | Serving the Six New England States
+
+[IMAGE: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png | alt="Happy St. Patrick's Day" | align= | width=298]
+ | [LINK:i-give.html]iGive.com
+
+[LINK:happydogs/reconstruction.html]Happy Endings
+
+[LINK:events.html]Current Events
+
+[LINK:guest/index.php]Guest Book
+
+[LINK:https://gofund.me/a6cb95fec]GoFundMe
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | [LINK:index.html]
+[IMAGE: images/button68.gif | alt="Home" | align= | width=100]
+[LINK:m-about.html]
+[IMAGE: images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:m-info.html]
+[IMAGE: images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:m-volunteer.html]
+[IMAGE: images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:m-adopt.html]
+[IMAGE: images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:m-surrender.html]
+[IMAGE: images/button80.gif | alt="Surrender" | align= | width=100]
+ | 
+
+[LINK:i-give.html]
+[IMAGE: images/Save-a-Dog.gif | alt="Save a Dog via iGive" | align= | width=120]
+
+|  | 
+
+ | 
+# TeaCup Chihuahuas
+
+## Fact or Myth?
+Sponsored by The Chihuahua Club of America
+
+The official A.K.C. Breed Standard describes the Chihuahua as a small dog that comes in two varieties or coat types. The difference in coat type (the Long Coat or the Smooth Coat) is the only official description used to identify a difference within this breed. Our Standard does not categorize the Chihuahua by size.
+
+For the purpose of showing and record keeping, the American Kennel Club includes the Chihuahua (along with 16 other breeds) in the Toy Group. Therefore, irrespective of their weight or physical stature, ALL Chihuahuas registered with A.K.C. are considered to be a toy breed of dog.
+
+As with all living things, there will be a size variance between individual dogs within this breed. Within the human family, brothers and sisters will differ in height and in weight, as well as other physical attributes. They are described as humans, male or female, and there is seldom if ever a need to break the description down further. The same holds true in regard to the Chihuahua; they are Chihuahuas-Long Coat/Smooth Coat, Male/Female.
+
+Unfortunately, the additional adjectives used to describe the size difference and physical appearances are many; and have been misused for so long they now seem legitimate. Tea-cup, Pocket Size, Tiny Toy, Miniature or Standard - are just a few of the many tags and labels that have been attached to this breed over the years. The Chihuahua Club of America is concerned that these terms may be used to entice prospective buyers into thinking that puppies described in this way are of greater monetary value. They are not; and the use of these terms is incorrect and misleading.
+
+Occasionally, within a litter, there may be a puppy that is unusually small. That puppy is a small Chihuahua and any other breakdown in description is not correct. To attach any of these additional labels to a particular pup is to misrepresent that animal as something that is rare or exceptional and causes a great deal of confusion among those fanciers who are looking for a Chihuahua.
+
+The Chihuahua Club of America does not endorse or condone the use of any of these terms and would caution the prospective puppy buyer not to be misled by them.
+ | 
+
+|  |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: images/iSearchiGive.gif | alt="iGive.com" | align= | width=460]
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+ | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+
+[/TABLE]

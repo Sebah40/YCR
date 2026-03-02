@@ -1,0 +1,127 @@
+# Page: versatile
+# Source: /i-jobs.html
+
+## IMAGES ON THIS PAGE:
+  - src: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+    alt: Happy St. Patrick's Day
+    width: 298
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: im/gr/chi-theraphy-300.jpg
+    alt: Famous Chihuahuas 
+    width: 300
+  - src: im/gr/j-flyball.jpg
+    alt: Famous Chihuahuas 
+    width: 249
+  - src: im/gr/j-max.jpg
+    alt: Famous Chihuahuas 
+    width: 300
+  - src: im/gr/j-wagon.jpg
+    alt: Famous Chihuahuas 
+    width: 300
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=211]
+ | Serving the Six New England States
+
+[IMAGE: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png | alt="Happy St. Patrick's Day" | align= | width=298]
+ | [LINK:i-give.html]iGive.com
+
+[LINK:happydogs/reconstruction.html]Happy Endings
+
+[LINK:events.html]Current Events
+
+[LINK:guest/index.php]Guest Book
+
+[LINK:https://gofund.me/a6cb95fec]GoFundMe
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | [LINK:index.html]
+[IMAGE: images/button68.gif | alt="Home" | align= | width=100]
+[LINK:m-about.html]
+[IMAGE: images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:m-info.html]
+[IMAGE: images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:m-volunteer.html]
+[IMAGE: images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:m-adopt.html]
+[IMAGE: images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:m-surrender.html]
+[IMAGE: images/button80.gif | alt="Surrender" | align= | width=100]
+ | 
+
+[LINK:i-give.html]
+[IMAGE: images/Save-a-Dog.gif | alt="Save a Dog via iGive" | align= | width=120]
+
+|  | 
+
+ | 
+# The Versatile Chihuahua
+
+Cheeky, extrovert, and full of life, the Chihuahua may be the smallest breed in the world, but it has the biggest personality! Many people make the mistake of thinking that toy dogs cannot be trained, but how false this idea is. Agility, Competitive Obedience, Fly Ball, Therapy Dog, Service Dog, Show Dog
+
+### Therapy Chihuahuas
+
+A therapy dog is a dog trained and certified to provide affection and comfort to people in hospitals, retirement homes, nursing homes, mental institutions, schools, and stressful situations such as disaster areas. Institutions may invite, limit, or prohibit access by therapy dogs. If allowed, many institutions have rigorous requirements for therapy dogs.
+
+The most important characteristic of a therapy dog is its temperament. A good therapy dog must be friendly,
+[IMAGE: im/gr/chi-theraphy-300.jpg | alt="Famous Chihuahuas " | align= | width=300]
+patient, confident, at ease in all situations, and gentle. They must enjoy human contact and be content to be petted and handled, sometimes clumsily. A therapy dog's primary job is to allow unfamiliar people to make physical contact with it and to enjoy that contact. Children in particular enjoy hugging animals; adults usually enjoy simply petting the dog. Many dogs contribute to the visiting experience by performing small tricks for their audiences or by playing carefully structured games.
+
+Many organizations provide testing and accreditation for therapy dogs. Most require that a dog pass the equivalent of the American Kennel Club's Canine Good Citizen test, and then add further requirements specific to the environments in which the dogs will be working. Typical tests might ensure that a dog can handle sudden loud or strange noises, can walk on assorted unfamiliar surfaces comfortably, are not frightened by people with canes, wheelchairs, or unusual styles of walking or moving, get along well with children and with the elderly, and so on.
+
+Pet Therapy is a more inclusive terminology regarding the benefits from having a "therapy dog", or other "therapy animals" such as cats and rabbits
+
+---
+
+In the News
+Three little dogs help HUB users in Dover
+
+By HIROKO SATO; Democrat Staff Writer; Dover NH
+
+DOVER — For hundreds of local residents who use the HUB Family Resource Center’s transportation service, three little dogs that accompany the driver are more than just cuddly pets. They are therapeutic dogs, bringing smiles to the faces of 185 families who ride the van to medical and social service appointments, according to Monica Zulauf. Zulauf, director of family services for the resource center on Atkinson Street, knows many of those who ride the van have a tough life. Because of that, the atmosphere in the 15-passenger vehicle can be not so cheerful.
+
+That notion began to change, however, about two years ago, shortly after Martha Bonney took her position as a driver and coordinator of the transportation service. Passengers began to show their affection toward Bonney’s two little "Chiwawas" and one Maltese, which sit on the passenger seats, and the conversation started to pick up. Zulauf saw a woman to whom she provides home-visiting service smiling for the first time when she was talking about the dogs. Dogs seemed to have a relaxing effect on adults and can calm down children who are on their way to medical appointments, Zulauf said.
+
+She said she didn’t know what to make of it when she first saw Bonney driving with Thomas, Trance and Harmond. But they turned out to be "happy accidents," which now serve as "charming additions" to the family resource center’s program, she said. HUB Family Resource Center provides family education and transportation services to about 800 area families. It operates the van service using money provided under the state Health Care Community Grant.
+
+Democrat Staff Writer Hiroko Sato can be reached at 742-4455, Ext. 5313 or hsato@fosters.com
+
+---
+
+[IMAGE: im/gr/j-flyball.jpg | alt="Famous Chihuahuas " | align= | width=249]
+Fly Ball
+Photo by Leah Nash,
+Susan Fletcher's Red Chihuahua Speedy jumps hurdles.
+[IMAGE: im/gr/j-max.jpg | alt="Famous Chihuahuas " | align= | width=300]
+
+Max; AKC Top Dog Agility Chihuahua
+for 2001 and 2002-.
+
+, . Max is 6 years young and stands 9.75 inches tall.
+[IMAGE: im/gr/j-wagon.jpg | alt="Famous Chihuahuas " | align= | width=300]
+Wagon Pulling...?
+Very handy on market day.
+Photo by AP | 
+
+|  |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: images/iSearchiGive.gif | alt="iGive.com" | align= | width=460]
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+ | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+
+[/TABLE]

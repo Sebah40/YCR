@@ -1,0 +1,89 @@
+# Page: chocolate
+# Source: /i-tre-choc.html
+
+## IMAGES ON THIS PAGE:
+  - src: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+    alt: Happy St. Patrick's Day
+    width: 298
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=211]
+ | Serving the Six New England States
+
+[IMAGE: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png | alt="Happy St. Patrick's Day" | align= | width=298]
+ | [LINK:i-give.html]iGive.com
+
+[LINK:happydogs/reconstruction.html]Happy Endings
+
+[LINK:events.html]Current Events
+
+[LINK:guest/index.php]Guest Book
+
+[LINK:https://gofund.me/a6cb95fec]GoFundMe
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | [LINK:index.html]
+[IMAGE: images/button68.gif | alt="Home" | align= | width=100]
+[LINK:m-about.html]
+[IMAGE: images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:m-info.html]
+[IMAGE: images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:m-volunteer.html]
+[IMAGE: images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:m-adopt.html]
+[IMAGE: images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:m-surrender.html]
+[IMAGE: images/button80.gif | alt="Surrender" | align= | width=100]
+ | 
+
+[LINK:i-give.html]
+[IMAGE: images/Save-a-Dog.gif | alt="Save a Dog via iGive" | align= | width=120]
+
+|  | 
+
+ | 
+# Chocolate Poisoning
+
+The National Animal Control Center reports chocolate is one of its most encountered toxins when it come to dogs. What makes chocolate a poison? The answer is in a chemical compound called theobromine in the chocolate.
+
+This chemical compound acts as a heart stimulant, which leads to irregular and racing heartbeats. If this issue is aggravated enough, your dog could suffer heart failure and die. Weight and metabolism rates allow humans to break this compound down quicker, thus making "death by chocolate" much more unlikely. The following is a breakdown of which kind and how much of various chocolates are toxic to dogs. Because white chocolate has little to no cocoa (where most theobromine comes from), it has little if any toxicity.
+
+Milk chocolate: 1 oz. to 1 lb. of dog's weight.
+
+Semisweet chocolate: 1 oz. to 3 lbs. of dog's weight.
+
+Baker’s and dark chocolate: 1 oz. to 9 lbs. of dog's weight.
+
+Cocoa powder: Contains the highest level of theobromine and can vary based on manufacturer and quality of the beans. Special precaution should be taken with the storage of this product, and it should be approached with the same concern as would be cleaning chemicals/children.
+
+Although this is a simple chart to help you understand the small amounts of chocolate that a Chihuahua could ingest before dying, it is important to understand that NO AMOUNT of chocolate is good for your dog. These levels are given under the assumption that the dog ingesting the chocolate is in perfect health. Health problems, especially cardiovascular disease, can reduce these ratios considerably.
+
+If you think that you can hide chocolate from your dog, or trust your dog not to ingest it, you would be wise to rethink this notion.
+If you find chewed-up chocolate wrappers, missing chocolate, or your dog exhibits vomiting, diarrhea, excessive urination and thirst, rapid breathing, or hyperactivity, these are all signs of an increased heart rate and potential poisoning. Later symptoms can be depression, seizures, coma, and death. If chocolate poisoning is suspected, you should visit your vet immediately!
+
+Symptoms begin fairly soon after ingestion, and may last for up to 24 hours as the chemical becomes metabolized. The sooner you see your vet, the better the odds are for your dog’s survival.
+ | 
+
+|  |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: images/iSearchiGive.gif | alt="iGive.com" | align= | width=460]
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+ | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+
+[/TABLE]

@@ -1,0 +1,107 @@
+# Page: bill-of-rights
+# Source: /i-rights.html
+
+## IMAGES ON THIS PAGE:
+  - src: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+    alt: Happy St. Patrick's Day
+    width: 298
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: im/gr/r-chi5.png
+    alt: Chihuahua
+    width: 90
+  - src: im/gr/r-chi1.png
+    alt: Chihuahua
+    width: 86
+  - src: im/gr/r-chi2.png
+    alt: Chihuahua
+    width: 90
+  - src: im/gr/r-chi4.png
+    alt: Chihuahua
+    width: 93
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=211]
+ | Serving the Six New England States
+
+[IMAGE: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png | alt="Happy St. Patrick's Day" | align= | width=298]
+ | [LINK:i-give.html]iGive.com
+
+[LINK:happydogs/reconstruction.html]Happy Endings
+
+[LINK:events.html]Current Events
+
+[LINK:guest/index.php]Guest Book
+
+[LINK:https://gofund.me/a6cb95fec]GoFundMe
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | [LINK:index.html]
+[IMAGE: images/button68.gif | alt="Home" | align= | width=100]
+[LINK:m-about.html]
+[IMAGE: images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:m-info.html]
+[IMAGE: images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:m-volunteer.html]
+[IMAGE: images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:m-adopt.html]
+[IMAGE: images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:m-surrender.html]
+[IMAGE: images/button80.gif | alt="Surrender" | align= | width=100]
+ | 
+
+[LINK:i-give.html]
+[IMAGE: images/Save-a-Dog.gif | alt="Save a Dog via iGive" | align= | width=120]
+
+|  | 
+
+ | 
+# Chihuahua Bill of Rights
+
+Ihave the right to give and receive unconditional love.
+Ihave the right to be a full family member.
+[IMAGE: im/gr/r-chi5.png | alt="Chihuahua" | align= | width=90]
+
+Ineed to be in the house with you where I can learn how to behave. My sense of security and well being depends on being close to you.
+Ihave the right to have an adult human to be my principal caretaker and teacher.
+Ihave the right to social stimulation.
+Ineed to go places of interest and learn new things and meet new people, so that I don't become fearful or aggressive - or depressed.
+Ihave the right to adequate food and good nutrition.
+
+[IMAGE: im/gr/r-chi1.png | alt="Chihuahua" | align= | width=86]
+Ihave the right to appropriate medical care.
+Ihave the right to regular exercise. I thrive on play and activity and it helps Me to be healthy and young.
+Ihave the right to be trained so that I do not become the prisoner of my misbehavior. Without training I can become confused, fearful and aggressive and become a danger to ourselves and to you! I am not happy unless I know what the rules are.
+Ihave the right to make mistakes. No matter how well we are trained or how old I get, sometimes I just do things wrong...it is nature. It won't happen often if I am properly trained.
+Ihave the right to be myself. My heritage influences who I am-my training helps shape us but some characteristics will remain. Please understand this when choosing me.
+[IMAGE: im/gr/r-chi2.png | alt="Chihuahua" | align= | width=90]
+
+Ihave the right to move with my family. I am the only family member that can be rejected by current laws. I need you to fight for me and to change those laws so that the family can stay together.
+Ihave the right to live with dignity and to die with dignity. Please do not keep me alive for selfish reasons. Go with me on difficult journeys. Everything is easier for me if you are there.
+
+Remember -Ilove you!
+
+[IMAGE: im/gr/r-chi4.png | alt="Chihuahua" | align= | width=93]
+ | 
+
+|  |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: images/iSearchiGive.gif | alt="iGive.com" | align= | width=460]
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+ | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+
+[/TABLE]

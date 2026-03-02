@@ -1,0 +1,133 @@
+# Page: famous
+# Source: /i-famous.html
+
+## IMAGES ON THIS PAGE:
+  - src: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+    alt: Happy St. Patrick's Day
+    width: 298
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: im/gr/f-mojo.png
+    alt: Famous Chihuahuas 
+    width: 100
+  - src: im/gr/f-papi.png
+    alt: Famous Chihuahuas 
+    width: 100
+  - src: im/gr/f-chip.png
+    alt: Famous Chihuahuas 
+    width: 100
+  - src: im/gr/f-lilly-h.png
+    alt: Famous Chihuahuas 
+    width: 100
+  - src: im/gr/f-coco.png
+    alt: Famous Chihuahuas 
+    width: 100
+  - src: im/gr/f-gidget.png
+    alt: Famous Chihuahuas 
+    width: 100
+  - src: im/gr/f-moonie.png
+    alt: Famous Chihuahuas 
+    width: 100
+  - src: im/gr/f-willy.png
+    alt: Famous Chihuahuas 
+    width: 100
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=211]
+ | Serving the Six New England States
+
+[IMAGE: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png | alt="Happy St. Patrick's Day" | align= | width=298]
+ | [LINK:i-give.html]iGive.com
+
+[LINK:happydogs/reconstruction.html]Happy Endings
+
+[LINK:events.html]Current Events
+
+[LINK:guest/index.php]Guest Book
+
+[LINK:https://gofund.me/a6cb95fec]GoFundMe
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | [LINK:index.html]
+[IMAGE: images/button68.gif | alt="Home" | align= | width=100]
+[LINK:m-about.html]
+[IMAGE: images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:m-info.html]
+[IMAGE: images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:m-volunteer.html]
+[IMAGE: images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:m-adopt.html]
+[IMAGE: images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:m-surrender.html]
+[IMAGE: images/button80.gif | alt="Surrender" | align= | width=100]
+ | 
+
+[LINK:i-give.html]
+[IMAGE: images/Save-a-Dog.gif | alt="Save a Dog via iGive" | align= | width=120]
+
+|  | 
+
+ | 
+[TABLE]
+
+|  | 
+[IMAGE: im/gr/f-mojo.png | alt="Famous Chihuahuas " | align= | width=100]
+
+[IMAGE: im/gr/f-papi.png | alt="Famous Chihuahuas " | align= | width=100]
+
+[IMAGE: im/gr/f-chip.png | alt="Famous Chihuahuas " | align= | width=100]
+
+[IMAGE: im/gr/f-lilly-h.png | alt="Famous Chihuahuas " | align= | width=100]
+ | * Coco, featured in the television series Dog Whisperer and owned by Cesar Millan.
+* Dinky, the first Taco Bell Chihuahua.
+* Gidget, the second Taco Bell Chihuahua and the actress who played Bruiser's mom in Legally Blonde 2.
+* Moonie the actor who played Bruiser, Elle Woods' companion in the Legally Blonde movies.
+* Pepito, Xavier Cugat's Chihuahua in the children's book Pepito the Little Dancing Dog: The Story of Xavier Cugat's Chihuahua.
+* Tinkerbell and Bambi, companions of Paris Hilton. Tinkerbell is the "author" of "Tinkerbell Hilton Diaries".
+* Wheely Willy, a paraplegic Chihuahua from Long Beach, California who has become a celebrity as the subject of two bestselling children's books.
+* Lou, a Chihuahua that appears on every episode of The Soup on the E! network Fictional.
+* Chloe played by Angel, co-star of the film Beverly Hills Chihuahua.
+* Enrique, Hector Con Carne's pet Chihuahua from Evil Con Carne.
+* Geraldo, Max Shreck's Chihuahua in Batman Returns.
+* Madame Shirley the Medium, an old fortune-teller Chihuahua featured in a TV Show Cartoon, Courage the Cowardly Dog.
+* Mammoth Mutt, from the cartoon series Krypto the Superdog.
+* Mojo, Samuel Witwicky's Chihuahua from Transformers.
+* Papi played by Rusco, the other co-star of Beverly Hills Chihuahua.
+* Chip, Sonic's aide in Sonic Unleashed
+* Ren Höek, of Ren and Stimpy fame.
+* The Spooky Chihuahua from Invader Zim.
+* Lilly Megan Hauserman's dog from I Love Money, Rock of Love Charm School, and Beauty and the Geek
+ | 
+
+[IMAGE: im/gr/f-coco.png | alt="Famous Chihuahuas " | align= | width=100]
+
+[IMAGE: im/gr/f-gidget.png | alt="Famous Chihuahuas " | align= | width=100]
+
+[IMAGE: im/gr/f-moonie.png | alt="Famous Chihuahuas " | align= | width=100]
+
+[IMAGE: im/gr/f-willy.png | alt="Famous Chihuahuas " | align= | width=100]
+
+[/TABLE]
+ | 
+
+|  |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: images/iSearchiGive.gif | alt="iGive.com" | align= | width=460]
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+ | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+
+[/TABLE]

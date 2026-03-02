@@ -1,0 +1,215 @@
+# Page: index
+# Source: /index.html
+
+## IMAGES ON THIS PAGE:
+  - src: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+    alt: Happy St. Patrick's Day
+    width: 298
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: images/holidays/St%20Patrick/clover%20border%20left.png
+    alt: 
+    width: 110
+  - src: images/holidays/St%20Patrick/clover%20border%20left.png
+    alt: 
+    width: 110
+  - src: images/holidays/St%20Patrick/clover%20border%20left.png
+    alt: 
+    width: 110
+  - src: IMG_3260b.jpg
+    alt: 
+    width: 200
+  - src: images/imgB1.gif
+    alt: 
+  - src: images/imgD.jpg
+    alt: Holly (adopted)
+    width: 150
+  - src: images/imgC.jpg
+    alt: Baby (adopted)
+    width: 115
+  - src: images/imgB1.gif
+    alt: 
+  - src: images/imgA4.jpg
+    alt: 
+  - src: images/holidays/St%20Patrick/Chi%20St%20Patrick%20kiss%20me.png
+    alt: 
+    width: 329
+  - src: images/holidays/St%20Patrick/Chi%204-leaf%20clover.png
+    alt: 
+    width: 142
+  - src: images/holidays/St%20Patrick/Chi%20St%20Patrick%20glasses.png
+    alt: 
+    width: 630
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=211]
+ | Serving the Six New England States
+
+[IMAGE: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png | alt="Happy St. Patrick's Day" | align= | width=298]
+ | [LINK:i-give.html]iGive.com
+
+[LINK:happydogs/reconstruction.html]Happy Endings
+
+[LINK:events.html]Current Events
+
+[LINK:guest/index.php]Guest Book
+
+[LINK:https://gofund.me/a6cb95fec]GoFundMe
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | [LINK:index.html]
+[IMAGE: images/button68.gif | alt="Home" | align= | width=100]
+[LINK:m-about.html]
+[IMAGE: images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:m-info.html]
+[IMAGE: images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:m-volunteer.html]
+[IMAGE: images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:m-adopt.html]
+[IMAGE: images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:m-surrender.html]
+[IMAGE: images/button80.gif | alt="Surrender" | align= | width=100]
+ | 
+
+[LINK:i-give.html]
+[IMAGE: images/Save-a-Dog.gif | alt="Save a Dog via iGive" | align= | width=120]
+
+|  | 
+[IMAGE: images/holidays/St%20Patrick/clover%20border%20left.png | alt="" | align= | width=110]
+
+[IMAGE: images/holidays/St%20Patrick/clover%20border%20left.png | alt="" | align= | width=110]
+
+[IMAGE: images/holidays/St%20Patrick/clover%20border%20left.png | alt="" | align= | width=110]
+ | 
+
+Welcome to Yankee Chihuahua Rescue and Adoption, Inc. (YCRAA)
+
+YCRAA is a 501(c)(3) public charity, nonprofit organization founded in the year 2000. As a New England based rescue, we are a network of independent volunteers who work together to rescue homeless Chihuahuas and Chihuahua mixes.
+
+YCRAA is comprised entirely of volunteers (we have no paid employees) and is dedicated to fostering and fundraising to help this beloved breed. Prior to placement, all YCRAA dogs are immunized, heartworm tested, microchipped, spayed/neutered and provided with any necessary medical attention.
+
+[TABLE]
+
+|  | Donations are welcomed: | 
+[IMAGE: IMG_3260b.jpg | alt="" | align= | width=200]
+
+|  | 
+
+- Collars
+- Bedding
+- Sweaters
+- Coats
+- Coupons | 
+
+- Pee Pads
+- Crates
+- Toys
+- Services are always much appreciated
+[/TABLE]
+
+To donate items please send details of all items in an email to[LINK:mailto:info@yankeechihuahuarescue.org?subject=Donation Items Detail]info@yankeechihuahuarescue.org
+Please remember to include your Contact information, Company name and Location.
+
+Yankee Chihuahua Rescue is looking for dedicated people
+
+[TABLE]
+
+|  | 
+
+If you have a few hours to give to help New England Chihuahuas in need,
+then please consider submitting anapplication. YCRAA is in need of Volunteers and Foster Homes.
+
+[TABLE]
+
+|  | 
+
+For more information about Volunteering
+ | 
+
+[LINK:m-volunteer.html]
+[IMAGE: images/imgB1.gif | alt="" | align= | width=]
+
+[/TABLE]
+
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: images/imgD.jpg | alt="Holly (adopted)" | align= | width=150]
+
+[IMAGE: images/imgC.jpg | alt="Baby (adopted)" | align= | width=115]
+
+ | 
+
+You can help support Yankee Chihuahua Rescue
+
+While surfing and shopping on the web we invite you to begin using[LINK:http://www.igive.com/welcome/lptest/wr24.cfm?c=47590&m=0]iSearchiGive.com.
+
+Every time you use[LINK:http://www.igive.com/welcome/lptest/wr24.cfm?c=47590&m=0]iSearchiGive.com$0.01 will be donated to YCRAA.
+
+Your search will be powered by[LINK:http://www.igive.com/html/causeinfo.cfm?p=28132]iGive.com, a web site that has been helping causes raise money online since 1997.
+
+While the numbers may seem small at first, we all search the web hundreds of times every month. Combined efforts can truly add up.
+
+YCRAA raised $1674.55 through iGive since July, 2008.
+
+Try it today - it's free and no obligation!
+
+Go to your join-link[LINK:http://www.iGive.com/YCR]www.iGive.com/YCR
+which automatically donates $5 to Yankee Chihuahua Rescue
+
+|  |  | 
+
+[TABLE]
+
+|  | [LINK:http://www.facebook.com/groups/YankeeChihuahua/]
+[IMAGE: images/find_us_on_facebook_badge.gif | alt="Find us on Facebook" | align= | width=]
+ | Thanks for stopping by!
+[/TABLE]
+
+[/TABLE]
+
+Yankee Chihuahua Rescue is looking for dedicated people.
+
+If you have a few hours to give to help New England Chihuahuas in need, please consider filling in an application.
+
+YCRAA is in need of Volunteers and Foster Homes.[LINK:m-volunteer.html]
+[IMAGE: images/imgB1.gif | alt="" | align= | width=]
+
+For more information about Volunteering
+
+ | 
+
+[IMAGE: images/imgA4.jpg | alt="" | align= | width=]
+
+"If you want the best seat in the house, you've got to move the Chihuahua"
+
+[IMAGE: images/holidays/St%20Patrick/Chi%20St%20Patrick%20kiss%20me.png | alt="" | align= | width=329]
+
+[IMAGE: images/holidays/St%20Patrick/Chi%204-leaf%20clover.png | alt="" | align= | width=142]
+
+[IMAGE: images/holidays/St%20Patrick/Chi%20St%20Patrick%20glasses.png | alt="" | align= | width=630]
+
+|  |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: images/iSearchiGive.gif | alt="iGive.com" | align= | width=460]
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+ | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+
+[/TABLE]

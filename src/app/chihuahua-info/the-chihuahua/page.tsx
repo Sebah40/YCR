@@ -1,0 +1,218 @@
+import Link from "next/link";
+
+export const metadata = { title: "The Chihuahua" };
+
+export default function TheChihuahuaPage() {
+  return (
+    <div className="bg-cream">
+      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-16 pt-20 text-center">
+        <div className="mx-auto max-w-3xl">
+          <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
+            The Chihuahua
+          </h1>
+          <p className="mt-4 text-warm-500">From Wikipedia</p>
+        </div>
+      </section>
+
+      <div className="mx-auto max-w-4xl px-6 pb-24">
+        <article className="prose-warm py-16">
+          <div className="space-y-6 text-base leading-relaxed text-warm-700">
+            <p>
+              The Chihuahua is the smallest breed of dog in the world and is named after the
+              state of Chihuahua in Mexico.
+            </p>
+
+            <p>
+              Breed standards for this dog do not generally specify a height, only a weight and
+              a description of their overall proportions. As a result, height varies more than
+              within many other breeds. Generally, the height ranges between 6 and 10 inches (15
+              to 25 cm) at the withers. However, some dogs grow as tall as 12 to 15 inches (30
+              to 35 cm). Both British and American breed standards state that a Chihuahua must
+              weigh no more than 6.0 lb (2.7 kg), however the British standard also states that
+              a weight of 2-4 lb (1-1.8 kg) is preferred and that if two dogs are equally good
+              in type, the more diminutive or smaller is preferred. The F&eacute;d&eacute;ration
+              Cynologique Internationale (FCI) standard calls for dogs ideally between 1.5 and
+              3.0 kg (3.3 to 6.6 lb), although smaller ones are acceptable in the show ring.
+              However, pet-quality Chihuahuas (that is, those bred or purchased as companions
+              rather than show dogs) can, and do, range above these weights, to 10 pounds (4.5
+              kg), or even more if they have large bone structures or are allowed to become
+              overweight. This does not mean, however, that they are not purebred Chihuahuas, it
+              only means that they do not meet the requirements to enter a conformation show.
+              Oversize Chihuahuas are seen in some of the best, and worst, bloodlines. Typically
+              the breed standard for both the long and short coat Chihuahua will be identical
+              except for the description of the coat.
+            </p>
+
+            <p>
+              The Kennel Club (UK) and American Kennel Club (USA) only recognize two varieties
+              of Chihuahua: the long-coat and the smooth-coat, also referred to as short-haired.
+              They are genetically the same breed, and are often present in the same litter,
+              though in many kennel clubs, including the KC and AKC, they are judged in separate
+              categories. The term smooth-coat does not mean that the hair is necessarily smooth,
+              as the hair can range from having a velvet touch to a whiskery feeling.
+              Long-haired Chihuahuas are actually smoother to the touch, having soft, fine guard
+              hairs and a downy undercoat, which gives them their fluffy appearance. Unlike many
+              long-haired breeds, short-haired Chihuahuas require no trimming and minimal
+              grooming. Contrary to popular belief, the long-haired breed also typically sheds
+              less than their short-haired counterparts. It may take up to two or more years
+              before a full long-haired coat develops.
+            </p>
+
+            <p>
+              The AKC Chihuahua standard lists under color: &ldquo;Any color-Solid, marked or
+              splashed&rdquo;. This allows for all colors from solid blacks to solid whites,
+              spotted, or a variety of other colors and patterns. A few examples are Fawn, Red,
+              Cream, Chocolate, Blue, and Black. However the UK Kennel Club decided in May 2007
+              not to register puppies with Merle coloration due to the health risks associated
+              with the gene responsible, and in December of that year formally amended the Breed
+              Standard to say &ldquo;Any colour or mixture of colours but never merle
+              (dapple).&rdquo; Other countries&apos; Kennel Clubs such as Canada and Australia
+              have also disqualified Merle and a similar change is pending by the AKC.
+            </p>
+
+            <p>
+              Classifying Chihuahua colors can be complicated due to the large number of
+              possibilities. Examples would be a blue brindle or a chocolate and tan. Colors and
+              patterns can combine and affect each other, resulting in a very high degree of
+              variation. That said, the classic Chihuahua color remains fawn. No color or pattern
+              is considered more valuable than the others. Although blue is considered rare, it is
+              all just a matter of personal preference. Merle coloration is a sort of speckled or
+              dappled effect, and often also affects the eye color of the dog. While the merle
+              appearance is much admired by some, the gene that causes it can also cause
+              blindness and deafness, so to discourage breeding for this color they cannot be
+              registered or shown in some countries.
+            </p>
+
+            <p>
+              Although words like &ldquo;teacup&rdquo;, &ldquo;pocket size&rdquo;, &ldquo;tiny
+              toy&rdquo;, &ldquo;miniature&rdquo;, &ldquo;Mandy&rdquo; and &ldquo;standard&rdquo;
+              have been used to describe different-sized Chihuahuas, the Chihuahua Club of
+              America issued a statement stressing their concern regarding the common usage of
+              such terms. Likewise, statements concerning so-called &ldquo;deer
+              Chihuahuas,&rdquo; in reference to inherited deer-like ears or bodies in certain
+              animals, are inaccurate as no such breed exists. &ldquo;Unfortunately, the
+              additional adjectives used to describe the size differences and physical
+              appearances are many and have been misused for so long they now seem legitimate.
+              Teacup, Pocket Size, Tiny Toy, Miniature or Standard - are just a few of the many
+              tags and labels that have been attached to this breed over the years. The Chihuahua
+              Club of America is concerned that these terms may be used to entice prospective
+              buyers into thinking that puppies described in this way are of greater monetary
+              value. They are not and the use of these terms is incorrect and
+              misleading.&rdquo;
+            </p>
+
+            <p>
+              Chihuahuas are prized for their devotion, ferocity, and personality. Their curious
+              personality and small size make them easily adaptable to a variety of environments,
+              including the city and small apartments. Chihuahuas are often stereotyped as
+              high-strung, though it has been shown that correct training and socialization can
+              result in an outstanding companion animal. They can also be quite affectionate with
+              their owners. Very quick to learn commands, the clever Chihuahua is easily trained
+              to perform tricks. One unique trait in most Chihuahuas is the tendency to
+              &ldquo;burrow&rdquo; into blankets or clothing in order to sleep. This can prove a
+              danger if a person sits on a bed or sofa without checking for sleeping dogs. This
+              behavior is attributed to the belief that pre-domesticated Chihuahuas lived in
+              underground burrows.
+            </p>
+
+            <p>
+              Chihuahuas are not well-suited as small children&apos;s pets because of their
+              size and temperament. It is recommended that children be school aged or older
+              before adding a Chihuahua to one&apos;s home. Also, many Chihuahuas focus their
+              devotion on one person, becoming overly jealous of that person&apos;s human
+              relationships. This can be mitigated through socialization. Chihuahuas also tend
+              to have a &ldquo;clannish&rdquo; nature, often preferring the companionship of
+              other Chihuahuas over other dogs.
+            </p>
+
+            <p>
+              This breed requires expert veterinary attention in areas such as birthing and
+              dental care. Chihuahuas are also prone to some genetic anomalies, often
+              neurological ones, such as epilepsy and seizure disorders. Chihuahuas, and other
+              toy breeds, are also prone to the sometimes painful disease, hydrocephalus. It is
+              often diagnosed by the puppy having an abnormally large head during the first
+              several months of life, but other symptoms are more noticeable (since &ldquo;a
+              large head&rdquo; is such a broad description). Chihuahua puppies exhibiting
+              hydrocephalus usually have patchy skull platelets rather than a solid bone, and
+              typically are lethargic and do not grow at the same pace as their siblings. A true
+              case of hydrocephalus can be diagnosed by a veterinarian, though the prognosis is
+              grim.
+            </p>
+
+            <p>
+              Chihuahuas have moleras, or a soft spot in their skulls, and they are the only
+              breed of dog to be born with an incomplete skull. The molera does fill in with
+              age, but great care needs to be taken during the first six months until the skull
+              is fully formed. Many veterinarians are not familiar with Chihuahuas as a breed,
+              and mistakenly confuse a molera with hydrocephalus. The Chihuahua Club of America
+              has issued a statement regarding this often deadly misdiagnosis. Chihuahuas can
+              also be at risk for hypoglycemia, or low blood sugar. This is especially dangerous
+              for puppies. Left unattended, hypoglycemia can lead to coma. Chihuahuas are also
+              prone to eye infections due to their large, round, protruding eyes and their
+              relatively low ground clearance. Chihuahuas also have a tendency to tremble but
+              this is not a health issue, rather it takes place when the dog is stressed or
+              excited. One reason for this may be because small dogs have a higher metabolism
+              than larger dogs and therefore dissipate heat faster.
+            </p>
+
+            <p>
+              Although figures often vary, as with any breed, the average lifespan for a
+              Chihuahua is approximately 8 to 22 years of age. Overfeeding a Chihuahua can be
+              a grave danger to the small dog&apos;s health, shortening their life and leading
+              to diabetes. Care must be taken to provide them with adequate nutrition. At the
+              same time, care must be exercised not to overfeed this tiny breed. Overweight
+              Chihuahuas are prone to joint injuries, tracheal collapse, chronic bronchitis, and
+              shortened life span.
+            </p>
+
+            <p>
+              The developmental history of the Chihuahua is very difficult to trace and is based
+              largely on speculation and theory, however through folklore, legend and
+              archeological finds, there is sufficient evidence to prove that it is without
+              doubt an ancient breed originating from Pre-Columbian Mexico, and it is believed
+              to predate any other breed of dog in the Americas. The most common theory and most
+              likely is that Chihuahuas are descended from the Techichi, a companion dog favoured
+              by the Toltecs and that the modern dog developed through breeding with miniaturized
+              Chinese dogs brought to the Americas by the Spanish Conquistadors. Historical
+              records of the Techichi, which were thought to hunt in packs, can only be traced
+              as far back as the ninth century but it is highly likely that this is the
+              Chihuahua&apos;s native Mexican ancestor. Evidence of this is that the remains of
+              dogs closely resembling, but slightly larger than the average Chihuahua have been
+              found in such places as the Great Pyramid of Cholula, which dates back to the 2nd
+              century BC and predates the 16th century. There is also evidence to suggest that
+              the Techichi may also predate the Mayans.
+            </p>
+
+            <p>
+              After the Toltecs were conquered by the Aztecs, it is believed that this early
+              ancestor of the Chihuahua was adopted as a symbol of the upper classes and it has
+              been suggested that they were used in religious ceremonies for the absolution of
+              sins and to guide the spirits of the dead. In terms of size, the present day
+              Chihuahua is much smaller than its ancestors, a change thought to be due to the
+              introduction of miniaturized Chinese dogs, such as the Chinese Crested Dog, into
+              South America by the Spanish. A progenitor of the breed was reputedly found in
+              1850 in old ruins near Casas Grandes in the Mexican state of Chihuahua from which
+              the breed gets its name. The state borders with Texas, Arizona and New Mexico
+              where Chihuahuas first rose to prominence and were further developed in the United
+              States. Since that time, the Chihuahua has remained consistently popular as a
+              breed, particularly in America when the breed was first recognized by the American
+              Kennel Club in 1904. Genetic tests place the Chihuahua with other modern breeds
+              originating in the 1800s.
+            </p>
+
+            <p>The American Kennel Club registered its first Chihuahua in 1905.</p>
+          </div>
+        </article>
+
+        <div className="border-t border-warm-200 pt-8">
+          <Link
+            href="/chihuahua-info"
+            className="text-sm font-semibold text-coral-600 hover:text-coral-700"
+          >
+            &larr; Back to Breed Information
+          </Link>
+        </div>
+      </div>
+    </div>
+  );
+}

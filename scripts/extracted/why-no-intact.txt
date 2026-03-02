@@ -1,0 +1,111 @@
+# Page: why-no-intact
+# Source: /i-why.html
+
+## IMAGES ON THIS PAGE:
+  - src: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+    alt: Happy St. Patrick's Day
+    width: 298
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=211]
+ | Serving the Six New England States
+
+[IMAGE: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png | alt="Happy St. Patrick's Day" | align= | width=298]
+ | [LINK:i-give.html]iGive.com
+
+[LINK:happydogs/reconstruction.html]Happy Endings
+
+[LINK:events.html]Current Events
+
+[LINK:guest/index.php]Guest Book
+
+[LINK:https://gofund.me/a6cb95fec]GoFundMe
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | [LINK:index.html]
+[IMAGE: images/button68.gif | alt="Home" | align= | width=100]
+[LINK:m-about.html]
+[IMAGE: images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:m-info.html]
+[IMAGE: images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:m-volunteer.html]
+[IMAGE: images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:m-adopt.html]
+[IMAGE: images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:m-surrender.html]
+[IMAGE: images/button80.gif | alt="Surrender" | align= | width=100]
+ | 
+
+[LINK:i-give.html]
+[IMAGE: images/Save-a-Dog.gif | alt="Save a Dog via iGive" | align= | width=120]
+
+|  |  | 
+## Why we do not place dogs in homes with intact animals.
+
+The main reason why Yankee Chihuahua Rescue will not place a chihuahua in a home where the pets have not been neutered is because they deserve a home with responsible owners. Responsible owners take good care of their pets and do the best thing for them -- Neutering.
+
+There are several health benefits to neutering:
+
+- One of the most important concerns the prostate gland, which under the influence of testosterone will gradually enlarge over the course of the dog's life. In age, it is likely to become uncomfortable, possibly being large enough to interfere with/defecation. The prostate under the influence of testosterone is also predisposed to infection which is almost impossible to clear up without neutering. Neutering causes the prostate to shrink into insignificance thus preventing both prostatitis as well as the uncomfortable benign hyperplasia (enlargement) that occurs with aging. It is often erroneously held that neutering prevents prostate cancer but this is not true.
+
+- Other health benefits of neutering include the prevention of certain types of hernias and tumors of the testicles and anus.
+
+- Excessive prepuce/penis discharge is also reduced by neutering.
+
+The behavior of other dogs in homes our fosters go into is a huge concern. Un-neutered dogs have natural biological needs. If the dog doesn't fulfill those needs, he will build up frustration, anxiety, and may even develop obsessive tendencies. Un-neutered dogs are often:
+
+- Wanderers & roamers
+- Noisy, baying, howling, overbearing, barking & lunging at passersby
+- Tend toward fighting -- lunging & barking at and fighting with other male dogs
+- Non-compliant, pushy and bossy attitude towards caretakers and strangers
+- Uncooperative, resistant; an unwillingness to obey commands
+- Excessive sniffers
+- Have sexual frustration, mount other dogs, people, toys
+- Masturbators, with excessive grooming of genital area
+- Offensive growling, snapping, biting
+- A heightened sense of territoriality, marking with urine indoors
+- Excessive marking on outdoor scent posts
+- Intolerant and possessive/overprotective behavior -- growling/snapping around food or toys
+
+These are not the type of environments we want fosters to endure.
+
+[TABLE]
+
+|  | 
+
+The only behavior changes after neutering relate to behaviors influenced by male hormones. Playfulness, friendliness, and socialization with humans are not changed. Activity level and appetite do not change with neutering. A male dog should not gain weight or become less interested in activity post neuter.
+
+- With Neutering, the interest in roaming is eliminated in 90 percent of neutered dogs
+- Aggressive behavior against other dogs is eliminated in 60 percent of neutered dogs
+- Urine marking is eliminated in 50 percent of neutered male dogs
+- Inappropriate mounting is eliminated in 70 percent of neutered dogs
+- In other words, they are much better behaved.
+
+Well behaved companions are what a Yankee Chihuahua deserves.
+
+[/TABLE]
+ | 
+
+|  |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: images/iSearchiGive.gif | alt="iGive.com" | align= | width=460]
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+ | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+
+[/TABLE]

@@ -1,0 +1,117 @@
+# Page: info
+# Source: /m-info.html
+
+## IMAGES ON THIS PAGE:
+  - src: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+    alt: Happy St. Patrick's Day
+    width: 298
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: images/holidays/St%20Patrick/Chi%20hat%20graphic02.png
+    alt: 
+    width: 344
+  - src: images/holidays/St%20Patrick/Chi%20St%20Partrick%20sleep%20in%20hat.png
+    alt: 
+    width: 630
+  - src: images/holidays/St%20Patrick/Chi%20St%20Patrick%20pub.jpg
+    alt: 
+    width: 204
+  - src: images/holidays/St%20Patrick/clover%20border%20right.png
+    alt: 
+    width: 115
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=211]
+ | Serving the Six New England States
+
+[IMAGE: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png | alt="Happy St. Patrick's Day" | align= | width=298]
+ | [LINK:i-give.html]iGive.com
+
+[LINK:happydogs/reconstruction.html]Happy Endings
+
+[LINK:events.html]Current Events
+
+[LINK:guest/index.php]Guest Book
+
+[LINK:https://gofund.me/a6cb95fec]GoFundMe
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | [LINK:index.html]
+[IMAGE: images/button68.gif | alt="Home" | align= | width=100]
+[LINK:m-about.html]
+[IMAGE: images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:m-info.html]
+[IMAGE: images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:m-volunteer.html]
+[IMAGE: images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:m-adopt.html]
+[IMAGE: images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:m-surrender.html]
+[IMAGE: images/button80.gif | alt="Surrender" | align= | width=100]
+ | 
+
+[LINK:i-give.html]
+[IMAGE: images/Save-a-Dog.gif | alt="Save a Dog via iGive" | align= | width=120]
+
+|  | 
+
+[IMAGE: images/holidays/St%20Patrick/Chi%20hat%20graphic02.png | alt="" | align= | width=344]
+
+[IMAGE: images/holidays/St%20Patrick/Chi%20St%20Partrick%20sleep%20in%20hat.png | alt="" | align= | width=630]
+
+ | 
+### Breed Information
+
+> [LINK:i-thechi.html]The Chihuahua- a brief description
+[IMAGE: images/holidays/St%20Patrick/Chi%20St%20Patrick%20pub.jpg | alt="" | align= | width=204]
+
+> [LINK:i-standard.html]AKC - Chihuahua Breed Standard
+> [LINK:i-jobs.html]The Versatile Chihuahua
+> [LINK:i-rights.html]Chihuahua Bill of Rights
+> [LINK:i-teacup.html]TeaCup Chihuahuas- Fact or Fiction?
+> For Fun,[LINK:i-famous.html]Famous Chihuahuas
+### Articles by YCRAA Volunteers
+
+> [LINK:v-start.html]YCRAA - The Beginningby Corinne Joly
+> [LINK:v-cher.html]Volunteeringby Cheryl
+### Articles Related to Rescue and Adoption
+
+> [LINK:i-tips.html]Tips For New Adopters;by Anne Puchtinger, and Canadian Chihuahua Rescue & Transport
+> [LINK:i-responsible.html]Are You a Responsible Pet Parent?
+> [LINK:i-neutering.html]Benefits of Neutering- by Race Foster, DVM;[LINK:http://www.peteducation.com/index.cfm?c=2]Drs. Foster & Smith, Inc.
+> [LINK:i-why.html]Why Rescues do not place dogs in homes with intact animals.
+
+### Articles of Interest
+
+> [LINK:i-treats.html]Chihuahua Treats
+> [LINK:i-tre-choc.html]Chocolate Poisoning
+> [LINK:i-cratetraining.html]Crate training; step by step
+ | 
+
+Our task must be to free ourselves... by widening our circle of compassion to embrace all living creatures and the whole of nature and its beauty.
+
+~Albert Einstein
+
+[IMAGE: images/holidays/St%20Patrick/clover%20border%20right.png | alt="" | align= | width=115]
+
+|  |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: images/iSearchiGive.gif | alt="iGive.com" | align= | width=460]
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+ | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+
+[/TABLE]

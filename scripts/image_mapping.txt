@@ -1,0 +1,1854 @@
+# Image mapping
+
+URL: https://www.yankeechihuahuarescue.org/IMG_3260b.jpg
+LOCAL: public/images/scraped/img_3260b.jpg
+PAGES: /index.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/01crop.jpg
+LOCAL: public/images/scraped/happydogs/happypics/01crop.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/06crop.jpg
+LOCAL: public/images/scraped/happydogs/happypics/06crop.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/07skeeter.jpg
+LOCAL: public/images/scraped/happydogs/happypics/07skeeter.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/07skeeter1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/07skeeter1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/07vickirose_2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/07vickirose_2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/07webster-1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/07webster-1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-07morgan.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-07morgan.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-09-bandito1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-09-bandito1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-bandito2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-bandito2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-birtha1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-birtha1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-birtha3.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-birtha3.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-chico1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-chico1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-chico2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-chico2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-cosmo1-190.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-cosmo1-190.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-cosmo2-190.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-cosmo2-190.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-croquete-coco1-190.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-croquete-coco1-190.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-croquete-coco2-190.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-croquete-coco2-190.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-domino1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-domino1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-domino2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-domino2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-gizmo1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-gizmo1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-gizmo3.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-gizmo3.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-hanna2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-hanna2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-hanna3.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-hanna3.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-happy-agent.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-happy-agent.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-happy-candy.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-happy-candy.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-happy-hazel.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-happy-hazel.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-honey1-190.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-honey1-190.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-honey190.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-honey190.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-katey-190.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-katey-190.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-lacey.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-lacey.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-lacey1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-lacey1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-lily1-250.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-lily1-250.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-maya1-190.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-maya1-190.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-maya2-190.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-maya2-190.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-misscocoa-200.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-misscocoa-200.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-misscocoa1-200.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-misscocoa1-200.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-molly1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-molly1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-molly2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-molly2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-wanda1-190.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-wanda1-190.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/08-wanda2-190.jpg
+LOCAL: public/images/scraped/happydogs/happypics/08-wanda2-190.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-amber.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-amber.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-angel.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-angel.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-bella.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-bella.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-brock3b.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-brock3b.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-bruiser.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-bruiser.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-coco.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-coco.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-deliah.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-deliah.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-dioge.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-dioge.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-duece.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-duece.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-gina.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-gina.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-greta.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-greta.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-izzy.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-izzy.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-jynja.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-jynja.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-latte.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-latte.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-lucy.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-lucy.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-mystique.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-mystique.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-onyx.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-onyx.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-peanut.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-peanut.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-scotch.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-scotch.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-sparkles.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-sparkles.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-stella.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-stella.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-trixie.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-trixie.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/09-happy-wee.jpg
+LOCAL: public/images/scraped/happydogs/happypics/09-happy-wee.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-Kisses.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-kisses.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-addie1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-addie1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-angelina2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-angelina2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-bambi1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-bambi1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-bella.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-bella.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-bella2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-bella2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-bootz.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-bootz.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-braeden.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-braeden.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-brooklyn.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-brooklyn.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-butch.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-butch.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-casper22.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-casper22.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-cha_cha.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-cha_cha.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-chilli.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-chilli.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-cocoa3.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-cocoa3.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-dante.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-dante.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-diesel4.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-diesel4.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-dito.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-dito.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-flower.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-flower.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-hazelnut.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-hazelnut.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-loulu.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-loulu.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-minni-3.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-minni-3.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-minsch1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-minsch1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-mitsie3.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-mitsie3.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-pearl-02.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-pearl-02.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-pearl.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-pearl.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-penelope.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-penelope.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-petey.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-petey.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-princess2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-princess2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-sandy1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-sandy1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/10-happy-scooby.jpg
+LOCAL: public/images/scraped/happydogs/happypics/10-happy-scooby.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-annie1.png
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-annie1.png
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-bambam1.png
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-bambam1.png
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-bear1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-bear1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-bentley-02.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-bentley-02.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-brady1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-brady1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-chedda.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-chedda.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-chloe1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-chloe1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-cooper1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-cooper1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-courtsey-mani.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-courtsey-mani.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-fribble2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-fribble2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-hunter-1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-hunter-1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-jazzy2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-jazzy2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-kenny1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-kenny1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-maisey-2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-maisey-2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-mojo3.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-mojo3.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-owen.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-owen.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-paddy1.png
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-paddy1.png
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-peanut.png
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-peanut.png
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-penny.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-penny.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-poncho.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-poncho.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-poncho1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-poncho1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-princess.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-princess.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-roxy.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-roxy.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happy-rufus2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happy-rufus2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happybuddy5.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happybuddy5.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happypaco4.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happypaco4.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11-happypearl-5a.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11-happypearl-5a.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11happy-bambi1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11happy-bambi1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11happy-gizmo1a.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11happy-gizmo1a.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/11happy-littlebit.jpg
+LOCAL: public/images/scraped/happydogs/happypics/11happy-littlebit.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-Lucy1.jpeg
+LOCAL: public/images/scraped/happydogs/happypics/12-lucy1.jpeg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-Lucy3.jpeg
+LOCAL: public/images/scraped/happydogs/happypics/12-lucy3.jpeg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-Montie1.jpeg
+LOCAL: public/images/scraped/happydogs/happypics/12-montie1.jpeg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-Montie2.jpeg
+LOCAL: public/images/scraped/happydogs/happypics/12-montie2.jpeg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happy-MrGoodbar.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happy-mrgoodbar.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happy-layla1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happy-layla1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happy-precious2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happy-precious2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happyBilly-Jean1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happybilly-jean1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happyChaCha1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happychacha1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happyCosette.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happycosette.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happyCosimo.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happycosimo.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happyDiesel2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happydiesel2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happyDozer1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happydozer1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happyDuke.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happyduke.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happyGus2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happygus2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happyJack!1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happyjack1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happyMarley2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happymarley2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happyMollie1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happymollie1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happyToffee.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happytoffee.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happyWilbur2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happywilbur2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happylovie1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happylovie1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happyponchino.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happyponchino.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-happyrocky1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-happyrocky1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-poncho1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-poncho1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-poncho2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-poncho2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-reesey1.JPG
+LOCAL: public/images/scraped/happydogs/happypics/12-reesey1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-reesey2.JPG
+LOCAL: public/images/scraped/happydogs/happypics/12-reesey2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-ziggy1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-ziggy1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12-ziggy2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12-ziggy2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12crop.JPG
+LOCAL: public/images/scraped/happydogs/happypics/12crop.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12happy-tippy1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12happy-tippy1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/12happy-ziggy1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/12happy-ziggy1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/13-Bentley1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/13-bentley1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/13-Bentley2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/13-bentley2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/13-Mandy1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/13-mandy1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/13-Mandy2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/13-mandy2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/13-Tia1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/13-tia1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/13-Tia2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/13-tia2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/2000chanel.jpg
+LOCAL: public/images/scraped/happydogs/happypics/2000chanel.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/Chip.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chip.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/PierreOnLeft.jpg
+LOCAL: public/images/scraped/happydogs/happypics/pierreonleft.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/aikosparky.jpg
+LOCAL: public/images/scraped/happydogs/happypics/aikosparky.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/asterc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/asterc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/ay2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/ay2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bailey1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bailey1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bailey2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bailey2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/baileybucca.jpg
+LOCAL: public/images/scraped/happydogs/happypics/baileybucca.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bambi01.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bambi01.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bambi20.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bambi20.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bambi21.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bambi21.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bambi22.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bambi22.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bandit22.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bandit22.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bayleec2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bayleec2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bayleec3.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bayleec3.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/beau.jpg
+LOCAL: public/images/scraped/happydogs/happypics/beau.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/beau111.jpg
+LOCAL: public/images/scraped/happydogs/happypics/beau111.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/becky1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/becky1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/becky2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/becky2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bellabeau-1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bellabeau-1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bellabeau-2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bellabeau-2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bellac-1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bellac-1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bellac-2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bellac-2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/belle02.jpg
+LOCAL: public/images/scraped/happydogs/happypics/belle02.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bellec.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bellec.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/benny1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/benny1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/benny2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/benny2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bichoh.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bichoh.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bijio.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bijio.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/billy1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/billy1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/billy2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/billy2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/billy3.jpg
+LOCAL: public/images/scraped/happydogs/happypics/billy3.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/blackie2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/blackie2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/bud.jpg
+LOCAL: public/images/scraped/happydogs/happypics/bud.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/buddygail.jpg
+LOCAL: public/images/scraped/happydogs/happypics/buddygail.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/buffyc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/buffyc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/butterfly.jpg
+LOCAL: public/images/scraped/happydogs/happypics/butterfly.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/cappy1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/cappy1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/cappy2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/cappy2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/caramia.jpg
+LOCAL: public/images/scraped/happydogs/happypics/caramia.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/cassie.jpg
+LOCAL: public/images/scraped/happydogs/happypics/cassie.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chacha2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chacha2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chachi.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chachi.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chachi2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chachi2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chaun1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chaun1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chaun2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chaun2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chelsea1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chelsea1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chesterhp.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chesterhp.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chewey1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chewey1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chiconewc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chiconewc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chino1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chino1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chino2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chino2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chipc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chipc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chipper.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chipper.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chiquic.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chiquic.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chiquitac.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chiquitac.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chococ.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chococ.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/chucky1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/chucky1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/cindy.jpg
+LOCAL: public/images/scraped/happydogs/happypics/cindy.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/coco.jpg
+LOCAL: public/images/scraped/happydogs/happypics/coco.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/coco001.jpg
+LOCAL: public/images/scraped/happydogs/happypics/coco001.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/cody1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/cody1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/cody2.JPG
+LOCAL: public/images/scraped/happydogs/happypics/cody2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/cody3.jpg
+LOCAL: public/images/scraped/happydogs/happypics/cody3.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/cody4.JPG
+LOCAL: public/images/scraped/happydogs/happypics/cody4.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/cody5.jpg
+LOCAL: public/images/scraped/happydogs/happypics/cody5.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/cookie2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/cookie2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/daisybug3.jpg
+LOCAL: public/images/scraped/happydogs/happypics/daisybug3.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/diamond.jpg
+LOCAL: public/images/scraped/happydogs/happypics/diamond.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/diesel2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/diesel2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/dior-1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/dior-1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/dior-2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/dior-2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/dutchessnewc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/dutchessnewc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/elvie2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/elvie2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/elvis21.jpg
+LOCAL: public/images/scraped/happydogs/happypics/elvis21.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/eva.jpg
+LOCAL: public/images/scraped/happydogs/happypics/eva.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/fanny.jpg
+LOCAL: public/images/scraped/happydogs/happypics/fanny.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/fourdogs.jpg
+LOCAL: public/images/scraped/happydogs/happypics/fourdogs.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/frankie.jpg
+LOCAL: public/images/scraped/happydogs/happypics/frankie.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/freddie1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/freddie1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/frida.jpg
+LOCAL: public/images/scraped/happydogs/happypics/frida.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/frostyc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/frostyc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/gabby.jpg
+LOCAL: public/images/scraped/happydogs/happypics/gabby.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/gemma1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/gemma1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/george1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/george1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/goldic.jpg
+LOCAL: public/images/scraped/happydogs/happypics/goldic.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/honey3.jpg
+LOCAL: public/images/scraped/happydogs/happypics/honey3.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/honey5.jpg
+LOCAL: public/images/scraped/happydogs/happypics/honey5.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/image1.gif
+LOCAL: public/images/scraped/happydogs/happypics/image1.gif
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/image2.gif
+LOCAL: public/images/scraped/happydogs/happypics/image2.gif
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/image3.gif
+LOCAL: public/images/scraped/happydogs/happypics/image3.gif
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/isa.jpg
+LOCAL: public/images/scraped/happydogs/happypics/isa.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/jack01.jpg
+LOCAL: public/images/scraped/happydogs/happypics/jack01.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/jake001.jpg
+LOCAL: public/images/scraped/happydogs/happypics/jake001.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/jake005.jpg
+LOCAL: public/images/scraped/happydogs/happypics/jake005.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/jake1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/jake1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/jasper1c.jpg
+LOCAL: public/images/scraped/happydogs/happypics/jasper1c.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/jewel.jpg
+LOCAL: public/images/scraped/happydogs/happypics/jewel.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/junior1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/junior1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/junior3.jpg
+LOCAL: public/images/scraped/happydogs/happypics/junior3.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/junior4.jpg
+LOCAL: public/images/scraped/happydogs/happypics/junior4.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/katy.jpg
+LOCAL: public/images/scraped/happydogs/happypics/katy.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/kidrockh.jpg
+LOCAL: public/images/scraped/happydogs/happypics/kidrockh.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/kiki4c.jpg
+LOCAL: public/images/scraped/happydogs/happypics/kiki4c.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/kirby1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/kirby1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/kissey1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/kissey1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/lady-tramp.jpg
+LOCAL: public/images/scraped/happydogs/happypics/lady-tramp.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/libby1c.jpg
+LOCAL: public/images/scraped/happydogs/happypics/libby1c.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/libby2c.jpg
+LOCAL: public/images/scraped/happydogs/happypics/libby2c.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/lily1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/lily1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/lily2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/lily2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/link2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/link2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/linus1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/linus1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/lucky.jpg
+LOCAL: public/images/scraped/happydogs/happypics/lucky.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/lucky2-1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/lucky2-1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/lucky2-2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/lucky2-2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/lucky2-3.jpg
+LOCAL: public/images/scraped/happydogs/happypics/lucky2-3.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/lucy_annabell.jpg
+LOCAL: public/images/scraped/happydogs/happypics/lucy_annabell.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/luna1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/luna1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/maddie1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/maddie1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/mandy1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/mandy1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/markienew1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/markienew1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/markietwo.jpg
+LOCAL: public/images/scraped/happydogs/happypics/markietwo.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/marty.jpg
+LOCAL: public/images/scraped/happydogs/happypics/marty.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/max1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/max1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/max2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/max2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/max4.jpg
+LOCAL: public/images/scraped/happydogs/happypics/max4.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/meg1c.jpg
+LOCAL: public/images/scraped/happydogs/happypics/meg1c.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/mini1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/mini1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/mocha1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/mocha1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/mojo1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/mojo1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/muffin.jpg
+LOCAL: public/images/scraped/happydogs/happypics/muffin.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/mvc1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/mvc1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/newbie1c.jpg
+LOCAL: public/images/scraped/happydogs/happypics/newbie1c.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/newdesiel1c.jpg
+LOCAL: public/images/scraped/happydogs/happypics/newdesiel1c.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/newdiesel2c.jpg
+LOCAL: public/images/scraped/happydogs/happypics/newdiesel2c.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/newjunior2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/newjunior2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/niko.JPG
+LOCAL: public/images/scraped/happydogs/happypics/niko.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/nita2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/nita2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/nola1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/nola1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/odiec.jpg
+LOCAL: public/images/scraped/happydogs/happypics/odiec.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/oldjunior1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/oldjunior1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/oldjunior2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/oldjunior2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/paco2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/paco2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/paco2_2.JPG
+LOCAL: public/images/scraped/happydogs/happypics/paco2_2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/pacoc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/pacoc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/pacocrop.jpg
+LOCAL: public/images/scraped/happydogs/happypics/pacocrop.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/pampennyc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/pampennyc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/patchesc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/patchesc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/peanut1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/peanut1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/pearl_1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/pearl_1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/pedro2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/pedro2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/peekac.jpg
+LOCAL: public/images/scraped/happydogs/happypics/peekac.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/peeps1c.jpg
+LOCAL: public/images/scraped/happydogs/happypics/peeps1c.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/peeweenew.jpg
+LOCAL: public/images/scraped/happydogs/happypics/peeweenew.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/pepper.jpg
+LOCAL: public/images/scraped/happydogs/happypics/pepper.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/persey.jpg
+LOCAL: public/images/scraped/happydogs/happypics/persey.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/phoebe.jpg
+LOCAL: public/images/scraped/happydogs/happypics/phoebe.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/pippa-lulu1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/pippa-lulu1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/pippa-lulu2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/pippa-lulu2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/prancer1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/prancer1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/prancer2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/prancer2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/princessc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/princessc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/reba.jpg
+LOCAL: public/images/scraped/happydogs/happypics/reba.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/reggie1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/reggie1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/ricky.jpg
+LOCAL: public/images/scraped/happydogs/happypics/ricky.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/ricky1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/ricky1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/rico-1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/rico-1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/rico-2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/rico-2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/ringo.jpg
+LOCAL: public/images/scraped/happydogs/happypics/ringo.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/rocky2-white.jpg
+LOCAL: public/images/scraped/happydogs/happypics/rocky2-white.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/rockyc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/rockyc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/rockypup1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/rockypup1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/romeo1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/romeo1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/rosie.jpg
+LOCAL: public/images/scraped/happydogs/happypics/rosie.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/roxie.jpg
+LOCAL: public/images/scraped/happydogs/happypics/roxie.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/ruby1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/ruby1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/ruby2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/ruby2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/rubyc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/rubyc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/sammy2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/sammy2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/sammyc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/sammyc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/sanchahead2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/sanchahead2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/santosarmando2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/santosarmando2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/santosarmando3.jpg
+LOCAL: public/images/scraped/happydogs/happypics/santosarmando3.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/skipper2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/skipper2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/skipper4.jpg
+LOCAL: public/images/scraped/happydogs/happypics/skipper4.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/sophiec.jpg
+LOCAL: public/images/scraped/happydogs/happypics/sophiec.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/spanky3c.jpg
+LOCAL: public/images/scraped/happydogs/happypics/spanky3c.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/sparky.jpg
+LOCAL: public/images/scraped/happydogs/happypics/sparky.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/sparky2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/sparky2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/spike.jpg
+LOCAL: public/images/scraped/happydogs/happypics/spike.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/spikey03.jpg
+LOCAL: public/images/scraped/happydogs/happypics/spikey03.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/sprite2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/sprite2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/starrc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/starrc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/stinkc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/stinkc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/stryder2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/stryder2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/sunnyc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/sunnyc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/sunshine.jpg
+LOCAL: public/images/scraped/happydogs/happypics/sunshine.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/sunshineonright.jpg
+LOCAL: public/images/scraped/happydogs/happypics/sunshineonright.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/sweetienew1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/sweetienew1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/sweetienew2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/sweetienew2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/tacac.jpg
+LOCAL: public/images/scraped/happydogs/happypics/tacac.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/taco002.jpg
+LOCAL: public/images/scraped/happydogs/happypics/taco002.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/taco1c.jpg
+LOCAL: public/images/scraped/happydogs/happypics/taco1c.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/tacoc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/tacoc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/tacocrop.jpg
+LOCAL: public/images/scraped/happydogs/happypics/tacocrop.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/taz1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/taz1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/taz2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/taz2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/taz3.jpg
+LOCAL: public/images/scraped/happydogs/happypics/taz3.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/tequila.jpg
+LOCAL: public/images/scraped/happydogs/happypics/tequila.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/tia01a.jpg
+LOCAL: public/images/scraped/happydogs/happypics/tia01a.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/tico1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/tico1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/tiger.jpg
+LOCAL: public/images/scraped/happydogs/happypics/tiger.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/tiny.jpg
+LOCAL: public/images/scraped/happydogs/happypics/tiny.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/tiz2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/tiz2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/tony1.jpg
+LOCAL: public/images/scraped/happydogs/happypics/tony1.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/tootsie4-4.jpg
+LOCAL: public/images/scraped/happydogs/happypics/tootsie4-4.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/trixi2c.jpg
+LOCAL: public/images/scraped/happydogs/happypics/trixi2c.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/ttwinkc.jpg
+LOCAL: public/images/scraped/happydogs/happypics/ttwinkc.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/tudy4.jpg
+LOCAL: public/images/scraped/happydogs/happypics/tudy4.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/tutlounge2.jpg
+LOCAL: public/images/scraped/happydogs/happypics/tutlounge2.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/twink.jpg
+LOCAL: public/images/scraped/happydogs/happypics/twink.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/versace.jpg
+LOCAL: public/images/scraped/happydogs/happypics/versace.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/happydogs/happypics/zoec.jpg
+LOCAL: public/images/scraped/happydogs/happypics/zoec.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/im/bk/bk-paws-ltblue-watercolor.png
+LOCAL: public/images/scraped/im/bk/bk-paws-ltblue-watercolor.png
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/im/button/adoptappli-on.gif
+LOCAL: public/images/scraped/im/button/adoptappli-on.gif
+PAGES: /m-adopt.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/chi-fawn2.gif
+LOCAL: public/images/scraped/im/gr/chi-fawn2.gif
+PAGES: /m-adopt.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/chi-fawn3.gif
+LOCAL: public/images/scraped/im/gr/chi-fawn3.gif
+PAGES: /m-adopt.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/chi-older.gif
+LOCAL: public/images/scraped/im/gr/chi-older.gif
+PAGES: /m-adopt.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/chi-standard-lc.gif
+LOCAL: public/images/scraped/im/gr/chi-standard-lc.gif
+PAGES: /i-standard.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/chi-standard-sc.gif
+LOCAL: public/images/scraped/im/gr/chi-standard-sc.gif
+PAGES: /i-standard.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/chi-theraphy-300.jpg
+LOCAL: public/images/scraped/im/gr/chi-theraphy-300.jpg
+PAGES: /i-jobs.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/chi-wh-lt.gif
+LOCAL: public/images/scraped/im/gr/chi-wh-lt.gif
+PAGES: /m-adopt.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/f-chip.png
+LOCAL: public/images/scraped/im/gr/f-chip.png
+PAGES: /i-famous.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/f-coco.png
+LOCAL: public/images/scraped/im/gr/f-coco.png
+PAGES: /i-famous.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/f-gidget.png
+LOCAL: public/images/scraped/im/gr/f-gidget.png
+PAGES: /i-famous.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/f-lilly-h.png
+LOCAL: public/images/scraped/im/gr/f-lilly-h.png
+PAGES: /i-famous.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/f-mojo.png
+LOCAL: public/images/scraped/im/gr/f-mojo.png
+PAGES: /i-famous.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/f-moonie.png
+LOCAL: public/images/scraped/im/gr/f-moonie.png
+PAGES: /i-famous.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/f-papi.png
+LOCAL: public/images/scraped/im/gr/f-papi.png
+PAGES: /i-famous.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/f-willy.png
+LOCAL: public/images/scraped/im/gr/f-willy.png
+PAGES: /i-famous.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/j-flyball.jpg
+LOCAL: public/images/scraped/im/gr/j-flyball.jpg
+PAGES: /i-jobs.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/j-max.jpg
+LOCAL: public/images/scraped/im/gr/j-max.jpg
+PAGES: /i-jobs.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/j-wagon.jpg
+LOCAL: public/images/scraped/im/gr/j-wagon.jpg
+PAGES: /i-jobs.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/r-chi1.png
+LOCAL: public/images/scraped/im/gr/r-chi1.png
+PAGES: /i-rights.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/r-chi2.png
+LOCAL: public/images/scraped/im/gr/r-chi2.png
+PAGES: /i-rights.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/r-chi4.png
+LOCAL: public/images/scraped/im/gr/r-chi4.png
+PAGES: /i-rights.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/r-chi5.png
+LOCAL: public/images/scraped/im/gr/r-chi5.png
+PAGES: /i-rights.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/v-birtha.png
+LOCAL: public/images/scraped/im/gr/v-birtha.png
+PAGES: /v-cher.html
+
+URL: https://www.yankeechihuahuarescue.org/im/gr/v-molly.png
+LOCAL: public/images/scraped/im/gr/v-molly.png
+PAGES: /v-cher.html
+
+URL: https://www.yankeechihuahuarescue.org/im/logo/Yankee-Chi-Logo-transparent.png
+LOCAL: public/images/scraped/im/logo/yankee-chi-logo-transparent.png
+PAGES: /events.html, /happydogs/reconstruction.html, /i-cratetraining.html, /i-famous.html, /i-give.htm, /i-give.html, /i-jobs.html, /i-neutering.html, /i-responsible.html, /i-rights.html, /i-standard.html, /i-teacup.html, /i-thechi.html, /i-tips.html, /i-tre-choc.html, /i-treats.html, /i-why.html, /index.html, /m-about.html, /m-adopt.html, /m-info.html, /m-surrender.html, /m-volunteer.html, /v-cher.html, /v-start.html
+
+URL: https://www.yankeechihuahuarescue.org/im/logo/ycrchi.ico
+LOCAL: public/images/scraped/im/logo/ycrchi.ico
+PAGES: /events.html, /i-cratetraining.html, /i-famous.html, /i-give.htm, /i-give.html, /i-jobs.html, /i-neutering.html, /i-responsible.html, /i-rights.html, /i-standard.html, /i-teacup.html, /i-thechi.html, /i-tips.html, /i-tre-choc.html, /i-treats.html, /i-why.html, /index.html, /m-about.html, /m-adopt.html, /m-info.html, /m-surrender.html, /m-volunteer.html, /v-cher.html, /v-start.html
+
+URL: https://www.yankeechihuahuarescue.org/images/Joey-Transparent.png
+LOCAL: public/images/scraped/images/joey-transparent.png
+PAGES: /m-adopt.html
+
+URL: https://www.yankeechihuahuarescue.org/images/PayPal%20Donate/paypal-donate.png
+LOCAL: public/images/scraped/images/paypal-donate/paypal-donate.png
+PAGES: /events.html, /happydogs/reconstruction.html, /i-cratetraining.html, /i-famous.html, /i-give.html, /i-jobs.html, /i-neutering.html, /i-responsible.html, /i-rights.html, /i-standard.html, /i-teacup.html, /i-thechi.html, /i-tips.html, /i-tre-choc.html, /i-treats.html, /i-why.html, /index.html, /m-about.html, /m-adopt.html, /m-info.html, /m-surrender.html, /m-volunteer.html, /v-cher.html, /v-start.html
+
+URL: https://www.yankeechihuahuarescue.org/images/PayPal%20Donate/pp_donate.jpg
+LOCAL: public/images/scraped/images/paypal-donate/pp_donate.jpg
+PAGES: /events.html, /i-cratetraining.html, /i-famous.html, /i-give.htm, /i-give.html, /i-jobs.html, /i-neutering.html, /i-responsible.html, /i-rights.html, /i-standard.html, /i-teacup.html, /i-thechi.html, /i-tips.html, /i-tre-choc.html, /i-treats.html, /i-why.html, /index.html, /m-about.html, /m-adopt.html, /m-info.html, /m-surrender.html, /m-volunteer.html, /v-cher.html, /v-start.html
+
+URL: https://www.yankeechihuahuarescue.org/images/Save-a-Dog.gif
+LOCAL: public/images/scraped/images/save-a-dog.gif
+PAGES: /events.html, /happydogs/reconstruction.html, /i-cratetraining.html, /i-famous.html, /i-give.html, /i-jobs.html, /i-neutering.html, /i-responsible.html, /i-rights.html, /i-standard.html, /i-teacup.html, /i-thechi.html, /i-tips.html, /i-tre-choc.html, /i-treats.html, /i-why.html, /index.html, /m-about.html, /m-adopt.html, /m-info.html, /m-surrender.html, /m-volunteer.html, /v-cher.html, /v-start.html
+
+URL: https://www.yankeechihuahuarescue.org/images/button68.gif
+LOCAL: public/images/scraped/images/button68.gif
+PAGES: /events.html, /happydogs/reconstruction.html, /i-cratetraining.html, /i-famous.html, /i-give.htm, /i-give.html, /i-jobs.html, /i-neutering.html, /i-responsible.html, /i-rights.html, /i-standard.html, /i-teacup.html, /i-thechi.html, /i-tips.html, /i-tre-choc.html, /i-treats.html, /i-why.html, /index.html, /m-about.html, /m-adopt.html, /m-info.html, /m-surrender.html, /m-volunteer.html, /v-cher.html, /v-start.html
+
+URL: https://www.yankeechihuahuarescue.org/images/button6B.gif
+LOCAL: public/images/scraped/images/button6b.gif
+PAGES: /events.html, /happydogs/reconstruction.html, /i-cratetraining.html, /i-famous.html, /i-give.htm, /i-give.html, /i-jobs.html, /i-neutering.html, /i-responsible.html, /i-rights.html, /i-standard.html, /i-teacup.html, /i-thechi.html, /i-tips.html, /i-tre-choc.html, /i-treats.html, /i-why.html, /index.html, /m-about.html, /m-adopt.html, /m-info.html, /m-surrender.html, /m-volunteer.html, /v-cher.html, /v-start.html
+
+URL: https://www.yankeechihuahuarescue.org/images/button6E.gif
+LOCAL: public/images/scraped/images/button6e.gif
+PAGES: /events.html, /happydogs/reconstruction.html, /i-cratetraining.html, /i-famous.html, /i-give.htm, /i-give.html, /i-jobs.html, /i-neutering.html, /i-responsible.html, /i-rights.html, /i-standard.html, /i-teacup.html, /i-thechi.html, /i-tips.html, /i-tre-choc.html, /i-treats.html, /i-why.html, /index.html, /m-about.html, /m-adopt.html, /m-info.html, /m-surrender.html, /m-volunteer.html, /v-cher.html, /v-start.html
+
+URL: https://www.yankeechihuahuarescue.org/images/button77.gif
+LOCAL: public/images/scraped/images/button77.gif
+PAGES: /events.html, /happydogs/reconstruction.html, /i-cratetraining.html, /i-famous.html, /i-give.htm, /i-give.html, /i-jobs.html, /i-neutering.html, /i-responsible.html, /i-rights.html, /i-standard.html, /i-teacup.html, /i-thechi.html, /i-tips.html, /i-tre-choc.html, /i-treats.html, /i-why.html, /index.html, /m-about.html, /m-adopt.html, /m-info.html, /m-surrender.html, /m-volunteer.html, /v-cher.html, /v-start.html
+
+URL: https://www.yankeechihuahuarescue.org/images/button7A.gif
+LOCAL: public/images/scraped/images/button7a.gif
+PAGES: /events.html, /happydogs/reconstruction.html, /i-cratetraining.html, /i-famous.html, /i-give.htm, /i-give.html, /i-jobs.html, /i-neutering.html, /i-responsible.html, /i-rights.html, /i-standard.html, /i-teacup.html, /i-thechi.html, /i-tips.html, /i-tre-choc.html, /i-treats.html, /i-why.html, /index.html, /m-about.html, /m-adopt.html, /m-info.html, /m-surrender.html, /m-volunteer.html, /v-cher.html, /v-start.html
+
+URL: https://www.yankeechihuahuarescue.org/images/button80.gif
+LOCAL: public/images/scraped/images/button80.gif
+PAGES: /events.html, /happydogs/reconstruction.html, /i-cratetraining.html, /i-famous.html, /i-give.htm, /i-give.html, /i-jobs.html, /i-neutering.html, /i-responsible.html, /i-rights.html, /i-standard.html, /i-teacup.html, /i-thechi.html, /i-tips.html, /i-tre-choc.html, /i-treats.html, /i-why.html, /index.html, /m-about.html, /m-adopt.html, /m-info.html, /m-surrender.html, /m-volunteer.html, /v-cher.html, /v-start.html
+
+URL: https://www.yankeechihuahuarescue.org/images/find_us_on_facebook_badge.gif
+LOCAL: public/images/scraped/images/find_us_on_facebook_badge.gif
+PAGES: /i-give.htm, /index.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/New%20Year/Chi-Synth02.png
+LOCAL: public/images/scraped/images/holidays/new-year/chi-synth02.png
+PAGES: /i-give.htm, /i-give.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/Chi%204-leaf%20clover.png
+LOCAL: public/images/scraped/images/holidays/st-patrick/chi-4-leaf-clover.png
+PAGES: /index.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/Chi%20St%20Partrick%20sleep%20in%20hat.png
+LOCAL: public/images/scraped/images/holidays/st-patrick/chi-st-partrick-sleep-in-hat.png
+PAGES: /m-info.html, /m-surrender.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/Chi%20St%20Patrick%20glasses.png
+LOCAL: public/images/scraped/images/holidays/st-patrick/chi-st-patrick-glasses.png
+PAGES: /index.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/Chi%20St%20Patrick%20kiss%20me.png
+LOCAL: public/images/scraped/images/holidays/st-patrick/chi-st-patrick-kiss-me.png
+PAGES: /index.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/Chi%20St%20Patrick%20lucky%20charm.png
+LOCAL: public/images/scraped/images/holidays/st-patrick/chi-st-patrick-lucky-charm.png
+PAGES: /m-about.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/Chi%20St%20Patrick%20lucky%20dog.gif
+LOCAL: public/images/scraped/images/holidays/st-patrick/chi-st-patrick-lucky-dog.gif
+PAGES: /m-about.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/Chi%20St%20Patrick%20pub.jpg
+LOCAL: public/images/scraped/images/holidays/st-patrick/chi-st-patrick-pub.jpg
+PAGES: /m-info.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/Chi%20St%20Patrick%20pub2.png
+LOCAL: public/images/scraped/images/holidays/st-patrick/chi-st-patrick-pub2.png
+PAGES: /m-volunteer.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/Chi%20St%20Patrick%20shamrock.png
+LOCAL: public/images/scraped/images/holidays/st-patrick/chi-st-patrick-shamrock.png
+PAGES: /m-adopt.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/Chi%20St%20Patrick%20wish%20I%20had%20another.png
+LOCAL: public/images/scraped/images/holidays/st-patrick/chi-st-patrick-wish-i-had-another.png
+PAGES: /m-adopt.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/Chi%20St%20Patrick01.jpg
+LOCAL: public/images/scraped/images/holidays/st-patrick/chi-st-patrick01.jpg
+PAGES: /m-volunteer.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/Chi%20hat%20graphic02.png
+LOCAL: public/images/scraped/images/holidays/st-patrick/chi-hat-graphic02.png
+PAGES: /m-info.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/Chi%20irish%20heart%20leaf.png
+LOCAL: public/images/scraped/images/holidays/st-patrick/chi-irish-heart-leaf.png
+PAGES: /m-surrender.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/ChiX2%20-%20happy%20st%20patrick%20day.jpg
+LOCAL: public/images/scraped/images/holidays/st-patrick/chix2---happy-st-patrick-day.jpg
+PAGES: /m-volunteer.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/St%20Patrick%20rainbow%20archway.png
+LOCAL: public/images/scraped/images/holidays/st-patrick/st-patrick-rainbow-archway.png
+PAGES: /events.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+LOCAL: public/images/scraped/images/holidays/st-patrick/_happy-st-patricks-day.png
+PAGES: /events.html, /i-cratetraining.html, /i-famous.html, /i-give.htm, /i-give.html, /i-jobs.html, /i-neutering.html, /i-responsible.html, /i-rights.html, /i-standard.html, /i-teacup.html, /i-thechi.html, /i-tips.html, /i-tre-choc.html, /i-treats.html, /i-why.html, /index.html, /m-about.html, /m-adopt.html, /m-info.html, /m-surrender.html, /m-volunteer.html, /v-cher.html, /v-start.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/clover%20border%20left.png
+LOCAL: public/images/scraped/images/holidays/st-patrick/clover-border-left.png
+PAGES: /events.html, /index.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/St%20Patrick/clover%20border%20right.png
+LOCAL: public/images/scraped/images/holidays/st-patrick/clover-border-right.png
+PAGES: /events.html, /m-about.html, /m-info.html, /m-surrender.html, /m-volunteer.html
+
+URL: https://www.yankeechihuahuarescue.org/images/holidays/Thanksgiving/WavingTurkey.png
+LOCAL: public/images/scraped/images/holidays/thanksgiving/wavingturkey.png
+PAGES: /i-give.htm
+
+URL: https://www.yankeechihuahuarescue.org/images/iGive-bonus-donation.gif
+LOCAL: public/images/scraped/images/igive-bonus-donation.gif
+PAGES: /i-give.htm, /i-give.html
+
+URL: https://www.yankeechihuahuarescue.org/images/iGive-dot-com-transparent-color.png
+LOCAL: public/images/scraped/images/igive-dot-com-transparent-color.png
+PAGES: /i-give.htm, /i-give.html
+
+URL: https://www.yankeechihuahuarescue.org/images/iGive-how-it-works.png
+LOCAL: public/images/scraped/images/igive-how-it-works.png
+PAGES: /i-give.htm, /i-give.html
+
+URL: https://www.yankeechihuahuarescue.org/images/iGive-membership.png
+LOCAL: public/images/scraped/images/igive-membership.png
+PAGES: /i-give.htm, /i-give.html
+
+URL: https://www.yankeechihuahuarescue.org/images/iSearchiGive.gif
+LOCAL: public/images/scraped/images/isearchigive.gif
+PAGES: /events.html, /happydogs/reconstruction.html, /i-cratetraining.html, /i-famous.html, /i-give.htm, /i-give.html, /i-jobs.html, /i-neutering.html, /i-responsible.html, /i-rights.html, /i-standard.html, /i-teacup.html, /i-thechi.html, /i-tips.html, /i-tre-choc.html, /i-treats.html, /i-why.html, /index.html, /m-about.html, /m-adopt.html, /m-info.html, /m-surrender.html, /m-volunteer.html, /v-cher.html, /v-start.html
+
+URL: https://www.yankeechihuahuarescue.org/images/igive_48storelogos.jpg
+LOCAL: public/images/scraped/images/igive_48storelogos.jpg
+PAGES: /i-give.htm, /i-give.html
+
+URL: https://www.yankeechihuahuarescue.org/images/igive_logo_youshopwithstores.jpg
+LOCAL: public/images/scraped/images/igive_logo_youshopwithstores.jpg
+PAGES: /i-give.htm, /i-give.html
+
+URL: https://www.yankeechihuahuarescue.org/images/imgA4.jpg
+LOCAL: public/images/scraped/images/imga4.jpg
+PAGES: /index.html
+
+URL: https://www.yankeechihuahuarescue.org/images/imgB1.gif
+LOCAL: public/images/scraped/images/imgb1.gif
+PAGES: /i-give.htm, /index.html
+
+URL: https://www.yankeechihuahuarescue.org/images/imgC.jpg
+LOCAL: public/images/scraped/images/imgc.jpg
+PAGES: /i-give.htm, /index.html
+
+URL: https://www.yankeechihuahuarescue.org/images/imgD.jpg
+LOCAL: public/images/scraped/images/imgd.jpg
+PAGES: /index.html
+
+URL: https://www.yankeechihuahuarescue.org/images/longhaired-chihuahua-3.jpg
+LOCAL: public/images/scraped/images/longhaired-chihuahua-3.jpg
+PAGES: /events.html
+
+URL: https://www.yankeechihuahuarescue.org/images/pageunderconstruction-leftmargin.jpg
+LOCAL: public/images/scraped/images/pageunderconstruction-leftmargin.jpg
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/images/save-a-dog-logo-animated.gif
+LOCAL: public/images/scraped/images/save-a-dog-logo-animated.gif
+PAGES: /events.html, /happydogs/reconstruction.html, /i-cratetraining.html, /i-famous.html, /i-give.htm, /i-give.html, /i-jobs.html, /i-neutering.html, /i-responsible.html, /i-rights.html, /i-standard.html, /i-teacup.html, /i-thechi.html, /i-tips.html, /i-tre-choc.html, /i-treats.html, /i-why.html, /index.html, /m-about.html, /m-adopt.html, /m-info.html, /m-surrender.html, /m-volunteer.html, /v-cher.html, /v-start.html
+
+URL: https://www.yankeechihuahuarescue.org/images/seasons/Chi-Flower.png
+LOCAL: public/images/scraped/images/seasons/chi-flower.png
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/images/seasons/Chi-Sunflower.png
+LOCAL: public/images/scraped/images/seasons/chi-sunflower.png
+PAGES: /happydogs/reconstruction.html
+
+URL: https://www.yankeechihuahuarescue.org/images/seasons/summertime-chi3.png
+LOCAL: public/images/scraped/images/seasons/summertime-chi3.png
+PAGES: /happydogs/reconstruction.html
+

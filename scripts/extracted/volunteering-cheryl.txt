@@ -1,0 +1,84 @@
+# Page: volunteering-cheryl
+# Source: /v-cher.html
+
+## IMAGES ON THIS PAGE:
+  - src: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+    alt: Happy St. Patrick's Day
+    width: 298
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: im/gr/v-birtha.png
+    alt: Chihuahua
+    width: 105
+  - src: im/gr/v-molly.png
+    alt: Chihuahua
+    width: 107
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=211]
+ | Serving the Six New England States
+
+[IMAGE: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png | alt="Happy St. Patrick's Day" | align= | width=298]
+ | [LINK:i-give.html]iGive.com
+
+[LINK:happydogs/reconstruction.html]Happy Endings
+
+[LINK:events.html]Current Events
+
+[LINK:guest/index.php]Guest Book
+
+[LINK:https://gofund.me/a6cb95fec]GoFundMe
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | [LINK:index.html]
+[IMAGE: images/button68.gif | alt="Home" | align= | width=100]
+[LINK:m-about.html]
+[IMAGE: images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:m-info.html]
+[IMAGE: images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:m-volunteer.html]
+[IMAGE: images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:m-adopt.html]
+[IMAGE: images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:m-surrender.html]
+[IMAGE: images/button80.gif | alt="Surrender" | align= | width=100]
+ | 
+
+[LINK:i-give.html]
+[IMAGE: images/Save-a-Dog.gif | alt="Save a Dog via iGive" | align= | width=120]
+
+|  |  | 
+# Volunteering
+
+by Cheryl “2009”
+
+In Nov of 2007, I had received an e-mail from the Chihuahua meet ups group of NH that caught my attention. It said something like “YCRAA is looking for a few good Volunteers!” The e-mail immediately grabbed my attention and I applied to volunteer. I had a home visit scheduled and was approved right away, I jumped in and got my first foster immediately. Then early 2008 it was uncertain if YCRAA would remain to rescue Chihuahua’s but in late spring 2008 we re-established and began rescuing again… Soon after the re start up, I was nominated as a Board of Director’s and gladly accepted the position..
+[IMAGE: im/gr/v-birtha.png | alt="Chihuahua" | align= | width=105]
+
+I am currently doing many home visits, both for volunteers and adoption applicants, meeting lots of wonderful people who enjoy the same interests, taking in dogs from shelters or owner surrenders, vet visits, fostering and placements.. Many people ask me "Isn't it hard to foster or to spend time with the dogs just to see them go?" and ironically, it's almost more rewarding. To get that first email from the new adopters knowing that the chi has made it through the night in their new homes and have their own "spot" is great, and many updates following how special the dog is to them, not to mention you get to "give another chi that second chance".
+[IMAGE: im/gr/v-molly.png | alt="Chihuahua" | align= | width=107]
+
+Yankee Chihuahua Rescue is a wonderful and loving group of people who all have great compassion for Chihuahuas. There are so many Chi’s that would have been euthanized if it weren't for these volunteers who have provided their time, homes, blood sweat and tears to help these Chi-pups out. I have been lucky to meet some of the terrific dogs that would not be with us today if it were not for YCRAA. I am proud to be a member of this great organization and hope that we continue to attract more astonishing volunteers in the future. Volunteering for this rescue was the best decision I ever made.
+ | 
+
+|  |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: images/iSearchiGive.gif | alt="iGive.com" | align= | width=460]
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+ | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+
+[/TABLE]

@@ -1,0 +1,140 @@
+# Page: breed-standard
+# Source: /i-standard.html
+
+## IMAGES ON THIS PAGE:
+  - src: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+    alt: Happy St. Patrick's Day
+    width: 298
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: im/gr/chi-standard-sc.gif
+    alt: Benefits of Neutering
+    width: 187
+  - src: im/gr/chi-standard-lc.gif
+    alt: chihuahua
+    width: 190
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=211]
+ | Serving the Six New England States
+
+[IMAGE: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png | alt="Happy St. Patrick's Day" | align= | width=298]
+ | [LINK:i-give.html]iGive.com
+
+[LINK:happydogs/reconstruction.html]Happy Endings
+
+[LINK:events.html]Current Events
+
+[LINK:guest/index.php]Guest Book
+
+[LINK:https://gofund.me/a6cb95fec]GoFundMe
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | [LINK:index.html]
+[IMAGE: images/button68.gif | alt="Home" | align= | width=100]
+[LINK:m-about.html]
+[IMAGE: images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:m-info.html]
+[IMAGE: images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:m-volunteer.html]
+[IMAGE: images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:m-adopt.html]
+[IMAGE: images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:m-surrender.html]
+[IMAGE: images/button80.gif | alt="Surrender" | align= | width=100]
+ | 
+
+[LINK:i-give.html]
+[IMAGE: images/Save-a-Dog.gif | alt="Save a Dog via iGive" | align= | width=120]
+
+|  |  | 
+# [LINK:http://www.akc.org/breeds/chihuahua/index.cfm]AKC - Chihuahua Breed Standard
+Toy Group
+
+General Appearance- A graceful, alert, swift-moving compact little dog with saucy expression, and with terrier-like qualities of temperament..
+
+Size, Proportion, Substance Weight– A well balanced little dog not to exceed 6 pounds.
+
+Proportion– The body is off-square; hence, slightly longer when measured from point of shoulder to point of buttocks, than height at the withers. Somewhat shorter bodies are preferred in males.
+
+Disqualification– Any dog over 6 pounds in weight.
+
+Head- A well rounded "apple dome" skull, with or without molera.
+
+Expression– Saucy.
+
+[IMAGE: im/gr/chi-standard-sc.gif | alt="Benefits of Neutering" | align= | width=187]
+
+Eyes- Full, round, but not protruding, balanced, set well apart-luminous dark or luminous ruby. Light eyes in blond or white-colored dogs permissible. Blue eyes or a difference in the color of the iris in the two eyes, or two different colors within one iris should be considered a serious fault.
+
+Ears– Large, erect type ears, held more upright when alert, but flaring to the sides at a 45 degree angle when in repose, giving breadth between the ears.
+
+Stop– Well defined. When viewed in profile, it forms a near 90 degree angle where muzzle joins skull.
+
+Muzzle– Moderately short, slightly pointed. Cheeks and jaws lean.
+
+Nose– Self-colored in blond types, or black. In moles, blues, and chocolates, they are self-colored. In blond types, pink noses permissible.
+
+Bite– Level or scissors. Overshot or undershot, or any distortion of the bite or jaw, should be penalized as a serious fault. A missing tooth or two is permissible.
+
+Disqualifications– Broken down or cropped ears.
+
+Chihuahua (Long Coat )
+Neck, Topline, Body Neck– Slightly arched, gracefully sloping into lean shoulders.
+
+Topline– Level. Body – Ribs rounded and well sprung (but not too much "barrel-shaped").
+
+Tail– Moderately long, carried sickle either up or out, or in a loop over the back with tip just touching the back.
+(Never tucked between legs.)
+Disqualifications– Docked tail, bobtail.
+
+Forequarters Shoulders– Lean, sloping into a slightly broadening support above straight forelegs that set well under, giving free movement at the elbows. Shoulders should be well up, giving balance and soundness, sloping into a level back (never down or low). This gives a well developed chest and strength of forequarters.
+
+Feet– A small, dainty foot with toes well split up but not spread, pads cushioned. (Neither the hare nor the cat foot.) Dewclaws may be removed.
+
+[IMAGE: im/gr/chi-standard-lc.gif | alt="chihuahua" | align= | width=190]
+
+Pasterns– Strong .Hindquarters Muscular, with hocks well apart, neither out nor in, well let down, firm and sturdy. Angulation – Should equal that of forequarters. The feet are as in front. Dewclaws may be removed.
+
+Coat- In the Smooth Coats, the coat should be of soft texture, close and glossy. (Heavier coats with undercoats permissible.) Coat placed well over body with ruff on neck preferred, and more scanty on head and ears. Hair on tail preferred furry. In Long Coats, the coat should be of a soft texture, either flat or slightly wavy, with undercoat preferred.
+
+Ears– Fringed.
+
+Tail– Full and long (as a plume). Feathering on feet and legs, pants on hind legs and large ruff on the neck desired and preferred. (The Chihuahua should be groomed only to create a neat appearance.)
+
+Disqualification– In Long Coats, too thin coat that resembles bareness.
+
+Color- Any color - Solid, marked or splashed.
+
+Gait- The Chihuahua should move swiftly with a firm, sturdy action, with good reach in front equal to the drive from the rear. From the rear, the hocks remain parallel to each other, and the foot fall of the rear legs follows directly behind that of the forelegs. The legs, both front and rear, will tend to converge slightly toward a central line of gravity as speed increases. The side view shows good, strong drive in the rear and plenty of reach in the front, with head carried high. The topline should remain firm and the backline level as the dog moves.
+
+Temperament- Alert, projecting the ‘terrier-like’ attitudes of self importance, confidence, self-reliance.
+
+Disqualifications-
+
+- Broken down or cropped ears.
+- Docked tail, bobtail.
+- In Long Coats, too thin coat that resembles bareness.Approved August 12, 2008
+Effective October 1, 2008 | 
+
+|  |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: images/iSearchiGive.gif | alt="iGive.com" | align= | width=460]
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+ | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+
+[/TABLE]

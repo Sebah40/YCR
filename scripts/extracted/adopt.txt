@@ -1,0 +1,253 @@
+# Page: adopt
+# Source: /m-adopt.html
+
+## IMAGES ON THIS PAGE:
+  - src: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+    alt: Happy St. Patrick's Day
+    width: 298
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: images/holidays/St%20Patrick/Chi%20St%20Patrick%20shamrock.png
+    alt: 
+    width: 630
+  - src: images/Joey-Transparent.png
+    alt: 
+    width: 120
+  - src: images/holidays/St%20Patrick/Chi%20St%20Patrick%20wish%20I%20had%20another.png
+    alt: 
+    width: 186
+  - src: im/gr/chi-fawn3.gif
+    alt: Chihuahua
+    width: 145
+  - src: im/gr/chi-fawn2.gif
+    alt: Chihuahua
+    width: 145
+  - src: im/gr/chi-older.gif
+    alt: Chihuahua
+    width: 88
+  - src: im/button/adoptappli-on.gif
+    alt: Adoption Application
+    width: 100
+  - src: im/gr/chi-wh-lt.gif
+    alt: Chihuahua
+    width: 100
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=211]
+ | Serving the Six New England States
+
+[IMAGE: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png | alt="Happy St. Patrick's Day" | align= | width=298]
+ | [LINK:i-give.html]iGive.com
+
+[LINK:happydogs/reconstruction.html]Happy Endings
+
+[LINK:events.html]Current Events
+
+[LINK:guest/index.php]Guest Book
+
+[LINK:https://gofund.me/a6cb95fec]GoFundMe
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | [LINK:index.html]
+[IMAGE: images/button68.gif | alt="Home" | align= | width=100]
+[LINK:m-about.html]
+[IMAGE: images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:m-info.html]
+[IMAGE: images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:m-volunteer.html]
+[IMAGE: images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:m-adopt.html]
+[IMAGE: images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:m-surrender.html]
+[IMAGE: images/button80.gif | alt="Surrender" | align= | width=100]
+ | 
+
+[LINK:i-give.html]
+[IMAGE: images/Save-a-Dog.gif | alt="Save a Dog via iGive" | align= | width=120]
+
+|  | 
+
+[IMAGE: images/holidays/St%20Patrick/Chi%20St%20Patrick%20shamrock.png | alt="" | align= | width=630]
+
+[IMAGE: images/Joey-Transparent.png | alt="" | align= | width=120]
+
+ | 
+
+Adopting a Yankee Chihuahua
+
+YCRAA Chihuahuas have all found themselves homeless through no fault of their own.
+[IMAGE: images/holidays/St%20Patrick/Chi%20St%20Patrick%20wish%20I%20had%20another.png | alt="" | align= | width=186]
+
+- Some are released to us by their owners due to changes in family circumstances
+- Some are from owners realizing that a Chihuahua is not a good match for them
+- Some are strays from animal shelters and humane societies
+- A few come from puppy mills and backyard breeders.
+
+Our adult Chihuahuas are spayed/neutered, tested and if necessary, treated, for heartworm and other parasites. All Chihuahuas are brought up to date on their inoculations prior to their placement in loving forever homes.
+
+Adoption Process
+
+The first step in adoption is to fill out an[LINK:form/appi-adoption-formspree.html]Adoption ApplicationThis form gives basic information about the type of Chihuahua that will best fit into your family. Once the application is received and reviewed to ensure it is complete and meets our adoption criteria, a YCRAA volunteer will then contact you for a phone interview and arrange for a home visit. When there is a particular YCRAA dog you may be interested in then the Foster Mom will also contact you to talk about their foster. We do not have a shelter or facility where the Chihuahuas may be visited, we are a network of foster homes here in New England. Foster parents volunteer their time and put a lot into evaluating and rehabilitating YCRAA Chihuahuas until they are ready for placement.
+
+If it seems like a good match then a visit is arranged to meet the dog. Sometimes a home is approved to adopt a YCRAA Chihuahua but it is not the best match for the particular dog requested. The application then remains on file as a "Pre-approved Home" until the right dog comes along. We often have dogs that have just come in and are not listed yet, but the Adoption Coordinator will know about them. Many of our YCRAA Chihuahuas get matched to applicants that are waiting on our "Approved Homes" list. Becoming an Approved Home is the best way to be matched with a YCRAA dog.
+
+Cost of an Adoption (donation plus applicable medical)
+
+Adoption cost is based on age (donation)plus any/all applicable medical expenses.YCRAA willingly accepts Chihuahuas and Chi mixes young and old. Any one dog may need expensive veterinary treatment to fulfill quality of life standards. Adoption donations do not cover any veterinary/medical costs. Be aware that there may be additional medical expenses added to the adoption donation as the final cost for adoption.
+
+When dogs are not suitable for adoption, then they live out their lives with a volunteer as part of our "Special Needs" program. We depend on private donations and the sale of items from our web site to supplement the adoption donations.
+
+The requested adoption donation of a Chihuahua based on age is as follows:
+
+[TABLE]
+
+|  | Age | Donation | Medical Expenses
+|  | 0 - 6 months | To be determined (per dog) | To be determined if any
+|  | 6 mos - 2 yrs | $250 | To be determined if any
+|  | 2 - 4 years | $200 | To be determined if any
+|  | 4 - 6 years | $250 | To be determined if any
+|  | 6 - 8 years | $200 | To be determined if any
+|  | 8 - 10 years | $100 | To be determined if any
+|  | over 10 years | $ 75 or negotiable to a great home | To be determined if any
+[/TABLE]
+
+[IMAGE: im/gr/chi-fawn3.gif | alt="Chihuahua" | align= | width=145]
+For puppies, YCRAA requires adopters to sign a spay/neuter contract and to submit a pre-paid receipt from a veterinarian for spay/neuter surgery (adopter pre-paid expense).
+
+For older dogs, e.g. Chihuahuas with a known health issue, then the donation amount requested may be reduced but still may include applicable medical expenses e.g. medications that go with the adoption.
+
+Adoption Policies of YCRAA
+
+- We serve the six New England states (New Hampshire, Vermont, Massachusetts, Maine, Connecticut, and Rhode Island) only.
+- We cannot rescue dogs nor can we offer them for adoption to you if you do not live within New England.
+
+- Please note: We cannot place dogs outside of these areas.
+- Contact Chihuahua Rescue and Transport (CRT) for information about adoption in your area.
+- YCRAA offers dogs for adoption only to households in which there are no children under 10 years of age without special approval of the YCRAA Board of Directors.
+- All adult dogs are neutered before placement.
+- YCRAA offers dogs for adoption only to households in which there are NO intact dogs. For more information on our policy;[LINK:i-why.html]Why we do not place dogs in homes with intact animals.
+- All dogs under 6 months require a signed Spay/Neuter Contract and a signed receipt from the adopter's veterinarian stating that spay/neuter surgery has been paid in full by the adopter.
+- All dogs are microchipped and registered with YCRAA as the primary contact.
+
+[LINK:http://www.petfinder.com/pet-search?shelterid=ME107]Come see our Available Dogs
+
+Why we do not place dogs in homes with intact animals.
+
+We are often asked, "Why will you not place a Yankee Chihuahua in a home with dogs that have not been neutered?"
+
+The main reason we will not place a Yankee Chihuahua in a home where the current pets have not been neutered, is because we want to place our Chihuahuas in homes with responsible owners. Responsible owners take good care of their pets and do the best thing for them -- which includes Neutering.
+
+There are several health benefits to neutering.
+
+[IMAGE: im/gr/chi-fawn2.gif | alt="Chihuahua" | align= | width=145]
+One of the most important concerns the prostate gland, which under the influence of testosterone will gradually enlarge over the course of the dog's life. In age, it is likely to become uncomfortable, possibly being large enough to interfere with defecation. The prostate under the influence of testosterone is also predisposed to infection which is almost impossible to clear up without neutering. Neutering causes the prostate to shrink into insignificance thus preventing both prostatitis (an infection, usually caused by bacteria) as well as the uncomfortable benign hyperplasia (enlargement) that occurs with aging. It is often erroneously held that neutering prevents prostate cancer but this is not true.
+
+Other health benefits of neutering include the prevention of certain types of hernias and tumors of the testicles and anus. Excessive prepuce/penis discharge is also reduced by neutering.
+
+Thebehaviorof other dogs in homes our fosters go into is a huge concern of YCRAA. Un-neutered dogs have natural biological needs. If the dog doesn't fulfill those needs, he will build up frustration, anxiety, and may even develop obsessive tendencies.
+
+Un-neutered dogs often are:
+
+- Wanderers & roamers
+- Noisy, Baying, howling, overbearing, barking & lunging at passersby
+- Tend toward fighting, lunging & barking at and fighting with other male dogs
+- Non-compliant; pushy and bossy attitude towards caretakers and strangers
+- Uncooperative, Resistant; an unwillingness to obey commands
+- Excessive sniffers have sexual frustration; mounting other dogs, people, toys
+- Excessive grooming of genital area
+- Offensive growling, snapping, biting
+- A heightened sense of territoriality, marking with urine indoors
+- Excessive marking on outdoor scent posts
+- Intolerant; possessive/overprotective behavior; growling/snapping around food or toys.
+
+Not the type of circumstances we want our fosters to go into.
+
+The only behavior changes after neutering relate to behaviors influenced by male hormones. Playfulness, friendliness, and socialization with humans are not changed. Activity level and appetite do not change with neutering. A male dog should not gain weight or become less interested in activity post neuter.
+
+With Neutering, the interest in roaming is eliminated in 90 percent of neutered dogs. Aggressive behavior against other dogs is eliminated in 60 percent of neutered dogs. Urine marking is eliminated in 50 percent of neutered male dogs. Inappropriate mounting is eliminated in 70 percent of neutered dogs. In other words, they are much better behaved.
+
+Well-behaved companions are what a Yankee Chihuahua deserves.
+[IMAGE: im/gr/chi-older.gif | alt="Chihuahua" | align= | width=88]
+
+Adopting a senior dog can be an extremely rewarding experience. It is not for everyone, but those who have the time and the heart to take in a senior are usually richly rewarded. Many of these dogs lost loving homes when an owner died or became too ill to care for them. A few were discarded when they developed health problems, and no one cared enough to get treatment for them.
+
+Others are casualties of a divorce or a move to a place where dogs are not allowed. They are often frightened at first, and confused by the loss of a long-familiar home. It can take a little extra time and patience to convince them that they can be safe and loved again. Once they feel secure, though, they seem to know they've been given a second chance at life. They don't ask for much: just a warm place to sleep, good meals, and plenty of love. They will not be with you as long as a younger dog - but you will have given them years of love in place of fear, confusion, and a premature death. And the love and gratitude they give in return is a very special thing.[LINK:form/appi-adoption-formspreeCAPTCHA.html]
+[IMAGE: im/button/adoptappli-on.gif | alt="Adoption Application" | align= | width=100]
+
+If you would consider adopting an older dog, please fill in an application. Often these wonderful dogs need a new home quickly. If we have your application and are on our waiting list they can be adopted right to you and the trauma of losing their home is greatly reduced.[LINK:file:///C:/Users/Randa/OneDrive/Documents/My%20Web%20Sites/YCRAA%20LIVE/form/appi-adoption-formspreeCAPTCHA.html]
+
+Reasons to Adopt a Senior Dog
+
+- Senior dogs love to sleep and cuddle the day away.
+- They enjoy a brisk daily walk, but the best part of the day is the nap.
+- They love for you to join them. Senior dogs have a tremendous amount of love to give.
+- When you rescue a senior dog, you have a best friend for life.
+- Senior dogs reward your care with an unwavering devotion.
+- Nothing matches the love of a senior dog for his family.
+- Senior dogs have learned many of life's lessons. They know, for example, that shoes are for walking and bones are for chewing. Senior dogs know that great outdoors is for eliminating and the house is for relaxing. Your carpet will last longer with a senior dog.
+- Senior dogs can learn new tricks and be valuable family and community members.
+- They make excellent therapy dogs.
+- Senior dogs often fit into your household with ease.
+- They find the softest, warmest spot in the house and claim it for their own, but they will share with you, too.
+- Senior dogs make excellent companions for everyone, especially senior people.
+- Senior dogs are often the first to be killed in area shelters.
+- Passed over for cute and cuddly puppies, they often do not have a chance and must go to make space for more puppies.
+- Adopting a senior dog saves a life!
+
+[LINK:http://www.petfinder.com/pet-search?shelterid=ME107]Come see our Available dogs.
+
+If you experience problems with the online form please request an Adoption Application by email to:
+
+Information about Past Yankee Chihuahua Adoptions
+Through the past years some of the information about past YCRAA adoptions has been lost. If you have any information about any of Yankee Chihuahua Rescue past adoptions or current pictures you'd like displayed, please drop an email to:
+
+Thanks so much!
+
+For more information having anything to do with Yankee Chihuahua Rescue And Adoption, Inc., please find your state below, click on it, and send a letter to your state coordinator. You may write concerning adoptions, surrendering, volunteering, specific dogs.
+
+...all the information you need is just a click away.
+
+[TABLE]
+
+|  |  | 
+
+[LINK:mailto:info@yankeechihuahuarescue.org?subject=To YCRAA State Rep CT (Connecticut)]Connecticut
+[LINK:mailto:info@yankeechihuahuarescue.org?subject=To YCRAA State Rep ME (Maine)]Maine
+[LINK:mailto:info@yankeechihuahuarescue.org?subject=To YCRAA State Rep MA (Massachusetts)]Massachusetts
+[LINK:mailto:info@yankeechihuahuarescue.org?subject=To YCRAA State Rep NH (New Hampshire)]New Hampshire
+[LINK:mailto:info@yankeechihuahuarescue.org?subject=To YCRAA State Rep RI (Rhode Island)]Rhode Island
+[LINK:mailto:info@yankeechihuahuarescue.org?subject=To YCRAA State Rep VT (Vermont)]Vermont
+
+[/TABLE]
+ | 
+
+[IMAGE: im/gr/chi-wh-lt.gif | alt="Chihuahua" | align= | width=100]
+
+"Senior Dogs"
+"Golden Oldies"
+
+"Blessed is the person who has earned the love of an old dog."
+
+~Sydney Jeanne Seward
+
+|  |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: images/iSearchiGive.gif | alt="iGive.com" | align= | width=460]
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+ | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+
+[/TABLE]

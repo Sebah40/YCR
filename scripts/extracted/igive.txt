@@ -1,0 +1,121 @@
+# Page: igive
+# Source: /i-give.html
+
+## IMAGES ON THIS PAGE:
+  - src: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+    alt: Happy St. Patrick's Day
+    width: 298
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: images/holidays/New%20Year/Chi-Synth02.png
+    alt: 
+    width: 118
+  - src: images/iGive-dot-com-transparent-color.png
+    alt: 
+    width: 528
+  - src: images/iGive-bonus-donation.gif
+    alt: 
+  - src: images/iGive-membership.png
+    alt: Members
+    width: 600
+  - src: images/igive_48storelogos.jpg
+    alt: 
+    width: 625
+  - src: images/iGive-how-it-works.png
+    alt: How it Works
+    width: 600
+  - src: images/igive_logo_youshopwithstores.jpg
+    alt: 
+    width: 635
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=211]
+ | Serving the Six New England States
+
+[IMAGE: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png | alt="Happy St. Patrick's Day" | align= | width=298]
+ | [LINK:i-give.html]iGive.com
+
+[LINK:happydogs/reconstruction.html]Happy Endings
+
+[LINK:events.html]Current Events
+
+[LINK:guest/index.php]Guest Book
+
+[LINK:https://gofund.me/a6cb95fec]GoFundMe
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | [LINK:index.html]
+[IMAGE: images/button68.gif | alt="Home" | align= | width=100]
+[LINK:m-about.html]
+[IMAGE: images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:m-info.html]
+[IMAGE: images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:m-volunteer.html]
+[IMAGE: images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:m-adopt.html]
+[IMAGE: images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:m-surrender.html]
+[IMAGE: images/button80.gif | alt="Surrender" | align= | width=100]
+ | 
+
+[LINK:i-give.html]
+[IMAGE: images/Save-a-Dog.gif | alt="Save a Dog via iGive" | align= | width=120]
+
+|  | 
+
+[IMAGE: images/holidays/New%20Year/Chi-Synth02.png | alt="" | align= | width=118]
+
+ | 
+
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/iGive-dot-com-transparent-color.png | alt="" | align= | width=528]
+
+#GiveToReceive at[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]igive.com/html/refer.cfm?causeid=47590
+
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/iGive-bonus-donation.gif | alt="" | align= | width=]
+
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/iGive-membership.png | alt="Members" | align= | width=600]
+
+Help Yankee Chihuahua Rescue and Adoption
+
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/igive_48storelogos.jpg | alt="" | align= | width=625]
+
+How it works:
+
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/iGive-how-it-works.png | alt="How it Works" | align= | width=600]
+
+- Make your first purchase within 45 days to earn $5 Bonus Donation.
+- Over $8,400,000 raised for great causes since 1997.
+- Over 1,700 Online Stores - including all your favorites!
+- Use the iGive Button, shop online as you normally would - no added steps
+
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/igive_logo_youshopwithstores.jpg | alt="" | align= | width=635]
+
+ | 
+
+|  |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: images/iSearchiGive.gif | alt="iGive.com" | align= | width=460]
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+ | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+
+[/TABLE]

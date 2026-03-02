@@ -1,0 +1,217 @@
+import Image from "next/image";
+
+export const metadata = { title: "Surrender" };
+
+const requirements = [
+  "Have no history of inappropriate aggression or biting.",
+  "Pass a temperament evaluation.",
+  "Look reasonably like a Chihuahua and be 10 pounds or under.",
+  "Be surrendered with a signed surrender contract, giving YCRAA ownership of the dog.",
+];
+
+const steps = [
+  "Owner completes our foster dog intake form which helps us to assess the dog.",
+  "YCRAA Coordinator in your state receives and reviews the form and calls the owner to get further details on the dog and the situation. During the conversation, the YCRAA volunteer may suggest solutions to short term problems or alternatives to surrender.",
+  "If the YCRAA believes the dog is a candidate for surrender, the state coordinator will contact a local evaluator with the dog's information and request an evaluation.",
+  "The evaluator schedules and performs a temperament evaluation and passes the information back to the YCRAA Board of Directors, who reviews the results and determines if the dog should be accepted for foster care.",
+  "If immediate foster care is available, the state coordinator informs the owner and asks them to prepare for the surrender.",
+  "If foster care will be available in the next couple of months, the state coordinator works with the owner to determine if they might wait.",
+  "If suitable foster care is not available, the state coordinator will work with the owner to find alternative solutions. There are times when we cannot accept a dog because we have too many fosters already. It is always best to discuss a surrender with YCR well in advance of any immediate need to surrender a dog.",
+  "At surrender time, the dog is surrendered to a YCRAA volunteer with a signed surrender contract.",
+];
+
+export default function SurrenderPage() {
+  return (
+    <div className="bg-cream">
+      {/* Header */}
+      <section className="relative overflow-hidden bg-gradient-to-b from-warm-100 to-cream pb-16 pt-24 sm:pb-20 sm:pt-32">
+        <div className="relative mx-auto max-w-4xl px-6 text-center">
+          <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
+            Surrendering your Chihuahua
+          </h1>
+        </div>
+      </section>
+
+      {/* ID Badge Warning */}
+      <section className="py-16 sm:py-24">
+        <div className="mx-auto max-w-4xl px-6">
+          <div className="rounded-2xl border-2 border-coral-300 bg-coral-50 p-8 sm:p-10">
+            <div className="flex items-start gap-5">
+              <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-coral-200">
+                <svg className="h-6 w-6 text-coral-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+                </svg>
+              </div>
+              <div className="space-y-3 text-coral-800">
+                <p>
+                  We at Yankee Chihuahua Rescue display a Rescue Photo I.D. Badge while
+                  conducting rescues, home visits and/or general rescue business.
+                </p>
+                <p className="font-bold">
+                  Please do not surrender a dog to anyone who is not part of YCRAA
+                </p>
+                <p>
+                  Every YCRAA volunteer will have and display a photo I.D. badge with the
+                  YCRAA logo on it
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Main Content */}
+      <section className="bg-white py-16 sm:py-24">
+        <div className="mx-auto max-w-4xl px-6">
+          <div className="space-y-6 text-lg leading-relaxed text-warm-700">
+            <Image
+              src="/images/scraped/images/holidays/st-patrick/chi-st-partrick-sleep-in-hat.png"
+              alt="Chihuahua sleeping in St. Patrick's hat"
+              width={180}
+              height={200}
+              className="float-right ml-6 mb-4 hidden h-auto w-36 sm:block sm:w-44"
+            />
+            <p>
+              The decision to re-home your Chihuahua can be a difficult decision and not taken
+              lightly. Giving up a dog is often due to issues such as housing options,
+              allergies, behavioral issues, divorce, moving, a death or injury or illness in
+              the family. Surrendering a dog means entrusting someone else with their care and
+              well-being. It is a difficult and emotional time. Consider all the issues and
+              possible solutions before you finalize the decision. If you decide that giving up
+              your Chihuahua is best, YCRAA is here to support your decision.
+            </p>
+            <p>
+              Surrendering your Chihuahua to YCRAA gives them the best opportunity for another
+              happy life. It may be a difficult choice but it is also a gift of kindness and
+              understanding.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* What Happens */}
+      <section className="py-16 sm:py-24">
+        <div className="mx-auto max-w-4xl px-6">
+          <h2 className="text-3xl font-bold text-warm-900 sm:text-4xl">
+            What happens when I surrender my dog to rescue?
+          </h2>
+          <div className="mx-auto mt-2 h-1 w-16 rounded-full bg-amber-400" />
+          <div className="mt-8 space-y-6 text-base leading-relaxed text-warm-700">
+            <Image
+              src="/images/scraped/images/holidays/st-patrick/chi-irish-heart-leaf.png"
+              alt="Chihuahua with Irish heart leaf"
+              width={150}
+              height={170}
+              className="float-left mr-6 mb-4 hidden h-auto w-32 sm:block sm:w-36"
+            />
+            <p>
+              Upon surrendering your Chihuahua to YCRAA, the dog will be brought up to date on
+              vaccinations, treated for any injuries or medical conditions and if needed,
+              spayed/neutered. The dog will be heartworm tested and started on heartworm
+              treatment. Sometimes the dogs are in rescue for weeks or even months before being
+              placed. During that time, they live in foster homes where they are fed
+              high-quality food. We do our best to provide socialization and obedience training
+              for the dogs in our care. All of these expenditures far exceed our requested
+              adoption donation. Therefore, donations from the former owner are much
+              appreciated.
+            </p>
+            <p>
+              You will be asked to sign a surrender agreement. In signing the surrender
+              agreement, you must have the understanding that you have relinquished all rights
+              to the dog and may not re-claim the dog. However, you are welcome to contact us
+              and we will be glad to let you know about your dog&apos;s new home. It is helpful
+              if you can give YCRAA all medical records, registration papers, micro-chip info
+              and forms, and any other paperwork you may have for the dog.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Requirements */}
+      <section className="bg-white py-16 sm:py-24">
+        <div className="mx-auto max-w-4xl px-6">
+          <h2 className="text-3xl font-bold text-warm-900 sm:text-4xl">
+            The surrendered dogs must
+          </h2>
+          <div className="mx-auto mt-2 h-1 w-16 rounded-full bg-amber-400" />
+          <ul className="mx-auto mt-10 max-w-2xl space-y-4">
+            {requirements.map((item) => (
+              <li key={item} className="flex items-start gap-4">
+                <span className="mt-1 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-amber-100 text-amber-600">
+                  <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+                  </svg>
+                </span>
+                <span className="text-warm-700">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+
+      {/* Surrender Process */}
+      <section className="py-16 sm:py-24">
+        <div className="mx-auto max-w-5xl px-6">
+          <h2 className="text-3xl font-bold text-warm-900 sm:text-4xl">
+            The Surrender Process
+          </h2>
+          <div className="mx-auto mt-2 h-1 w-16 rounded-full bg-coral-400" />
+          <div className="relative mt-14">
+            <div aria-hidden="true" className="absolute left-6 top-0 hidden h-full w-0.5 bg-gradient-to-b from-warm-300 via-amber-300 to-warm-300 sm:left-8 md:block" />
+            <ol className="space-y-10 md:space-y-12">
+              {steps.map((step, idx) => (
+                <li key={idx} className="relative md:pl-24">
+                  <div className="mb-4 flex items-start gap-4 md:mb-0">
+                    <div className="relative z-10 flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-warm-400 to-amber-400 text-lg font-bold text-white shadow-lg ring-4 ring-cream sm:h-16 sm:w-16 sm:text-xl md:absolute md:left-0 md:top-0">
+                      {idx + 1}
+                    </div>
+                    <div className="flex-1 rounded-2xl border border-warm-100 bg-white/80 p-6 shadow-sm sm:p-8">
+                      <p className="leading-relaxed text-warm-600">{step}</p>
+                    </div>
+                  </div>
+                </li>
+              ))}
+            </ol>
+          </div>
+        </div>
+      </section>
+
+      {/* Take the Time */}
+      <section className="bg-white py-16 sm:py-24">
+        <div className="mx-auto max-w-4xl px-6">
+          <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
+            Take the time to be sure surrender is the right thing to do for your dog and
+            yourself
+          </h2>
+          <div className="mt-8 space-y-6 text-base leading-relaxed text-warm-700">
+            <div className="rounded-2xl border-2 border-coral-300 bg-coral-50 p-8">
+              <p>
+                We at Yankee Chihuahua Rescue and Adoption display a Rescue Photo I.D. Badge
+                while conducting rescues, home visits and/or general rescue business.{" "}
+                <strong>
+                  Please don&apos;t surrender a dog to anyone unless the volunteer displays a
+                  badge with the YCRAA logo and photo I.D.
+                </strong>
+              </p>
+            </div>
+            <p>
+              We do have an online foster dog intake form. If you&apos;d like to submit one,
+              our Intake Coordinator will get back to you. Sending us a form does not commit
+              you to anything, it just gives us more information about your dog.
+            </p>
+            <p>
+              We&apos;d be happy to talk with you about your options. For more information or
+              to surrender a dog, contact:{" "}
+              <a
+                href="mailto:info@yankeechihuahuarescue.org"
+                className="font-semibold text-coral-600 underline"
+              >
+                info@YankeeChihuahuaRescue.org
+              </a>
+            </p>
+          </div>
+        </div>
+      </section>
+    </div>
+  );
+}

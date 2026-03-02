@@ -1,0 +1,102 @@
+# Page: neutering
+# Source: /i-neutering.html
+
+## IMAGES ON THIS PAGE:
+  - src: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+    alt: Happy St. Patrick's Day
+    width: 298
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=211]
+ | Serving the Six New England States
+
+[IMAGE: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png | alt="Happy St. Patrick's Day" | align= | width=298]
+ | [LINK:i-give.html]iGive.com
+
+[LINK:happydogs/reconstruction.html]Happy Endings
+
+[LINK:events.html]Current Events
+
+[LINK:guest/index.php]Guest Book
+
+[LINK:https://gofund.me/a6cb95fec]GoFundMe
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | [LINK:index.html]
+[IMAGE: images/button68.gif | alt="Home" | align= | width=100]
+[LINK:m-about.html]
+[IMAGE: images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:m-info.html]
+[IMAGE: images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:m-volunteer.html]
+[IMAGE: images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:m-adopt.html]
+[IMAGE: images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:m-surrender.html]
+[IMAGE: images/button80.gif | alt="Surrender" | align= | width=100]
+ | 
+
+[LINK:i-give.html]
+[IMAGE: images/Save-a-Dog.gif | alt="Save a Dog via iGive" | align= | width=120]
+
+|  | 
+
+ | 
+# Benefits of Neutering Male Dogs & Puppies
+Drs. Foster & Smith, Inc.
+Race Foster, DVM
+
+Other than population control, there are lots of very, very good reasons to castrate (remove the testicles from) male dogs. They basically fall into one of two categories – they are either behavioral or medical. Regardless of which category we are talking about, most of the unwanted characteristics or conditions are caused by the male hormone testosterone, which is produced within the testicle. That is the major reason vasectomies have never been that popular in veterinary medicine. A vasectomy eliminates successful breeding, but it does not reduce any of the undesirable problems of the intact male, since it does not affect testosterone production or its distribution throughout the rest of the dog's body.
+Behavioral advantages of neutering
+
+Decreased Aggression:One of the most important behavioral advantages of castration is that as adults, these dogs will tend to be less aggressive both toward other male dogs and also people. The androgen (male) hormones, of which testosterone is the most important, are responsible for the development of many behavioral patterns. When young puppies are sexually mounting their 7 and 8-week old litter mates this is because of androgen surges in their bodies. The same is true with aggressive behavior. Some medications that have androgenic hormonal activity often cause increased aggression (an example would be the birth control medication, Cheque Drops, which contains one of these androgen-type chemicals). The degree castration has on suppressing aggression varies between animals and the age at which it is done. Its effect is greatest if it is done before one year of age.
+
+Decreased Roaming:A second behavioral advantage of neutering is that these dogs will not 'roam' when they sense a female in heat. Male dogs can sense females in heat through pheromones. These are airborne chemical attractants that are liberated from the female when she is cycling. They travel through the air for great distances. We grew up on a farm where the next closest house was over a mile away, but when one of our female dogs was in heat, the males would come for miles from upwind, downwind, and crosswind. Pheromones are, to say the least, very effective stimuli. In the seventies, it was briefly popular to do vasectomies on dogs thinking that we would not be taking the 'joy of sex' away from our canine counterparts. The problem with this reasoning was that many of us keep our dogs restricted in our homes, a kennel, or on a chain. Now think of the psychological stress the vasectomized male is under when he is locked up, but yet smells that female in heat four blocks away. There is no joy of sex, as he is trapped on your property unable to go and mate with her. He is, in effect, teased continuously for three to fourteen days while the female is in estrusand he is unable to mate with her. If dogs are neutered at an early age, they will not sense or respond to pheromones, and would certainly be less stressed and tend to stay home.
+
+Increased Concentration:A third behavioral advantage occurs when you are training or working your dog, or using him for field work. If neutered, he will be a much better student with a much longer attention span when there are females nearby that are in heat. This is because he will not be constantly distracted by pheromonal stimuli.
+Medical advantages
+
+The medical advantages are numerous and even more significant. Again, all are caused by the effects of testosterone on the body or are physical problems that arise within the testicles themselves. Here again, a vasectomy would not serve any real or meaningful purpose.
+
+No Testicular Tumors:There are several different tumor types, both benign and malignant, that arise within the testicles. As with most cancers, these usually are not noted until the animal reaches 5 or more years of age. Therefore, these would not be a problem in those individuals castrated at the recommended age.
+
+Improved Genetics:We all agree that a male carrying a harmful genetic trait like hip dysplasia or epilepsy should be neutered. We must do all that is possible to prevent the spread or continuation of these conditions and others like them.
+
+Fewer Hernias:A hernia is a protrusion of an organ or parts of an organ or other structure through the wall of a cavity that normally contains it. Perianal hernias occur when the colon, urinary bladder, prostate, or fat protrude from the abdominal cavity, through the muscular wall by the anus and then lie just under the skin. This type of hernia is far more common in older, unneutered male dogs. The levels of testosterone and other hormones appear to relax or weaken the group of muscles near the anus. When the animal then strains to defecate or urinate, the weakened muscles break down and the abdominal organs and fat bulge out under the skin. In shorthaired breeds, this large bulge is noted by the owner almost immediately, but in the longhaired dogs, the problem may go on for months before anyone realizes there is an abnormality. Left untreated, these organs may become damaged, unable to function or even die from loss of blood supply. Additionally, because of the displacement of organs into this area, the animal may not be able to defecate or urinate correctly or completely and may become constipated or have urinary incontinence (dribble urine). The surgery to repair this condition is not simple and today can easily cost $700 to $1500 or more, depending on the severity.
+
+Fewer Perianal Tumors:There are tumors whose growth is stimulated by testosterone. These occur near the anus and are called perianal adenomas (benign) or perianal adenocarcinomas (malignant). As with the hernias, these usually do not occur until the dog is at least 7-years old. They require surgical treatment and should be caught early in their development to prevent recurrence. These tumors and the above hernia are very, very rare in those individuals castrated at 7 to 8-months of age.
+
+Fewer Prostate Problems:The most common medical problems eliminated in dogs neutered at an early age are those involving the prostate. Over 80% of all unneutered male dogs develop prostate disease. Prostate conditions such as benign enlargement, cysts, and infection are all related to the presence of testosterone.
+
+Early neutering
+
+In the United States, most dogs are neutered between 5 and 8 months of age. Many humane shelters and veterinarians are starting to neuter male animals at a younger age, even 6-14 weeks of age. This early neutering does not affect the growth rate, and there are no appreciable differences in skeletal, physical, or behavioral development between those animals neutered early than those neutered at a more traditional age. It must be remembered that younger animals may need different anesthetics and are more prone to hypothermia (lower than normal body temperature) during surgery. As long as procedures are modified to account for these differences, early neutering is very safe. In fact, animals neutered at a younger age often have faster recoveries than those neutered when they are older.
+Summary
+
+None of the behavioral or medical problems caused by testosterone are rare. Veterinarians deal with them on a daily basis. To say it in a way that may not sound very nice but is certainly true – veterinarians would make a lot less money if everyone neutered their male dogs before they were a year of age.
+Copyright © 1997-2009, Foster & Smith, Inc. All Rights Reserved.
+Reprinted from PetEducation.com. | 
+
+|  |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: images/iSearchiGive.gif | alt="iGive.com" | align= | width=460]
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+ | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+
+[/TABLE]

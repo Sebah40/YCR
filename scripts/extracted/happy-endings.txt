@@ -1,0 +1,2017 @@
+# Page: happy-endings
+# Source: /happydogs/reconstruction.html
+
+## IMAGES ON THIS PAGE:
+  - src: ../images/seasons/Chi-Sunflower.png
+    alt: Sunflower Chi
+    width: 97
+  - src: ../images/seasons/summertime-chi3.png
+    alt: Ready for Vacation
+    width: 195
+  - src: ../images/seasons/Chi-Flower.png
+    alt: Flower Chi
+    width: 66
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: ../images/pageunderconstruction-leftmargin.jpg
+    alt: Page Under Construction
+    width: 115
+  - src: happypics/zoec.jpg
+    alt: 
+    width: 167
+  - src: happypics/versace.jpg
+    alt: 
+    width: 260
+  - src: happypics/twink.jpg
+    alt: 
+    width: 103
+  - src: happypics/tutlounge2.jpg
+    alt: 
+    width: 175
+  - src: happypics/tudy4.jpg
+    alt: 
+    width: 130
+  - src: happypics/ttwinkc.jpg
+    alt: 
+    width: 95
+  - src: happypics/trixi2c.jpg
+    alt: 
+    width: 170
+  - src: happypics/tootsie4-4.jpg
+    alt: 
+    width: 100
+  - src: happypics/tony1.jpg
+    alt: 
+    width: 170
+  - src: happypics/tiz2.jpg
+    alt: 
+    width: 200
+  - src: happypics/tiny.jpg
+    alt: 
+    width: 180
+  - src: happypics/tiger.jpg
+    alt: 
+    width: 180
+  - src: happypics/tico1.jpg
+    alt: 
+    width: 170
+  - src: happypics/tia01a.jpg
+    alt: 
+    width: 150
+  - src: happypics/tequila.jpg
+    alt: 
+    width: 200
+  - src: happypics/taz3.jpg
+    alt: 
+    width: 103
+  - src: happypics/taz2.jpg
+    alt: 
+    width: 111
+  - src: happypics/taz1.jpg
+    alt: 
+    width: 125
+  - src: happypics/tacocrop.jpg
+    alt: 
+    width: 200
+  - src: happypics/tacoc.jpg
+    alt: 
+    width: 300
+  - src: happypics/taco002.jpg
+    alt: 
+    width: 160
+  - src: happypics/taco1c.jpg
+    alt: 
+    width: 200
+  - src: happypics/tacac.jpg
+    alt: 
+    width: 115
+  - src: happypics/sweetienew2.jpg
+    alt: 
+    width: 146
+  - src: happypics/sweetienew1.jpg
+    alt: 
+    width: 166
+  - src: happypics/sunshineonright.jpg
+    alt: 
+    width: 190
+  - src: happypics/sunshine.jpg
+    alt: 
+    width: 190
+  - src: happypics/sunnyc.jpg
+    alt: 
+    width: 130
+  - src: happypics/stryder2.jpg
+    alt: 
+    width: 100
+  - src: happypics/stinkc.jpg
+    alt: 
+    width: 100
+  - src: happypics/starrc.jpg
+    alt: 
+    width: 125
+  - src: happypics/sprite2.jpg
+    alt: 
+    width: 160
+  - src: happypics/spikey03.jpg
+    alt: 
+    width: 110
+  - src: happypics/spike.jpg
+    alt: 
+    width: 98
+  - src: happypics/sparky2.jpg
+    alt: 
+    width: 150
+  - src: happypics/sparky.jpg
+    alt: 
+    width: 230
+  - src: happypics/spanky3c.jpg
+    alt: 
+    width: 150
+  - src: happypics/sophiec.jpg
+    alt: 
+    width: 147
+  - src: happypics/skipper4.jpg
+    alt: 
+    width: 139
+  - src: happypics/skipper2.jpg
+    alt: 
+    width: 142
+  - src: happypics/santosarmando3.jpg
+    alt: 
+    width: 200
+  - src: happypics/santosarmando2.jpg
+    alt: 
+    width: 200
+  - src: happypics/sanchahead2.jpg
+    alt: 
+    width: 125
+  - src: happypics/sammyc.jpg
+    alt: 
+    width: 173
+  - src: happypics/sammy2.jpg
+    alt: 
+    width: 140
+  - src: happypics/rubyc.jpg
+    alt: 
+    width: 125
+  - src: happypics/ruby2.jpg
+    alt: 
+    width: 160
+  - src: happypics/ruby1.jpg
+    alt: 
+    width: 160
+  - src: happypics/roxie.jpg
+    alt: 
+    width: 150
+  - src: happypics/rosie.jpg
+    alt: 
+    width: 160
+  - src: happypics/romeo1.jpg
+    alt: 
+    width: 150
+  - src: happypics/rockypup1.jpg
+    alt: 
+    width: 150
+  - src: happypics/rockyc.jpg
+    alt: 
+    width: 160
+  - src: happypics/rocky2-white.jpg
+    alt: 
+    width: 180
+  - src: happypics/ringo.jpg
+    alt: 
+    width: 200
+  - src: happypics/rico-2.jpg
+    alt: 
+    width: 200
+  - src: happypics/rico-1.jpg
+    alt: 
+    width: 150
+  - src: happypics/ricky1.jpg
+    alt: 
+    width: 145
+  - src: happypics/ricky.jpg
+    alt: 
+    width: 200
+  - src: happypics/reggie1.jpg
+    alt: 
+    width: 180
+  - src: happypics/reba.jpg
+    alt: 
+    width: 290
+  - src: happypics/princessc.jpg
+    alt: 
+    width: 200
+  - src: happypics/prancer2.jpg
+    alt: 
+    width: 100
+  - src: happypics/prancer1.jpg
+    alt: 
+    width: 157
+  - src: happypics/pippa-lulu2.jpg
+    alt: 
+    width: 216
+  - src: happypics/pippa-lulu1.jpg
+    alt: 
+    width: 190
+  - src: happypics/PierreOnLeft.jpg
+    alt: 
+    width: 160
+  - src: happypics/phoebe.jpg
+    alt: 
+    width: 193
+  - src: happypics/persey.jpg
+    alt: 
+    width: 300
+  - src: happypics/pepper.jpg
+    alt: 
+    width: 175
+  - src: happypics/peeweenew.jpg
+    alt: 
+    width: 200
+  - src: happypics/peeps1c.jpg
+    alt: 
+    width: 225
+  - src: happypics/peekac.jpg
+    alt: 
+    width: 170
+  - src: happypics/pedro2.jpg
+    alt: 
+    width: 200
+  - src: happypics/pearl_1.jpg
+    alt: 
+    width: 200
+  - src: happypics/peanut1.jpg
+    alt: 
+    width: 200
+  - src: happypics/patchesc.jpg
+    alt: 
+    width: 125
+  - src: happypics/pampennyc.jpg
+    alt: 
+    width: 150
+  - src: happypics/pacocrop.jpg
+    alt: 
+    width: 200
+  - src: happypics/pacoc.jpg
+    alt: 
+    width: 150
+  - src: happypics/paco2_2.JPG
+    alt: 
+    width: 200
+  - src: happypics/paco2.jpg
+    alt: 
+    width: 250
+  - src: happypics/oldjunior2.jpg
+    alt: 
+    width: 120
+  - src: happypics/oldjunior1.jpg
+    alt: 
+    width: 140
+  - src: happypics/odiec.jpg
+    alt: 
+    width: 110
+  - src: happypics/nola1.jpg
+    alt: 
+    width: 200
+  - src: happypics/nita2.jpg
+    alt: 
+    width: 170
+  - src: happypics/niko.JPG
+    alt: 
+    width: 386
+  - src: happypics/newjunior2.jpg
+    alt: 
+    width: 200
+  - src: happypics/newdiesel2c.jpg
+    alt: 
+    width: 170
+  - src: happypics/newdesiel1c.jpg
+    alt: 
+    width: 120
+  - src: happypics/newbie1c.jpg
+    alt: 
+    width: 150
+  - src: happypics/mvc1.jpg
+    alt: 
+    width: 200
+  - src: happypics/muffin.jpg
+    alt: 
+    width: 160
+  - src: happypics/mojo1.jpg
+    alt: 
+    width: 200
+  - src: happypics/mocha1.jpg
+    alt: 
+    width: 170
+  - src: happypics/mini1.jpg
+    alt: 
+    width: 264
+  - src: happypics/meg1c.jpg
+    alt: 
+    width: 143
+  - src: happypics/max4.jpg
+    alt: 
+    width: 200
+  - src: happypics/max2.jpg
+    alt: 
+    width: 180
+  - src: happypics/max1.jpg
+    alt: 
+    width: 230
+  - src: happypics/marty.jpg
+    alt: 
+    width: 260
+  - src: happypics/markietwo.jpg
+    alt: 
+    width: 200
+  - src: happypics/markienew1.jpg
+    alt: 
+    width: 238
+  - src: happypics/mandy1.jpg
+    alt: 
+    width: 180
+  - src: happypics/maddie1.jpg
+    alt: 
+    width: 150
+  - src: happypics/luna1.jpg
+    alt: 
+    width: 114
+  - src: happypics/lucy_annabell.jpg
+    alt: 
+    width: 240
+  - src: happypics/lucky2-3.jpg
+    alt: 
+    width: 230
+  - src: happypics/lucky2-2.jpg
+    alt: 
+    width: 180
+  - src: happypics/lucky2-1.jpg
+    alt: 
+    width: 200
+  - src: happypics/lucky.jpg
+    alt: 
+    width: 200
+  - src: happypics/linus1.jpg
+    alt: 
+    width: 120
+  - src: happypics/link2.jpg
+    alt: 
+    width: 200
+  - src: happypics/lily2.jpg
+    alt: 
+    width: 106
+  - src: happypics/lily1.jpg
+    alt: 
+    width: 200
+  - src: happypics/libby2c.jpg
+    alt: 
+    width: 100
+  - src: happypics/libby1c.jpg
+    alt: 
+    width: 100
+  - src: happypics/lady-tramp.jpg
+    alt: 
+    width: 160
+  - src: happypics/kissey1.jpg
+    alt: 
+    width: 150
+  - src: happypics/kirby1.jpg
+    alt: 
+    width: 175
+  - src: happypics/kiki4c.jpg
+    alt: 
+    width: 170
+  - src: happypics/kidrockh.jpg
+    alt: 
+    width: 156
+  - src: happypics/katy.jpg
+    alt: 
+    width: 300
+  - src: happypics/junior4.jpg
+    alt: 
+    width: 110
+  - src: happypics/junior3.jpg
+    alt: 
+    width: 130
+  - src: happypics/junior1.jpg
+    alt: 
+    width: 200
+  - src: happypics/jewel.jpg
+    alt: 
+    width: 300
+  - src: happypics/jasper1c.jpg
+    alt: 
+    width: 125
+  - src: happypics/jake005.jpg
+    alt: 
+    width: 180
+  - src: happypics/jake1.jpg
+    alt: 
+    width: 220
+  - src: happypics/jake001.jpg
+    alt: 
+    width: 200
+  - src: happypics/jack01.jpg
+    alt: 
+    width: 160
+  - src: happypics/isa.jpg
+    alt: 
+    width: 160
+  - src: happypics/image3.gif
+    alt: 
+    width: 150
+  - src: happypics/image2.gif
+    alt: 
+    width: 170
+  - src: happypics/image1.gif
+    alt: 
+    width: 200
+  - src: happypics/honey5.jpg
+    alt: 
+    width: 159
+  - src: happypics/honey3.jpg
+    alt: 
+    width: 227
+  - src: happypics/goldic.jpg
+    alt: 
+    width: 120
+  - src: happypics/george1.jpg
+    alt: 
+    width: 240
+  - src: happypics/gemma1.jpg
+    alt: 
+    width: 163
+  - src: happypics/gabby.jpg
+    alt: 
+    width: 125
+  - src: happypics/frostyc.jpg
+    alt: 
+    width: 200
+  - src: happypics/frida.jpg
+    alt: 
+    width: 200
+  - src: happypics/freddie1.jpg
+    alt: 
+    width: 250
+  - src: happypics/frankie.jpg
+    alt: 
+    width: 179
+  - src: happypics/fourdogs.jpg
+    alt: 
+    width: 200
+  - src: happypics/fanny.jpg
+    alt: 
+    width: 200
+  - src: happypics/eva.jpg
+    alt: 
+    width: 180
+  - src: happypics/elvis21.jpg
+    alt: 
+    width: 200
+  - src: happypics/elvie2.jpg
+    alt: 
+    width: 160
+  - src: happypics/dutchessnewc.jpg
+    alt: 
+    width: 160
+  - src: happypics/dior-2.jpg
+    alt: 
+    width: 200
+  - src: happypics/dior-1.jpg
+    alt: 
+    width: 162
+  - src: happypics/diesel2.jpg
+    alt: 
+    width: 200
+  - src: happypics/diamond.jpg
+    alt: 
+    width: 200
+  - src: happypics/daisybug3.jpg
+    alt: 
+    width: 640
+  - src: happypics/cookie2.jpg
+    alt: 
+    width: 160
+  - src: happypics/cody5.jpg
+    alt: 
+    width: 120
+  - src: happypics/cody4.JPG
+    alt: 
+    width: 120
+  - src: happypics/cody3.jpg
+    alt: 
+    width: 120
+  - src: happypics/cody2.JPG
+    alt: 
+    width: 120
+  - src: happypics/cody1.jpg
+    alt: 
+    width: 120
+  - src: happypics/coco001.jpg
+    alt: 
+    width: 230
+  - src: happypics/coco.jpg
+    alt: 
+    width: 300
+  - src: happypics/cindy.jpg
+    alt: 
+    width: 198
+  - src: happypics/chucky1.jpg
+    alt: 
+    width: 200
+  - src: happypics/chococ.jpg
+    alt: 
+    width: 170
+  - src: happypics/chiquitac.jpg
+    alt: 
+    width: 190
+  - src: happypics/chiquic.jpg
+    alt: 
+    width: 125
+  - src: happypics/chipper.jpg
+    alt: 
+    width: 114
+  - src: happypics/chipc.jpg
+    alt: 
+    width: 200
+  - src: happypics/Chip.jpg
+    alt: 
+    width: 200
+  - src: happypics/chino2.jpg
+    alt: 
+    width: 170
+  - src: happypics/chino1.jpg
+    alt: 
+    width: 170
+  - src: happypics/chiconewc.jpg
+    alt: 
+    width: 110
+  - src: happypics/chewey1.jpg
+    alt: 
+    width: 200
+  - src: happypics/chesterhp.jpg
+    alt: 
+    width: 200
+  - src: happypics/chelsea1.jpg
+    alt: 
+    width: 150
+  - src: happypics/chaun2.jpg
+    alt: 
+    width: 110
+  - src: happypics/chaun1.jpg
+    alt: 
+    width: 188
+  - src: happypics/chachi2.jpg
+    alt: 
+    width: 153
+  - src: happypics/chachi.jpg
+    alt: 
+    width: 174
+  - src: happypics/chacha2.jpg
+    alt: 
+    width: 200
+  - src: happypics/cassie.jpg
+    alt: 
+    width: 150
+  - src: happypics/caramia.jpg
+    alt: 
+    width: 220
+  - src: happypics/cappy2.jpg
+    alt: 
+    width: 200
+  - src: happypics/cappy1.jpg
+    alt: 
+    width: 200
+  - src: happypics/butterfly.jpg
+    alt: 
+    width: 313
+  - src: happypics/buffyc.jpg
+    alt: 
+    width: 100
+  - src: happypics/buddygail.jpg
+    alt: 
+    width: 134
+  - src: happypics/bud.jpg
+    alt: 
+    width: 200
+  - src: happypics/blackie2.jpg
+    alt: 
+    width: 240
+  - src: happypics/billy3.jpg
+    alt: 
+    width: 200
+  - src: happypics/billy2.jpg
+    alt: 
+    width: 200
+  - src: happypics/billy1.jpg
+    alt: 
+    width: 200
+  - src: happypics/bijio.jpg
+    alt: 
+    width: 167
+  - src: happypics/bichoh.jpg
+    alt: 
+    width: 160
+  - src: happypics/benny2.jpg
+    alt: 
+    width: 200
+  - src: happypics/benny1.jpg
+    alt: 
+    width: 200
+  - src: happypics/bellec.jpg
+    alt: 
+    width: 90
+  - src: happypics/belle02.jpg
+    alt: 
+    width: 200
+  - src: happypics/bellac-2.jpg
+    alt: 
+    width: 125
+  - src: happypics/bellac-1.jpg
+    alt: 
+    width: 200
+  - src: happypics/bellabeau-2.jpg
+    alt: 
+    width: 200
+  - src: happypics/bellabeau-1.jpg
+    alt: 
+    width: 200
+  - src: happypics/becky2.jpg
+    alt: 
+    width: 140
+  - src: happypics/becky1.jpg
+    alt: 
+    width: 140
+  - src: happypics/beau111.jpg
+    alt: 
+    width: 250
+  - src: happypics/beau.jpg
+    alt: 
+    width: 200
+  - src: happypics/bayleec3.jpg
+    alt: 
+    width: 160
+  - src: happypics/bayleec2.jpg
+    alt: 
+    width: 200
+  - src: happypics/bandit22.jpg
+    alt: 
+    width: 150
+  - src: happypics/bambi22.jpg
+    alt: 
+    width: 160
+  - src: happypics/bambi21.jpg
+    alt: 
+    width: 180
+  - src: happypics/bambi20.jpg
+    alt: 
+    width: 200
+  - src: happypics/bambi01.jpg
+    alt: 
+    width: 200
+  - src: happypics/baileybucca.jpg
+    alt: 
+    width: 230
+  - src: happypics/bailey2.jpg
+    alt: 
+    width: 150
+  - src: happypics/bailey1.jpg
+    alt: 
+    width: 240
+  - src: happypics/ay2.jpg
+    alt: 
+    width: 200
+  - src: happypics/asterc.jpg
+    alt: 
+    width: 108
+  - src: happypics/aikosparky.jpg
+    alt: 
+    width: 260
+  - src: happypics/2000chanel.jpg
+    alt: 
+    width: 100
+  - src: happypics/13-Tia2.jpg
+    alt: 
+    width: 300
+  - src: happypics/13-Tia1.jpg
+    alt: 
+    width: 300
+  - src: happypics/13-Mandy2.jpg
+    alt: 
+    width: 300
+  - src: happypics/13-Mandy1.jpg
+    alt: 
+    width: 300
+  - src: happypics/13-Bentley2.jpg
+    alt: 
+    width: 300
+  - src: happypics/13-Bentley1.jpg
+    alt: 
+    width: 250
+  - src: happypics/12-ziggy2.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-ziggy1.jpg
+    alt: 
+    width: 454
+  - src: happypics/12-reesey2.JPG
+    alt: 
+    width: 237
+  - src: happypics/12-reesey1.JPG
+    alt: 
+    width: 300
+  - src: happypics/12-poncho2.jpg
+    alt: 
+    width: 337
+  - src: happypics/12-poncho1.jpg
+    alt: 
+    width: 372
+  - src: happypics/12-Montie2.jpeg
+    alt: 
+    width: 300
+  - src: happypics/12-Montie1.jpeg
+    alt: 
+    width: 350
+  - src: happypics/12-Lucy3.jpeg
+    alt: 
+    width: 350
+  - src: happypics/12-Lucy1.jpeg
+    alt: 
+    width: 350
+  - src: happypics/12happy-ziggy1.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-happyWilbur2.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-happyToffee.jpg
+    alt: 
+    width: 300
+  - src: happypics/12happy-tippy1.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-happyrocky1.jpg
+    alt: 
+    width: 260
+  - src: happypics/12-happy-precious2.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-happyponchino.jpg
+    alt: 
+    width: 287
+  - src: happypics/12-happy-MrGoodbar.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-happyMollie1.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-happyMarley2.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-happylovie1.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-happy-layla1.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-happyJack!1.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-happyGus2.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-happyDuke.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-happyDozer1.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-happyDiesel2.jpg
+    alt: 
+    width: 257
+  - src: happypics/12-happyCosimo.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-happyCosette.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-happyChaCha1.jpg
+    alt: 
+    width: 300
+  - src: happypics/12-happyBilly-Jean1.jpg
+    alt: 
+    width: 300
+  - src: happypics/12crop.JPG
+    alt: 
+    width: 125
+  - src: happypics/11-happy-rufus2.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-roxy.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-princess.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-poncho1.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-poncho.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-penny.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happypearl-5a.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-peanut.png
+    alt: 
+    width: 300
+  - src: happypics/11-happy-paddy1.png
+    alt: 
+    width: 300
+  - src: happypics/11-happypaco4.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-owen.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-mojo3.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-maisey-2.jpg
+    alt: 
+    width: 300
+  - src: happypics/11happy-littlebit.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-kenny1.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-jazzy2.jpg
+    alt: 
+    width: 299
+  - src: happypics/11-happy-hunter-1.jpg
+    alt: 
+    width: 300
+  - src: happypics/11happy-gizmo1a.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-fribble2.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-courtsey-mani.jpg
+    alt: 
+    width: 225
+  - src: happypics/11-happy-cooper1.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-chloe1.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-chedda.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happybuddy5.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-brady1.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-bentley-02.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-bear1.jpg
+    alt: 
+    width: 300
+  - src: happypics/11happy-bambi1.jpg
+    alt: 
+    width: 300
+  - src: happypics/11-happy-bambam1.png
+    alt: 
+    width: 300
+  - src: happypics/11-happy-annie1.png
+    alt: 
+    width: 300
+  - src: happypics/10-happy-scooby.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-sandy1.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-princess2.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-petey.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-penelope.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-pearl-02.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-pearl.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-mitsie3.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-minsch1.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-minni-3.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-loulu.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-Kisses.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-hazelnut.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-flower.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-dito.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-diesel4.jpg
+    alt: 
+    width: 295
+  - src: happypics/10-happy-dante.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-cocoa3.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-chilli.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-cha_cha.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-casper22.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-butch.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-brooklyn.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-braeden.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-bootz.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-bella2.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-bella.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-bambi1.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-angelina2.jpg
+    alt: 
+    width: 300
+  - src: happypics/10-happy-addie1.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-wee.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-trixie.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-stella.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-sparkles.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-scotch.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-peanut.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-onyx.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-mystique.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-lucy.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-latte.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-jynja.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-izzy.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-greta.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-gina.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-duece.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-dioge.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-deliah.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-coco.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-bruiser.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-brock3b.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-bella.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-angel.jpg
+    alt: 
+    width: 300
+  - src: happypics/09-happy-amber.jpg
+    alt: 
+    width: 300
+  - src: happypics/08-wanda2-190.jpg
+    alt: 
+    width: 253
+  - src: happypics/08-wanda1-190.jpg
+    alt: 
+    width: 161
+  - src: happypics/08-molly2.jpg
+    alt: 
+    width: 253
+  - src: happypics/08-molly1.jpg
+    alt: 
+    width: 253
+  - src: happypics/08-misscocoa-200.jpg
+    alt: 
+    width: 180
+  - src: happypics/08-misscocoa1-200.jpg
+    alt: 
+    width: 150
+  - src: happypics/08-maya2-190.jpg
+    alt: 
+    width: 254
+  - src: happypics/08-maya1-190.jpg
+    alt: 
+    width: 224
+  - src: happypics/08-lily1-250.jpg
+    alt: 
+    width: 250
+  - src: happypics/08-lacey1.jpg
+    alt: 
+    width: 180
+  - src: happypics/08-lacey.jpg
+    alt: 
+    width: 236
+  - src: happypics/08-katey-190.jpg
+    alt: 
+    width: 169
+  - src: happypics/08-honey190.jpg
+    alt: 
+    width: 226
+  - src: happypics/08-honey1-190.jpg
+    alt: 
+    width: 268
+  - src: happypics/08-happy-hazel.jpg
+    alt: 
+    width: 300
+  - src: happypics/08-happy-candy.jpg
+    alt: 
+    width: 300
+  - src: happypics/08-happy-agent.jpg
+    alt: 
+    width: 300
+  - src: happypics/08-hanna3.jpg
+    alt: 
+    width: 178
+  - src: happypics/08-hanna2.jpg
+    alt: 
+    width: 253
+  - src: happypics/08-gizmo3.jpg
+    alt: 
+    width: 225
+  - src: happypics/08-gizmo1.jpg
+    alt: 
+    width: 225
+  - src: happypics/08-domino2.jpg
+    alt: 
+    width: 253
+  - src: happypics/08-domino1.jpg
+    alt: 
+    width: 253
+  - src: happypics/08-croquete-coco2-190.jpg
+    alt: 
+    width: 253
+  - src: happypics/08-croquete-coco1-190.jpg
+    alt: 
+    width: 253
+  - src: happypics/08-cosmo2-190.jpg
+    alt: 
+    width: 253
+  - src: happypics/08-cosmo1-190.jpg
+    alt: 
+    width: 253
+  - src: happypics/08-chico2.jpg
+    alt: 
+    width: 167
+  - src: happypics/08-chico1.jpg
+    alt: 
+    width: 222
+  - src: happypics/08-birtha3.jpg
+    alt: 
+    width: 253
+  - src: happypics/08-birtha1.jpg
+    alt: 
+    width: 198
+  - src: happypics/08-bandito2.jpg
+    alt: 
+    width: 253
+  - src: happypics/08-09-bandito1.jpg
+    alt: 
+    width: 192
+  - src: happypics/08-07morgan.jpg
+    alt: 
+    width: 224
+  - src: happypics/07webster-1.jpg
+    alt: 
+    width: 150
+  - src: happypics/07vickirose_2.jpg
+    alt: 
+    width: 200
+  - src: happypics/07skeeter1.jpg
+    alt: 
+    width: 120
+  - src: happypics/07skeeter.jpg
+    alt: 
+    width: 200
+  - src: happypics/06crop.jpg
+    alt: 
+    width: 150
+  - src: happypics/01crop.jpg
+    alt: 
+    width: 150
+  - src: ../images/pageunderconstruction-leftmargin.jpg
+    alt: 
+    width: 135
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: ../im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=212]
+ | 
+[IMAGE: ../images/seasons/Chi-Sunflower.png | alt="Sunflower Chi" | align= | width=97]
+
+[IMAGE: ../images/seasons/summertime-chi3.png | alt="Ready for Vacation" | align= | width=195]
+
+[IMAGE: ../images/seasons/Chi-Flower.png | alt="Flower Chi" | align= | width=66]
+ | [LINK:../i-give.htm]iGive.com
+
+[LINK:../happydogs/reconstruction.html]Happy Endings
+
+[LINK:../events.html]Current Events
+
+[LINK:../guest/index.php]Guest Book
+|  | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | Serving the Six New England States
+
+[LINK:../index.html]
+[IMAGE: ../images/button68.gif | alt="Home" | align= | width=100]
+[LINK:../m-about.html]
+[IMAGE: ../images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:../m-info.html]
+[IMAGE: ../images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:../m-volunteer.html]
+[IMAGE: ../images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:../m-adopt.html]
+[IMAGE: ../images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:../m-surrender.html]
+[IMAGE: ../images/button80.gif | alt="Surrender" | align= | width=100]
+
+ | [LINK:../i-give.htm]
+[IMAGE: ../images/Save-a-Dog.gif | alt="" | align= | width=120]
+
+|  | 
+
+[IMAGE: ../images/pageunderconstruction-leftmargin.jpg | alt="Page Under Construction" | align= | width=115]
+
+ | 
+#### 
+
+#### While we reconstruct this page, please enjoy perusing the many, many happy adoption faces.
+
+[IMAGE: happypics/zoec.jpg | alt="" | align= | width=167]
+
+[IMAGE: happypics/versace.jpg | alt="" | align= | width=260]
+
+[IMAGE: happypics/twink.jpg | alt="" | align= | width=103]
+
+[IMAGE: happypics/tutlounge2.jpg | alt="" | align= | width=175]
+
+[IMAGE: happypics/tudy4.jpg | alt="" | align= | width=130]
+
+[IMAGE: happypics/ttwinkc.jpg | alt="" | align= | width=95]
+
+[IMAGE: happypics/trixi2c.jpg | alt="" | align= | width=170]
+
+[IMAGE: happypics/tootsie4-4.jpg | alt="" | align= | width=100]
+
+[IMAGE: happypics/tony1.jpg | alt="" | align= | width=170]
+
+[IMAGE: happypics/tiz2.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/tiny.jpg | alt="" | align= | width=180]
+
+[IMAGE: happypics/tiger.jpg | alt="" | align= | width=180]
+
+[IMAGE: happypics/tico1.jpg | alt="" | align= | width=170]
+
+[IMAGE: happypics/tia01a.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/tequila.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/taz3.jpg | alt="" | align= | width=103]
+
+[IMAGE: happypics/taz2.jpg | alt="" | align= | width=111]
+
+[IMAGE: happypics/taz1.jpg | alt="" | align= | width=125]
+
+[IMAGE: happypics/tacocrop.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/tacoc.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/taco002.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/taco1c.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/tacac.jpg | alt="" | align= | width=115]
+
+[IMAGE: happypics/sweetienew2.jpg | alt="" | align= | width=146]
+
+[IMAGE: happypics/sweetienew1.jpg | alt="" | align= | width=166]
+
+[IMAGE: happypics/sunshineonright.jpg | alt="" | align= | width=190]
+
+[IMAGE: happypics/sunshine.jpg | alt="" | align= | width=190]
+
+[IMAGE: happypics/sunnyc.jpg | alt="" | align= | width=130]
+
+[IMAGE: happypics/stryder2.jpg | alt="" | align= | width=100]
+
+[IMAGE: happypics/stinkc.jpg | alt="" | align= | width=100]
+
+[IMAGE: happypics/starrc.jpg | alt="" | align= | width=125]
+
+[IMAGE: happypics/sprite2.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/spikey03.jpg | alt="" | align= | width=110]
+
+[IMAGE: happypics/spike.jpg | alt="" | align= | width=98]
+
+[IMAGE: happypics/sparky2.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/sparky.jpg | alt="" | align= | width=230]
+
+[IMAGE: happypics/spanky3c.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/sophiec.jpg | alt="" | align= | width=147]
+
+[IMAGE: happypics/skipper4.jpg | alt="" | align= | width=139]
+
+[IMAGE: happypics/skipper2.jpg | alt="" | align= | width=142]
+
+[IMAGE: happypics/santosarmando3.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/santosarmando2.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/sanchahead2.jpg | alt="" | align= | width=125]
+
+[IMAGE: happypics/sammyc.jpg | alt="" | align= | width=173]
+
+[IMAGE: happypics/sammy2.jpg | alt="" | align= | width=140]
+
+[IMAGE: happypics/rubyc.jpg | alt="" | align= | width=125]
+
+[IMAGE: happypics/ruby2.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/ruby1.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/roxie.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/rosie.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/romeo1.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/rockypup1.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/rockyc.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/rocky2-white.jpg | alt="" | align= | width=180]
+
+[IMAGE: happypics/ringo.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/rico-2.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/rico-1.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/ricky1.jpg | alt="" | align= | width=145]
+
+[IMAGE: happypics/ricky.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/reggie1.jpg | alt="" | align= | width=180]
+
+[IMAGE: happypics/reba.jpg | alt="" | align= | width=290]
+
+[IMAGE: happypics/princessc.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/prancer2.jpg | alt="" | align= | width=100]
+
+[IMAGE: happypics/prancer1.jpg | alt="" | align= | width=157]
+
+[IMAGE: happypics/pippa-lulu2.jpg | alt="" | align= | width=216]
+
+[IMAGE: happypics/pippa-lulu1.jpg | alt="" | align= | width=190]
+
+[IMAGE: happypics/PierreOnLeft.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/phoebe.jpg | alt="" | align= | width=193]
+
+[IMAGE: happypics/persey.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/pepper.jpg | alt="" | align= | width=175]
+
+[IMAGE: happypics/peeweenew.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/peeps1c.jpg | alt="" | align= | width=225]
+
+[IMAGE: happypics/peekac.jpg | alt="" | align= | width=170]
+
+[IMAGE: happypics/pedro2.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/pearl_1.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/peanut1.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/patchesc.jpg | alt="" | align= | width=125]
+
+[IMAGE: happypics/pampennyc.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/pacocrop.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/pacoc.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/paco2_2.JPG | alt="" | align= | width=200]
+
+[IMAGE: happypics/paco2.jpg | alt="" | align= | width=250]
+
+[IMAGE: happypics/oldjunior2.jpg | alt="" | align= | width=120]
+
+[IMAGE: happypics/oldjunior1.jpg | alt="" | align= | width=140]
+
+[IMAGE: happypics/odiec.jpg | alt="" | align= | width=110]
+
+[IMAGE: happypics/nola1.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/nita2.jpg | alt="" | align= | width=170]
+
+[IMAGE: happypics/niko.JPG | alt="" | align= | width=386]
+
+[IMAGE: happypics/newjunior2.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/newdiesel2c.jpg | alt="" | align= | width=170]
+
+[IMAGE: happypics/newdesiel1c.jpg | alt="" | align= | width=120]
+
+[IMAGE: happypics/newbie1c.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/mvc1.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/muffin.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/mojo1.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/mocha1.jpg | alt="" | align= | width=170]
+
+[IMAGE: happypics/mini1.jpg | alt="" | align= | width=264]
+
+[IMAGE: happypics/meg1c.jpg | alt="" | align= | width=143]
+
+[IMAGE: happypics/max4.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/max2.jpg | alt="" | align= | width=180]
+
+[IMAGE: happypics/max1.jpg | alt="" | align= | width=230]
+
+[IMAGE: happypics/marty.jpg | alt="" | align= | width=260]
+
+[IMAGE: happypics/markietwo.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/markienew1.jpg | alt="" | align= | width=238]
+
+[IMAGE: happypics/mandy1.jpg | alt="" | align= | width=180]
+
+[IMAGE: happypics/maddie1.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/luna1.jpg | alt="" | align= | width=114]
+
+[IMAGE: happypics/lucy_annabell.jpg | alt="" | align= | width=240]
+
+[IMAGE: happypics/lucky2-3.jpg | alt="" | align= | width=230]
+
+[IMAGE: happypics/lucky2-2.jpg | alt="" | align= | width=180]
+
+[IMAGE: happypics/lucky2-1.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/lucky.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/linus1.jpg | alt="" | align= | width=120]
+
+[IMAGE: happypics/link2.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/lily2.jpg | alt="" | align= | width=106]
+
+[IMAGE: happypics/lily1.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/libby2c.jpg | alt="" | align= | width=100]
+
+[IMAGE: happypics/libby1c.jpg | alt="" | align= | width=100]
+
+[IMAGE: happypics/lady-tramp.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/kissey1.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/kirby1.jpg | alt="" | align= | width=175]
+
+[IMAGE: happypics/kiki4c.jpg | alt="" | align= | width=170]
+
+[IMAGE: happypics/kidrockh.jpg | alt="" | align= | width=156]
+
+[IMAGE: happypics/katy.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/junior4.jpg | alt="" | align= | width=110]
+
+[IMAGE: happypics/junior3.jpg | alt="" | align= | width=130]
+
+[IMAGE: happypics/junior1.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/jewel.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/jasper1c.jpg | alt="" | align= | width=125]
+
+[IMAGE: happypics/jake005.jpg | alt="" | align= | width=180]
+
+[IMAGE: happypics/jake1.jpg | alt="" | align= | width=220]
+
+[IMAGE: happypics/jake001.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/jack01.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/isa.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/image3.gif | alt="" | align= | width=150]
+
+[IMAGE: happypics/image2.gif | alt="" | align= | width=170]
+
+[IMAGE: happypics/image1.gif | alt="" | align= | width=200]
+
+[IMAGE: happypics/honey5.jpg | alt="" | align= | width=159]
+
+[IMAGE: happypics/honey3.jpg | alt="" | align= | width=227]
+
+[IMAGE: happypics/goldic.jpg | alt="" | align= | width=120]
+
+[IMAGE: happypics/george1.jpg | alt="" | align= | width=240]
+
+[IMAGE: happypics/gemma1.jpg | alt="" | align= | width=163]
+
+[IMAGE: happypics/gabby.jpg | alt="" | align= | width=125]
+
+[IMAGE: happypics/frostyc.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/frida.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/freddie1.jpg | alt="" | align= | width=250]
+
+[IMAGE: happypics/frankie.jpg | alt="" | align= | width=179]
+
+[IMAGE: happypics/fourdogs.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/fanny.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/eva.jpg | alt="" | align= | width=180]
+
+[IMAGE: happypics/elvis21.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/elvie2.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/dutchessnewc.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/dior-2.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/dior-1.jpg | alt="" | align= | width=162]
+
+[IMAGE: happypics/diesel2.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/diamond.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/daisybug3.jpg | alt="" | align= | width=640]
+
+[IMAGE: happypics/cookie2.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/cody5.jpg | alt="" | align= | width=120]
+
+[IMAGE: happypics/cody4.JPG | alt="" | align= | width=120]
+
+[IMAGE: happypics/cody3.jpg | alt="" | align= | width=120]
+
+[IMAGE: happypics/cody2.JPG | alt="" | align= | width=120]
+
+[IMAGE: happypics/cody1.jpg | alt="" | align= | width=120]
+
+[IMAGE: happypics/coco001.jpg | alt="" | align= | width=230]
+
+[IMAGE: happypics/coco.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/cindy.jpg | alt="" | align= | width=198]
+
+[IMAGE: happypics/chucky1.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/chococ.jpg | alt="" | align= | width=170]
+
+[IMAGE: happypics/chiquitac.jpg | alt="" | align= | width=190]
+
+[IMAGE: happypics/chiquic.jpg | alt="" | align= | width=125]
+
+[IMAGE: happypics/chipper.jpg | alt="" | align= | width=114]
+
+[IMAGE: happypics/chipc.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/Chip.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/chino2.jpg | alt="" | align= | width=170]
+
+[IMAGE: happypics/chino1.jpg | alt="" | align= | width=170]
+
+[IMAGE: happypics/chiconewc.jpg | alt="" | align= | width=110]
+
+[IMAGE: happypics/chewey1.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/chesterhp.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/chelsea1.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/chaun2.jpg | alt="" | align= | width=110]
+
+[IMAGE: happypics/chaun1.jpg | alt="" | align= | width=188]
+
+[IMAGE: happypics/chachi2.jpg | alt="" | align= | width=153]
+
+[IMAGE: happypics/chachi.jpg | alt="" | align= | width=174]
+
+[IMAGE: happypics/chacha2.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/cassie.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/caramia.jpg | alt="" | align= | width=220]
+
+[IMAGE: happypics/cappy2.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/cappy1.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/butterfly.jpg | alt="" | align= | width=313]
+
+[IMAGE: happypics/buffyc.jpg | alt="" | align= | width=100]
+
+[IMAGE: happypics/buddygail.jpg | alt="" | align= | width=134]
+
+[IMAGE: happypics/bud.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/blackie2.jpg | alt="" | align= | width=240]
+
+[IMAGE: happypics/billy3.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/billy2.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/billy1.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/bijio.jpg | alt="" | align= | width=167]
+
+[IMAGE: happypics/bichoh.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/benny2.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/benny1.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/bellec.jpg | alt="" | align= | width=90]
+
+[IMAGE: happypics/belle02.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/bellac-2.jpg | alt="" | align= | width=125]
+
+[IMAGE: happypics/bellac-1.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/bellabeau-2.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/bellabeau-1.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/becky2.jpg | alt="" | align= | width=140]
+
+[IMAGE: happypics/becky1.jpg | alt="" | align= | width=140]
+
+[IMAGE: happypics/beau111.jpg | alt="" | align= | width=250]
+
+[IMAGE: happypics/beau.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/bayleec3.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/bayleec2.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/bandit22.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/bambi22.jpg | alt="" | align= | width=160]
+
+[IMAGE: happypics/bambi21.jpg | alt="" | align= | width=180]
+
+[IMAGE: happypics/bambi20.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/bambi01.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/baileybucca.jpg | alt="" | align= | width=230]
+
+[IMAGE: happypics/bailey2.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/bailey1.jpg | alt="" | align= | width=240]
+
+[IMAGE: happypics/ay2.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/asterc.jpg | alt="" | align= | width=108]
+
+[IMAGE: happypics/aikosparky.jpg | alt="" | align= | width=260]
+
+[IMAGE: happypics/2000chanel.jpg | alt="" | align= | width=100]
+
+[IMAGE: happypics/13-Tia2.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/13-Tia1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/13-Mandy2.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/13-Mandy1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/13-Bentley2.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/13-Bentley1.jpg | alt="" | align= | width=250]
+
+[IMAGE: happypics/12-ziggy2.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-ziggy1.jpg | alt="" | align= | width=454]
+
+[IMAGE: happypics/12-reesey2.JPG | alt="" | align= | width=237]
+
+[IMAGE: happypics/12-reesey1.JPG | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-poncho2.jpg | alt="" | align= | width=337]
+
+[IMAGE: happypics/12-poncho1.jpg | alt="" | align= | width=372]
+
+[IMAGE: happypics/12-Montie2.jpeg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-Montie1.jpeg | alt="" | align= | width=350]
+
+[IMAGE: happypics/12-Lucy3.jpeg | alt="" | align= | width=350]
+
+[IMAGE: happypics/12-Lucy1.jpeg | alt="" | align= | width=350]
+
+[IMAGE: happypics/12happy-ziggy1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-happyWilbur2.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-happyToffee.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12happy-tippy1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-happyrocky1.jpg | alt="" | align= | width=260]
+
+[IMAGE: happypics/12-happy-precious2.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-happyponchino.jpg | alt="" | align= | width=287]
+
+[IMAGE: happypics/12-happy-MrGoodbar.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-happyMollie1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-happyMarley2.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-happylovie1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-happy-layla1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-happyJack!1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-happyGus2.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-happyDuke.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-happyDozer1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-happyDiesel2.jpg | alt="" | align= | width=257]
+
+[IMAGE: happypics/12-happyCosimo.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-happyCosette.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-happyChaCha1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12-happyBilly-Jean1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/12crop.JPG | alt="" | align= | width=125]
+
+[IMAGE: happypics/11-happy-rufus2.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-roxy.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-princess.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-poncho1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-poncho.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-penny.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happypearl-5a.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-peanut.png | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-paddy1.png | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happypaco4.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-owen.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-mojo3.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-maisey-2.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11happy-littlebit.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-kenny1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-jazzy2.jpg | alt="" | align= | width=299]
+
+[IMAGE: happypics/11-happy-hunter-1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11happy-gizmo1a.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-fribble2.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-courtsey-mani.jpg | alt="" | align= | width=225]
+
+[IMAGE: happypics/11-happy-cooper1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-chloe1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-chedda.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happybuddy5.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-brady1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-bentley-02.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-bear1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11happy-bambi1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-bambam1.png | alt="" | align= | width=300]
+
+[IMAGE: happypics/11-happy-annie1.png | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-scooby.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-sandy1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-princess2.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-petey.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-penelope.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-pearl-02.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-pearl.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-mitsie3.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-minsch1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-minni-3.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-loulu.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-Kisses.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-hazelnut.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-flower.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-dito.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-diesel4.jpg | alt="" | align= | width=295]
+
+[IMAGE: happypics/10-happy-dante.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-cocoa3.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-chilli.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-cha_cha.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-casper22.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-butch.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-brooklyn.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-braeden.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-bootz.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-bella2.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-bella.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-bambi1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-angelina2.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/10-happy-addie1.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-wee.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-trixie.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-stella.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-sparkles.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-scotch.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-peanut.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-onyx.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-mystique.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-lucy.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-latte.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-jynja.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-izzy.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-greta.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-gina.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-duece.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-dioge.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-deliah.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-coco.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-bruiser.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-brock3b.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-bella.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-angel.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/09-happy-amber.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/08-wanda2-190.jpg | alt="" | align= | width=253]
+
+[IMAGE: happypics/08-wanda1-190.jpg | alt="" | align= | width=161]
+
+[IMAGE: happypics/08-molly2.jpg | alt="" | align= | width=253]
+
+[IMAGE: happypics/08-molly1.jpg | alt="" | align= | width=253]
+
+[IMAGE: happypics/08-misscocoa-200.jpg | alt="" | align= | width=180]
+
+[IMAGE: happypics/08-misscocoa1-200.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/08-maya2-190.jpg | alt="" | align= | width=254]
+
+[IMAGE: happypics/08-maya1-190.jpg | alt="" | align= | width=224]
+
+[IMAGE: happypics/08-lily1-250.jpg | alt="" | align= | width=250]
+
+[IMAGE: happypics/08-lacey1.jpg | alt="" | align= | width=180]
+
+[IMAGE: happypics/08-lacey.jpg | alt="" | align= | width=236]
+
+[IMAGE: happypics/08-katey-190.jpg | alt="" | align= | width=169]
+
+[IMAGE: happypics/08-honey190.jpg | alt="" | align= | width=226]
+
+[IMAGE: happypics/08-honey1-190.jpg | alt="" | align= | width=268]
+
+[IMAGE: happypics/08-happy-hazel.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/08-happy-candy.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/08-happy-agent.jpg | alt="" | align= | width=300]
+
+[IMAGE: happypics/08-hanna3.jpg | alt="" | align= | width=178]
+
+[IMAGE: happypics/08-hanna2.jpg | alt="" | align= | width=253]
+
+[IMAGE: happypics/08-gizmo3.jpg | alt="" | align= | width=225]
+
+[IMAGE: happypics/08-gizmo1.jpg | alt="" | align= | width=225]
+
+[IMAGE: happypics/08-domino2.jpg | alt="" | align= | width=253]
+
+[IMAGE: happypics/08-domino1.jpg | alt="" | align= | width=253]
+
+[IMAGE: happypics/08-croquete-coco2-190.jpg | alt="" | align= | width=253]
+
+[IMAGE: happypics/08-croquete-coco1-190.jpg | alt="" | align= | width=253]
+
+[IMAGE: happypics/08-cosmo2-190.jpg | alt="" | align= | width=253]
+
+[IMAGE: happypics/08-cosmo1-190.jpg | alt="" | align= | width=253]
+
+[IMAGE: happypics/08-chico2.jpg | alt="" | align= | width=167]
+
+[IMAGE: happypics/08-chico1.jpg | alt="" | align= | width=222]
+
+[IMAGE: happypics/08-birtha3.jpg | alt="" | align= | width=253]
+
+[IMAGE: happypics/08-birtha1.jpg | alt="" | align= | width=198]
+
+[IMAGE: happypics/08-bandito2.jpg | alt="" | align= | width=253]
+
+[IMAGE: happypics/08-09-bandito1.jpg | alt="" | align= | width=192]
+
+[IMAGE: happypics/08-07morgan.jpg | alt="" | align= | width=224]
+
+[IMAGE: happypics/07webster-1.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/07vickirose_2.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/07skeeter1.jpg | alt="" | align= | width=120]
+
+[IMAGE: happypics/07skeeter.jpg | alt="" | align= | width=200]
+
+[IMAGE: happypics/06crop.jpg | alt="" | align= | width=150]
+
+[IMAGE: happypics/01crop.jpg | alt="" | align= | width=150]
+
+ | 
+
+[IMAGE: ../images/pageunderconstruction-leftmargin.jpg | alt="" | align= | width=135]
+
+|  |  |  | 
+|  | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: ../images/iSearchiGive.gif | alt="iGive.com" | align= | width=486]
+ |  | [LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: ../images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+
+[/TABLE]

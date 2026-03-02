@@ -1,0 +1,104 @@
+# Page: treats
+# Source: /i-treats.html
+
+## IMAGES ON THIS PAGE:
+  - src: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png
+    alt: Happy St. Patrick's Day
+    width: 298
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+  - src: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+    alt: 
+    width: 1
+
+## PAGE CONTENT:
+
+[TABLE]
+
+|  | 
+[IMAGE: im/logo/Yankee-Chi-Logo-transparent.png | alt="Yankee Chihuahua Rescue logo" | align= | width=211]
+ | Serving the Six New England States
+
+[IMAGE: images/holidays/St%20Patrick/_happy%20st%20patricks%20day.png | alt="Happy St. Patrick's Day" | align= | width=298]
+ | [LINK:i-give.html]iGive.com
+
+[LINK:happydogs/reconstruction.html]Happy Endings
+
+[LINK:events.html]Current Events
+
+[LINK:guest/index.php]Guest Book
+
+[LINK:https://gofund.me/a6cb95fec]GoFundMe
+[/TABLE]
+
+[TABLE]
+
+|  | 
+
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+ | [LINK:index.html]
+[IMAGE: images/button68.gif | alt="Home" | align= | width=100]
+[LINK:m-about.html]
+[IMAGE: images/button6B.gif | alt="About YCRAA" | align= | width=100]
+[LINK:m-info.html]
+[IMAGE: images/button6E.gif | alt="Chihuahua Info" | align= | width=100]
+[LINK:m-volunteer.html]
+[IMAGE: images/button77.gif | alt="Volunteer" | align= | width=100]
+[LINK:m-adopt.html]
+[IMAGE: images/button7A.gif | alt="Adoption" | align= | width=100]
+[LINK:m-surrender.html]
+[IMAGE: images/button80.gif | alt="Surrender" | align= | width=100]
+ | 
+
+[LINK:i-give.html]
+[IMAGE: images/Save-a-Dog.gif | alt="Save a Dog via iGive" | align= | width=120]
+
+|  | 
+
+ | 
+# Treats to AVOID giving your Chihuahua
+
+While some of these foods, if given in very small amounts, cause no harm to many dogs, remember that the Chihuahua is avery small dogand should not getANYof these.
+
+- Grapes and Raisins:Grapes and raisins can cause kidney failure in dogs. As little as a single serving of raisins can kill a dog.
+- Onions:Onions destroy red blood cells and can cause anemia.
+- Chocolate:Chocolate can cause seizures, coma and death. Baker’s chocolate or dark chocolate are the most dangerous. A dog can consume milk chocolate and appear to be fine because it is not as concentrated, but it is still dangerous. (for more information on[LINK:i-tre-choc.html]Chocolate Poisoning.)
+- Coffee, coffee grounds, tea and tea bags:Drinks/foods containing caffeine cause many of the same symptoms chocolate causes
+- Macadamia nuts and walnuts: Macadamia nuts can cause weakness, muscle tremor and paralysis. Limit all other nuts, as they are not good for dogs in general. Their high phosphorous content is said to be a possible contributor to bladder stones. Peanut butter is not made from a nut. Peanuts are legumes and fine for dogs.. Always use salt- and sugar-free peanut butter (sugar encourages cancer growth). Use only ORGANIC peanut butter as regular peanut butter has potentially harmful chemicals and may contain pesticides.
+- Animal fat and fried foods: Excessive fat can cause pancreatitis, so it's best to avoid fatty treats. Limit fat to what’s provided by your dog’s regular food.
+- Bones:Cooked bones are brittle and can splinter and damage a dog’s internal organs. Raw bones offer a good natural way to clean teeth, but should always be given under supervision, since small chunks can cause problems, if swallowed whole. Try frozen oxtails or frozen knucklebones, and take the bone away before the dog can swallow a final small piece whole.
+- Tomatoes:Tomatoes can cause tremors and heart arrhythmia. Tomato plants are the most toxic, but tomatoes themselves are also unsafe.
+- Avocados:The fruit, pit and plant are all toxic. They can cause difficulty breathing and fluid accumulation in the chest, abdomen and heart.
+- Nutmeg:Nutmeg can cause tremors, seizures and death.
+- Fruit Seeds:The flesh of Apples, Cherries, Peaches and similar fruit is fine for your dog. HOWEVER, the seeds of these fruits contain cyanide, which is poisonous to dogs as well as humans. Unlike humans, dogs do not know to stop eating at the pit and can easily ingest them. It can also become lodged in the intestines and kill the dog in 24 hours with no warning.
+- Raw eggs:Raw eggs can cause salmonella poisoning in dogs. Dogs have a shorter digestive tract than humans and are less likely to suffer from food poisoning, but it is still possible. BEST to use ORGANIC EGGS if you do raw. Scrambled lightly is best!
+- Salt:Excessive salt intake can cause kidney problems. Avoid salty treats.
+- Mushrooms and toadstoolscan be deadly. Never let your pets chew on mushrooms found in your yard. Allow only safe, "food" mushrooms such as shiitake, and maitake.
+# Treats that are fine for your Chihuahua
+
+Remember that even healthy treats should be given in relatively small amounts. A good rule of thumb is that 90% of your dog’s diet should come from its regular well-balanced food.
+
+- Peanut Butter (natural)
+- Baby carrots
+- Broccoli
+- Chicken
+- Scrambled eggs
+- Mashed Potatoes (very small portions)
+- Cut up asparagus
+- Green Beans
+- Peas (mine love them frozen!)
+- Cheese (it's fine)
+- Apple cut up (watch out- the core and the seeds are toxic!)
+- Cheerios (they're great for training)
+- Banana
+- Cantaloupe | 
+
+|  |  | [LINK:http://www.igive.com/welcome/warmwelcome.cfm?c=47590]
+[IMAGE: images/iSearchiGive.gif | alt="iGive.com" | align= | width=460]
+[LINK:http://www.igive.com/html/refer.cfm?causeid=47590]
+[IMAGE: images/save-a-dog-logo-animated.gif | alt="iGive.com" | align= | width=120]
+ | 
+[IMAGE: https://www.paypalobjects.com/en_US/i/scr/pixel.gif | alt="" | align= | width=1]
+
+[/TABLE]

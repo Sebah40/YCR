@@ -1,6 +1,6 @@
-import Image from "next/image";
 import Link from "next/link";
 import { ChevronRight } from "lucide-react";
+import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
 
 export const metadata = { title: "Chihuahua Info" };
 
@@ -50,12 +50,12 @@ function ArticleList({
   accentText: string;
 }) {
   return (
-    <ul className="mt-6 space-y-2">
+    <ul className="mt-3 space-y-0.5">
       {items.map((item) => (
         <li key={item.href}>
           <Link
             href={item.href}
-            className="flex items-start gap-3 rounded-lg p-3 transition-colors hover:bg-white/80"
+            className="flex items-start gap-3 rounded-lg px-3 py-2 transition-colors hover:bg-white/80"
           >
             <span
               className={`mt-1.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full ${accentBg} ${accentText}`}
@@ -76,7 +76,7 @@ export default function ChihuahuaInfoPage() {
   return (
     <div className="bg-cream">
       {/* Header */}
-      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-8 pt-14 text-center">
+      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-6 pt-12 text-center">
         <div className="mx-auto max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
             Chihuahua Information
@@ -84,17 +84,17 @@ export default function ChihuahuaInfoPage() {
         </div>
       </section>
 
-      <div className="mx-auto max-w-4xl px-6 pb-20">
+      <div className="mx-auto max-w-4xl px-6 pb-10">
         {/* Breed Information */}
-        <section className="py-10">
-          <Image src="/images/scraped/images/holidays/st-patrick/chi-st-patrick-pub.jpg" alt="Chihuahua at the pub" width={140} height={110} className="float-right ml-5 mb-3 hidden h-auto w-28 rounded-lg sm:block sm:w-36" />
+        <section className="py-6">
+          <ThemedDecorativeImage slot="chiinfo-breed" width={140} height={110} className="float-right ml-5 mb-3 hidden h-auto w-28 rounded-lg sm:block sm:w-36" />
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">Breed Information</h2>
           <div className="mt-2 h-1 w-16 rounded-full bg-amber-400" />
           <ArticleList items={breedInfo} accentBg="bg-amber-100" accentText="text-amber-600" />
         </section>
 
         {/* Articles by YCRAA Volunteers */}
-        <section className="py-10">
+        <section className="py-6">
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
             Articles by YCRAA Volunteers
           </h2>
@@ -107,8 +107,8 @@ export default function ChihuahuaInfoPage() {
         </section>
 
         {/* Articles Related to Rescue and Adoption */}
-        <section className="py-10">
-          <Image src="/images/scraped/images/holidays/st-patrick/chi-hat-graphic02.png" alt="Chihuahua with hat" width={110} height={130} className="float-right ml-5 mb-3 hidden h-auto w-24 sm:block sm:w-28" />
+        <section className="py-6">
+          <ThemedDecorativeImage slot="chiinfo-articles" width={110} height={130} className="float-right ml-5 mb-3 hidden h-auto w-24 sm:block sm:w-28" />
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
             Articles Related to Rescue and Adoption
           </h2>
@@ -117,7 +117,7 @@ export default function ChihuahuaInfoPage() {
         </section>
 
         {/* Articles of Interest */}
-        <section className="py-10">
+        <section className="py-6">
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">Articles of Interest</h2>
           <div className="mt-2 h-1 w-16 rounded-full bg-coral-400" />
           <ArticleList
@@ -128,8 +128,8 @@ export default function ChihuahuaInfoPage() {
         </section>
 
         {/* Quote */}
-        <section className="py-10">
-          <div className="mx-auto max-w-3xl rounded-xl border border-amber-200 bg-gradient-to-br from-amber-50 to-warm-50 p-10 text-center shadow-sm">
+        <section className="py-6">
+          <div className="mx-auto max-w-3xl rounded-xl border border-amber-200 bg-gradient-to-br from-amber-50 to-warm-50 p-8 text-center shadow-sm">
             <blockquote className="text-lg italic leading-relaxed text-warm-700">
               &ldquo;Our task must be to free ourselves... by widening our circle of compassion
               to embrace all living creatures and the whole of nature and its beauty.&rdquo;

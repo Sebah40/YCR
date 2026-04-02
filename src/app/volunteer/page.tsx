@@ -1,5 +1,5 @@
-import Image from "next/image";
 import { Check } from "lucide-react";
+import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
 
 export const metadata = { title: "Volunteer" };
 
@@ -39,24 +39,24 @@ export default function VolunteerPage() {
   return (
     <div>
       {/* Header */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-amber-50 via-cream to-coral-50 py-10 sm:py-14">
+      <section className="relative overflow-hidden bg-gradient-to-br from-amber-50 via-cream to-coral-50 py-8 sm:py-10">
         <div className="relative mx-auto max-w-7xl px-6 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
             Volunteer for Chihuahua Rescue
           </h1>
-          <p className="mx-auto mt-4 max-w-2xl text-base leading-relaxed text-warm-600 sm:text-lg">
+          <p className="mx-auto mt-3 max-w-2xl text-base leading-relaxed text-warm-600 sm:text-lg">
             Volunteer opportunities are available in a variety of areas
           </p>
         </div>
       </section>
 
       {/* Volunteer Opportunities */}
-      <section className="py-10 sm:py-14">
+      <section className="py-6 sm:py-8">
         <div className="mx-auto max-w-7xl px-6">
-          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
             {roles.map((role) => (
-              <div key={role} className="rounded-xl border border-amber-100 bg-white p-5 shadow-sm transition-all hover:shadow-md">
-                <div className="flex items-start gap-3">
+              <div key={role} className="rounded-xl border border-amber-100 bg-white p-3.5 shadow-sm transition-all hover:shadow-md">
+                <div className="flex items-start gap-2.5">
                   <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-amber-100 text-amber-600">
                     <Check className="h-3 w-3" strokeWidth={2.5} />
                   </span>
@@ -88,13 +88,13 @@ export default function VolunteerPage() {
           </p>
           <div className="mt-7 flex flex-col items-center justify-center gap-3 sm:flex-row">
             <a
-              href="mailto:volunteer@yankeechihuahuarescue.org?subject=Volunteer Application"
+              href="/volunteer/apply"
               className="inline-flex items-center rounded-full bg-amber-400 px-7 py-3 text-sm font-semibold text-warm-900 shadow-sm transition-all hover:bg-amber-300"
             >
               Volunteer Application
             </a>
             <a
-              href="mailto:volunteer@yankeechihuahuarescue.org?subject=Foster Home Application"
+              href="/volunteer/foster"
               className="inline-flex items-center rounded-full border border-warm-600 px-7 py-3 text-sm font-semibold text-white transition-all hover:border-amber-400 hover:bg-white/10"
             >
               Foster Home Application
@@ -147,7 +147,7 @@ export default function VolunteerPage() {
                 </p>
               </div>
             </div>
-            <Image src="/images/scraped/images/holidays/st-patrick/chix2---happy-st-patrick-day.jpg" alt="Happy St. Patrick's Day Chihuahuas" width={140} height={90} className="hidden h-auto w-32 shrink-0 self-start rounded-lg sm:block" />
+            <ThemedDecorativeImage slot="volunteer-aside" width={140} height={90} className="hidden h-auto w-32 shrink-0 self-start rounded-lg sm:block" />
           </div>
         </div>
       </section>

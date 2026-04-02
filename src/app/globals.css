@@ -1,41 +1,80 @@
 @import "tailwindcss";
 
+/* Theme color variables — overridden by ThemeProvider at runtime */
+:root {
+  --t-amber-50: #fdfcf5;
+  --t-amber-100: #faf5de;
+  --t-amber-200: #f3e9b0;
+  --t-amber-300: #e8d36e;
+  --t-amber-400: #d9b83a;
+  --t-amber-500: #c49e18;
+  --t-amber-600: #a38312;
+  --t-amber-700: #7a620e;
+  --t-amber-800: #5c4a0b;
+  --t-amber-900: #3d3108;
+
+  --t-warm-50: #f6faf7;
+  --t-warm-100: #eaf1ec;
+  --t-warm-200: #cedbd3;
+  --t-warm-300: #8baa97;
+  --t-warm-400: #5e8a71;
+  --t-warm-500: #3e705a;
+  --t-warm-600: #2e5844;
+  --t-warm-700: #204234;
+  --t-warm-800: #163027;
+  --t-warm-900: #0d1f17;
+
+  --t-coral-50: #f0f6f2;
+  --t-coral-100: #dbeae1;
+  --t-coral-200: #b3d5c1;
+  --t-coral-300: #7dba97;
+  --t-coral-400: #4a9e72;
+  --t-coral-500: #2f8259;
+  --t-coral-600: #246a48;
+  --t-coral-700: #1c5439;
+  --t-coral-800: #16422e;
+  --t-coral-900: #103323;
+
+  --t-cream: #f6faf7;
+  --t-cream-dark: #eaf1ec;
+}
+
 @theme inline {
-  --color-amber-50: #fdfcf5;
-  --color-amber-100: #faf5de;
-  --color-amber-200: #f3e9b0;
-  --color-amber-300: #e8d36e;
-  --color-amber-400: #d9b83a;
-  --color-amber-500: #c49e18;
-  --color-amber-600: #a38312;
-  --color-amber-700: #7a620e;
-  --color-amber-800: #5c4a0b;
-  --color-amber-900: #3d3108;
+  --color-amber-50: var(--t-amber-50);
+  --color-amber-100: var(--t-amber-100);
+  --color-amber-200: var(--t-amber-200);
+  --color-amber-300: var(--t-amber-300);
+  --color-amber-400: var(--t-amber-400);
+  --color-amber-500: var(--t-amber-500);
+  --color-amber-600: var(--t-amber-600);
+  --color-amber-700: var(--t-amber-700);
+  --color-amber-800: var(--t-amber-800);
+  --color-amber-900: var(--t-amber-900);
 
-  --color-warm-50: #f6faf7;
-  --color-warm-100: #eaf1ec;
-  --color-warm-200: #cedbd3;
-  --color-warm-300: #8baa97;
-  --color-warm-400: #5e8a71;
-  --color-warm-500: #3e705a;
-  --color-warm-600: #2e5844;
-  --color-warm-700: #204234;
-  --color-warm-800: #163027;
-  --color-warm-900: #0d1f17;
+  --color-warm-50: var(--t-warm-50);
+  --color-warm-100: var(--t-warm-100);
+  --color-warm-200: var(--t-warm-200);
+  --color-warm-300: var(--t-warm-300);
+  --color-warm-400: var(--t-warm-400);
+  --color-warm-500: var(--t-warm-500);
+  --color-warm-600: var(--t-warm-600);
+  --color-warm-700: var(--t-warm-700);
+  --color-warm-800: var(--t-warm-800);
+  --color-warm-900: var(--t-warm-900);
 
-  --color-coral-50: #f0f6f2;
-  --color-coral-100: #dbeae1;
-  --color-coral-200: #b3d5c1;
-  --color-coral-300: #7dba97;
-  --color-coral-400: #4a9e72;
-  --color-coral-500: #2f8259;
-  --color-coral-600: #246a48;
-  --color-coral-700: #1c5439;
-  --color-coral-800: #16422e;
-  --color-coral-900: #103323;
+  --color-coral-50: var(--t-coral-50);
+  --color-coral-100: var(--t-coral-100);
+  --color-coral-200: var(--t-coral-200);
+  --color-coral-300: var(--t-coral-300);
+  --color-coral-400: var(--t-coral-400);
+  --color-coral-500: var(--t-coral-500);
+  --color-coral-600: var(--t-coral-600);
+  --color-coral-700: var(--t-coral-700);
+  --color-coral-800: var(--t-coral-800);
+  --color-coral-900: var(--t-coral-900);
 
-  --color-cream: #f6faf7;
-  --color-cream-dark: #eaf1ec;
+  --color-cream: var(--t-cream);
+  --color-cream-dark: var(--t-cream-dark);
 
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
 }

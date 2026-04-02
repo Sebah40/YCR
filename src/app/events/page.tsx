@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
 
 export const metadata = { title: "Current Events" };
 
@@ -40,9 +41,8 @@ export default function EventsPage() {
           </div>
 
           <div className="mt-16 flex justify-center">
-            <Image
-              src="/images/scraped/images/holidays/st-patrick/st-patrick-rainbow-archway.png"
-              alt="St. Patrick's Day rainbow archway"
+            <ThemedDecorativeImage
+              slot="events-hero"
               width={500}
               height={300}
               className="h-auto w-full max-w-lg rounded-2xl"

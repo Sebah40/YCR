@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { Check, Heart } from "lucide-react";
+import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
 
 export const metadata = { title: "Adoption" };
 
@@ -119,7 +120,7 @@ export default function AdoptionPage() {
           <div className="mt-6 flex gap-6">
             <div className="space-y-5 text-base leading-relaxed text-warm-700 sm:text-lg">
               <p>
-                The first step in adoption is to fill out an Adoption Application. This form
+                The first step in adoption is to fill out an <Link href="/adoption/apply" className="font-semibold text-coral-600 underline">Adoption Application</Link>. This form
                 gives basic information about the type of Chihuahua that will best fit into your
                 family. Once the application is received and reviewed to ensure it is complete and
                 meets our adoption criteria, a YCRAA volunteer will then contact you for a phone
@@ -141,9 +142,8 @@ export default function AdoptionPage() {
                 is the best way to be matched with a YCRAA dog.
               </p>
             </div>
-            <Image
-              src="/images/scraped/images/holidays/st-patrick/chi-st-patrick-shamrock.png"
-              alt="Chihuahua with shamrock"
+            <ThemedDecorativeImage
+              slot="adoption-aside"
               width={160}
               height={180}
               className="hidden h-auto w-32 shrink-0 self-start sm:block sm:w-40"

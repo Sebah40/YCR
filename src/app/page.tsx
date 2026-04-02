@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import FallingLeaves from "@/components/FallingLeaves";
+import SeasonalImages from "@/components/SeasonalImages";
 
 export default function Home() {
   return (
@@ -85,13 +86,7 @@ export default function Home() {
       </section>
 
       {/* Seasonal Chihuahuas */}
-      <section className="bg-white py-10">
-        <div className="mx-auto flex max-w-5xl flex-wrap items-center justify-center gap-6 px-6">
-          <Image src="/images/scraped/images/holidays/st-patrick/chi-st-patrick-glasses.png" alt="Chihuahua with St. Patrick's glasses" width={160} height={160} className="h-auto w-28 sm:w-36" />
-          <Image src="/images/scraped/images/holidays/st-patrick/chi-4-leaf-clover.png" alt="Chihuahua with four-leaf clover" width={140} height={140} className="h-auto w-24 sm:w-32" />
-          <Image src="/images/scraped/images/holidays/st-patrick/chi-st-patrick-kiss-me.png" alt="Chihuahua - Kiss me I'm Irish" width={160} height={160} className="h-auto w-28 sm:w-36" />
-        </div>
-      </section>
+      <SeasonalImages />
 
       {/* Donations Section */}
       <section className="bg-white py-10 sm:py-14">

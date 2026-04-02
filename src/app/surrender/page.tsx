@@ -1,5 +1,6 @@
-import Image from "next/image";
+import Link from "next/link";
 import { AlertTriangle, Check } from "lucide-react";
+import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
 
 export const metadata = { title: "Surrender" };
 
@@ -63,9 +64,8 @@ export default function SurrenderPage() {
       <section className="bg-white py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <div className="space-y-5 text-base leading-relaxed text-warm-700 sm:text-lg">
-            <Image
-              src="/images/scraped/images/holidays/st-patrick/chi-st-partrick-sleep-in-hat.png"
-              alt="Chihuahua sleeping in St. Patrick's hat"
+            <ThemedDecorativeImage
+              slot="surrender-top"
               width={180}
               height={200}
               className="float-right ml-6 mb-4 hidden h-auto w-36 sm:block sm:w-44"
@@ -96,9 +96,8 @@ export default function SurrenderPage() {
           </h2>
           <div className="mx-auto mt-2 h-1 w-16 rounded-full bg-amber-400" />
           <div className="mt-6 space-y-5 text-base leading-relaxed text-warm-700">
-            <Image
-              src="/images/scraped/images/holidays/st-patrick/chi-irish-heart-leaf.png"
-              alt="Chihuahua with Irish heart leaf"
+            <ThemedDecorativeImage
+              slot="surrender-mid"
               width={150}
               height={170}
               className="float-left mr-6 mb-4 hidden h-auto w-32 sm:block sm:w-36"
@@ -192,9 +191,13 @@ export default function SurrenderPage() {
               </p>
             </div>
             <p>
-              We do have an online foster dog intake form. If you&apos;d like to submit one,
-              our Intake Coordinator will get back to you. Sending us a form does not commit
-              you to anything, it just gives us more information about your dog.
+              We do have an online{" "}
+              <Link href="/surrender/intake" className="font-semibold text-coral-600 underline">
+                foster dog intake form
+              </Link>
+              . If you&apos;d like to submit one, our Intake Coordinator will get back to you.
+              Sending us a form does not commit you to anything, it just gives us more
+              information about your dog.
             </p>
             <p>
               We&apos;d be happy to talk with you about your options. For more information or

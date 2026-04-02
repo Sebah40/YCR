@@ -1,8 +1,48 @@
 "use client";
 
-import { Clover } from "lucide-react";
+import { useTheme } from "@/components/ThemeProvider";
+import {
+  Clover,
+  Flower2,
+  Sun,
+  Star,
+  Moon,
+  Leaf,
+  Snowflake,
+  Sparkles,
+  Heart,
+} from "lucide-react";
+import type { LucideIcon } from "lucide-react";
+import type { ThemeId } from "@/lib/themes";
 
-const leaves = [
+const iconMap: Record<string, LucideIcon> = {
+  Clover,
+  Egg: Flower2, // fallback since Egg may not exist
+  Flower2,
+  Sun,
+  Star,
+  Moon,
+  Leaf,
+  Snowflake,
+  Sparkles,
+  Heart,
+};
+
+const themeIconName: Record<ThemeId, string> = {
+  "st-patricks": "Clover",
+  easter: "Flower2",
+  spring: "Flower2",
+  summer: "Sun",
+  "4th-of-july": "Star",
+  halloween: "Moon",
+  fall: "Leaf",
+  thanksgiving: "Leaf",
+  christmas: "Snowflake",
+  "new-years": "Sparkles",
+  valentines: "Heart",
+};
+
+const particles = [
   { id: 0, left: 5, delay: 0, duration: 14, size: 32, opacity: 0.1, drift: 25 },
   { id: 1, left: 15, delay: 3, duration: 16, size: 28, opacity: 0.09, drift: -20 },
   { id: 2, left: 25, delay: 7, duration: 12, size: 40, opacity: 0.12, drift: 35 },
@@ -18,34 +58,38 @@ const leaves = [
 ];
 
 export default function FallingLeaves() {
+  const { themeId } = useTheme();
+  const iconName = themeIconName[themeId] || "Clover";
+  const Icon = iconMap[iconName] || Clover;
+
   return (
     <div className="pointer-events-none absolute inset-0 overflow-hidden" aria-hidden="true">
-      {leaves.map((leaf) => (
+      {particles.map((p) => (
         <div
-          key={leaf.id}
+          key={p.id}
           className="absolute -top-12"
           style={{
-            left: `${leaf.left}%`,
-            animationDelay: `${leaf.delay}s`,
-            animationDuration: `${leaf.duration}s`,
+            left: `${p.left}%`,
+            animationDelay: `${p.delay}s`,
+            animationDuration: `${p.duration}s`,
             animationName: "fall",
             animationTimingFunction: "linear",
             animationIterationCount: "infinite",
           }}
         >
-          <Clover
+          <Icon
             style={{
-              width: leaf.size,
-              height: leaf.size,
-              opacity: leaf.opacity,
-              animationDuration: `${3 + (leaf.id % 3)}s`,
-              animationDelay: `${leaf.delay}s`,
+              width: p.size,
+              height: p.size,
+              opacity: p.opacity,
+              animationDuration: `${3 + (p.id % 3)}s`,
+              animationDelay: `${p.delay}s`,
               animationName: "sway",
               animationTimingFunction: "ease-in-out",
               animationIterationCount: "infinite",
               animationDirection: "alternate",
               // @ts-expect-error CSS custom property for drift
-              "--drift": `${leaf.drift}px`,
+              "--drift": `${p.drift}px`,
             }}
             className="text-warm-500"
             strokeWidth={1.5}

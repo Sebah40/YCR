@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
 
 export const metadata = { title: "About YCRAA" };
 
@@ -54,9 +55,8 @@ export default function AboutPage() {
       <section className="bg-white py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <div className="space-y-6 text-lg leading-relaxed text-warm-700">
-            <Image
-              src="/images/scraped/images/holidays/st-patrick/chi-st-patrick-lucky-charm.png"
-              alt="Chihuahua - Lucky Charm"
+            <ThemedDecorativeImage
+              slot="about-float"
               width={160}
               height={180}
               className="float-right ml-6 mb-4 hidden h-auto w-32 sm:block sm:w-40"
@@ -88,26 +88,26 @@ export default function AboutPage() {
       </section>
 
       {/* How You Can Help */}
-      <section className="py-10 sm:py-14">
+      <section className="py-10 sm:py-12">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
             If you love dogs as much as we do, then please consider helping our rescue efforts.
           </h2>
-          <p className="mt-4 text-lg text-warm-700">
+          <p className="mt-3 text-lg text-warm-700">
             You can help in the following areas:
           </p>
-          <div className="mt-10 space-y-6">
+          <div className="mt-6 grid gap-3 sm:grid-cols-2">
             {helpAreas.map((area) => (
               <div
                 key={area.title}
-                className="rounded-2xl border border-warm-100 bg-white p-6 shadow-sm sm:p-8"
+                className="rounded-xl border border-warm-100 bg-white p-5 shadow-sm"
               >
-                <h3 className="text-lg font-semibold text-warm-800">{area.title}</h3>
-                <p className="mt-2 leading-relaxed text-warm-600">{area.description}</p>
+                <h3 className="text-sm font-semibold text-warm-800">{area.title}</h3>
+                <p className="mt-1.5 text-xs leading-relaxed text-warm-600">{area.description}</p>
               </div>
             ))}
           </div>
-          <p className="mt-8 text-warm-700">
+          <p className="mt-6 text-warm-700">
             If interested in any of the above, please send an email to{" "}
             <a
               href="mailto:volunteer@yankeechihuahuarescue.org"
@@ -118,13 +118,13 @@ export default function AboutPage() {
           </p>
           <div className="mt-6 flex flex-wrap gap-4">
             <Link
-              href="/volunteer"
+              href="/volunteer/apply"
               className="inline-flex items-center rounded-full bg-amber-500 px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-amber-600"
             >
               Volunteer Application
             </Link>
             <Link
-              href="/volunteer"
+              href="/volunteer/foster"
               className="inline-flex items-center rounded-full border-2 border-amber-500 px-6 py-3 text-sm font-semibold text-amber-700 transition-colors hover:bg-amber-50"
             >
               Foster Home Application
@@ -163,9 +163,8 @@ export default function AboutPage() {
       {/* Quote */}
       <section className="bg-gradient-to-br from-warm-800 to-warm-900 py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6 text-center">
-          <Image
-            src="/images/scraped/images/holidays/st-patrick/chi-st-patrick-lucky-dog.gif"
-            alt="Lucky Dog"
+          <ThemedDecorativeImage
+            slot="about-quote"
             width={120}
             height={120}
             className="mx-auto mb-6 h-auto w-24"

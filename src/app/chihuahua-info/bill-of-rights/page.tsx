@@ -42,6 +42,10 @@ export default function BillOfRightsPage() {
           <ul className="space-y-6">
             {rights.map((right, idx) => (
               <li key={idx} className="flex items-start gap-4">
+                <span className="mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-amber-100 text-sm font-bold text-amber-700">
+                  {idx + 1}
+                </span>
+                <p className="flex-1 text-lg leading-relaxed text-warm-700">{right}</p>
                 {imagePositions[idx] && (
                   <Image
                     src={imagePositions[idx].src}
@@ -51,10 +55,6 @@ export default function BillOfRightsPage() {
                     className="hidden shrink-0 rounded-lg sm:block"
                   />
                 )}
-                <span className="mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-amber-100 text-sm font-bold text-amber-700">
-                  {idx + 1}
-                </span>
-                <p className="text-lg leading-relaxed text-warm-700">{right}</p>
               </li>
             ))}
           </ul>

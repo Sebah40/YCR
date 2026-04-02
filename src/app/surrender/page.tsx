@@ -35,7 +35,7 @@ export default function SurrenderPage() {
       </section>
 
       {/* ID Badge Warning */}
-      <section className="py-10 sm:py-14">
+      <section className="py-6 sm:py-8">
         <div className="mx-auto max-w-4xl px-6">
           <div className="rounded-xl border-2 border-coral-300 bg-coral-50 p-6 sm:p-8">
             <div className="flex items-start gap-4">
@@ -100,7 +100,7 @@ export default function SurrenderPage() {
               slot="surrender-mid"
               width={150}
               height={170}
-              className="float-left mr-6 mb-4 hidden h-auto w-32 sm:block sm:w-36"
+              className="float-right ml-6 mb-4 hidden h-auto w-32 sm:block sm:w-36"
             />
             <p>
               Upon surrendering your Chihuahua to YCRAA, the dog will be brought up to date on

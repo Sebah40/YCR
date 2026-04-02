@@ -71,7 +71,8 @@ export default function AdoptionPage() {
   return (
     <div className="bg-cream">
       {/* Header */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-8 pt-14 sm:pb-10 sm:pt-16">
+      {/* Header */}
+      <section className="relative bg-gradient-to-b from-amber-50 to-cream py-8 sm:py-10">
         <div className="relative mx-auto max-w-4xl px-6 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
             Adopting a Yankee Chihuahua
@@ -80,16 +81,9 @@ export default function AdoptionPage() {
       </section>
 
       {/* Intro */}
-      <section className="py-10 sm:py-14">
-        <div className="mx-auto max-w-4xl px-6">
-          <div className="flex gap-6">
-            <Image
-              src="/images/Joey-Transparent.png"
-              alt="Joey the Chihuahua"
-              width={150}
-              height={200}
-              className="hidden h-auto w-32 shrink-0 self-start rounded-lg sm:block"
-            />
+      <section className="relative py-6 sm:py-10" style={{ backgroundImage: "url(/images/Joey-Transparent.png)", backgroundRepeat: "no-repeat", backgroundPosition: "left center", backgroundSize: "auto 80%" }}>
+        <div className="absolute inset-0 bg-cream/95 sm:bg-cream/80" />
+        <div className="relative mx-auto max-w-4xl px-6">
             <div className="space-y-5 text-base leading-relaxed text-warm-700 sm:text-lg">
               <p>
                 YCRAA Chihuahuas have all found themselves homeless through no fault of their own.
@@ -106,7 +100,6 @@ export default function AdoptionPage() {
                 inoculations prior to their placement in loving forever homes.
               </p>
             </div>
-          </div>
         </div>
       </section>
 
@@ -246,19 +239,13 @@ export default function AdoptionPage() {
       </section>
 
       {/* Why We Do Not Place with Intact Animals */}
-      <section className="py-10 sm:py-14">
-        <div className="mx-auto max-w-4xl px-6">
+      <section className="relative py-10 sm:py-14" style={{ backgroundImage: "url(/images/articles/chi-fawn2.gif)", backgroundRepeat: "no-repeat", backgroundPosition: "left center", backgroundSize: "146px 181px" }}>
+        <div className="absolute inset-0 bg-cream/95 sm:bg-cream/85" />
+        <div className="relative mx-auto max-w-4xl px-6">
           <h2 className="text-2xl font-bold tracking-tight text-warm-900 sm:text-3xl">
             Why we do not place dogs in homes with intact animals.
           </h2>
-          <div className="mt-6 flex gap-6">
-            <Image
-              src="/images/articles/chi-fawn2.gif"
-              alt="Chihuahua"
-              width={120}
-              height={110}
-              className="hidden h-auto w-24 shrink-0 self-start rounded-lg sm:block"
-            />
+          <div className="mt-6">
             <div className="space-y-5 text-base leading-relaxed text-warm-700">
               <p>
                 We are often asked, &ldquo;Why will you not place a Yankee Chihuahua in a home
@@ -272,7 +259,7 @@ export default function AdoptionPage() {
               </p>
             </div>
           </div>
-          <div className="mt-5 space-y-5 text-base leading-relaxed text-warm-700">
+          <div className="relative mt-5 space-y-5 text-base leading-relaxed text-warm-700">
             <p className="font-semibold text-warm-800">
               There are several health benefits to neutering.
             </p>

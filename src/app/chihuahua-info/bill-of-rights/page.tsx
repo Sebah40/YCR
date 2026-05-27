@@ -6,17 +6,17 @@ export const metadata = { title: "Chihuahua Bill of Rights" };
 const rights = [
   "I have the right to give and receive unconditional love.",
   "I have the right to be a full family member.",
-  "I need to be in the house with you where I can learn how to behave. My sense of security and well being depends on being close to you.",
+  "I need to be in the house with you, where I can learn how to behave. My sense of security and well-being depends on being close to you.",
   "I have the right to have an adult human to be my principal caretaker and teacher.",
   "I have the right to social stimulation. I need to go places of interest and learn new things and meet new people, so that I don\u2019t become fearful or aggressive - or depressed.",
   "I have the right to adequate food and good nutrition.",
   "I have the right to appropriate medical care.",
-  "I have the right to regular exercise. I thrive on play and activity and it helps Me to be healthy and young.",
-  "I have the right to be trained so that I do not become the prisoner of my misbehavior. Without training I can become confused, fearful and aggressive and become a danger to ourselves and to you! I am not happy unless I know what the rules are.",
-  "I have the right to make mistakes. No matter how well we are trained or how old I get, sometimes I just do things wrong...it is nature. It won\u2019t happen often if I am properly trained.",
-  "I have the right to be myself. My heritage influences who I am-my training helps shape us but some characteristics will remain. Please understand this when choosing me.",
-  "I have the right to move with my family. I am the only family member that can be rejected by current laws. I need you to fight for me and to change those laws so that the family can stay together.",
-  "I have the right to live with dignity and to die with dignity. Please do not keep me alive for selfish reasons. Go with me on difficult journeys. Everything is easier for me if you are there.",
+  "I have the right to regular exercise. I thrive on play and activity, and it helps me to be healthy and young.",
+  "I have the right to be trained so that I do not become a prisoner of my own misbehavior. Without training, I can become confused, fearful and aggressive and become a danger to myself and to you! I am not happy unless I know what the rules are.",
+  "I have the right to make mistakes. No matter how well we are trained or how old I get, sometimes I just do things wrong... it is natural. It won\u2019t happen often if I am properly trained.",
+  "I have the right to be myself. My heritage influences who I am — training helps shape me but some characteristics will remain. Please understand this when choosing me.",
+  "I have the right to move with my family. I am the only family member that can be rejected by current laws. I need you to fight for me and to change those laws, so that the family can stay together.",
+  "I have the right to live with dignity and to die with dignity. Please, do not keep me alive for selfish reasons. Go with me on difficult journeys. Everything is easier for me if you are there.",
 ];
 
 // Images placed at specific points in the rights list, matching the original layout

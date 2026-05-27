@@ -9,8 +9,8 @@ const breedInfo = [
   { label: "AKC - Chihuahua Breed Standard", href: "/chihuahua-info/breed-standard" },
   { label: "The Versatile Chihuahua", href: "/chihuahua-info/versatile-chihuahua" },
   { label: "Chihuahua Bill of Rights", href: "/chihuahua-info/bill-of-rights" },
-  { label: "TeaCup Chihuahuas - Fact or Fiction?", href: "/chihuahua-info/teacup-chihuahuas" },
-  { label: "For Fun, Famous Chihuahuas", href: "/chihuahua-info/famous-chihuahuas" },
+  { label: "Teacup Chihuahuas - Fact or Fiction?", href: "/chihuahua-info/teacup-chihuahuas" },
+  { label: "For Fun: Famous Chihuahuas", href: "/chihuahua-info/famous-chihuahuas" },
 ];
 
 const volunteerArticles = [
@@ -20,7 +20,7 @@ const volunteerArticles = [
 
 const rescueArticles = [
   {
-    label: "Tips For New Adopters; by Anne Puchtinger, and Canadian Chihuahua Rescue & Transport",
+    label: "Tips For New Adopters: by Anne Puchtinger and Canadian Chihuahua Rescue & Transport",
     href: "/chihuahua-info/tips-for-new-adopters",
   },
   { label: "Are You a Responsible Pet Parent?", href: "/chihuahua-info/responsible-pet-parent" },
@@ -29,7 +29,7 @@ const rescueArticles = [
     href: "/chihuahua-info/benefits-of-neutering",
   },
   {
-    label: "Why Rescues do not place dogs in homes with intact animals.",
+    label: "Why rescues do not place dogs in homes with intact animals",
     href: "/chihuahua-info/why-no-intact-animals",
   },
 ];
@@ -37,7 +37,7 @@ const rescueArticles = [
 const interestArticles = [
   { label: "Chihuahua Treats", href: "/chihuahua-info/chihuahua-treats" },
   { label: "Chocolate Poisoning", href: "/chihuahua-info/chocolate-poisoning" },
-  { label: "Crate training; step by step", href: "/chihuahua-info/crate-training" },
+  { label: "Crate training: Step by Step", href: "/chihuahua-info/crate-training" },
 ];
 
 function ArticleList({

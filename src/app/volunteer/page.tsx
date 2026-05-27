@@ -7,7 +7,7 @@ const roles = [
   "Monitoring shelters, notifying YCRAA about Chihuahuas that may be there",
   "Providing permanent foster homes for special-needs Chihuahuas",
   "Maintaining contact with shelters and other rescue groups",
-  "Manning the YCRAA booth at fairs and shows",
+  "Staffing the YCRAA booth at fairs and shows",
   "Screening applicants via telephoning and home visits",
   "Educating the public about the 'real' Chihuahua",
   "Creating and maintaining public relations and websites",
@@ -18,13 +18,13 @@ const roles = [
   "Maintaining records",
   "Responding to inquirers",
   "Fundraising",
-  "and more!!",
+  "... and more!!",
 ];
 
 const objectives = [
   "Rehabilitate and place homeless Chihuahuas and Chihuahua mixes in homes that meet the needs of each dog.",
   {
-    main: "Promote responsible pet guardianship through education, resulting in a rewarding experience and relationship",
+    main: "Promote responsible pet guardianship through education, resulting in a rewarding experience and relationship.",
     sub: [
       "How to choose the right dog.",
       "Care for it.",
@@ -109,7 +109,7 @@ export default function VolunteerPage() {
           <div className="flex gap-6">
             <div className="flex-1">
               <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
-                YCRAA objectives:
+                YCRAA&apos;s objectives:
               </h2>
               <ul className="mt-6 space-y-4">
             {objectives.map((item, idx) => {
@@ -141,7 +141,7 @@ export default function VolunteerPage() {
               <div className="mt-6 space-y-3 text-warm-700">
                 <p>Each home is carefully screened before placement.</p>
                 <p>
-                  Each dog is evaluated for temperament, has a vet exam, is up to date on all
+                  Each dog is evaluated for temperament, has a vet exam, is up-to-date on all
                   shots, and receives whatever other vet care is needed. Adult dogs are also
                   spayed or neutered before adoption.
                 </p>

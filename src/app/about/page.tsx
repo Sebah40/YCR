@@ -13,17 +13,17 @@ const helpAreas = [
   {
     title: "Reference check assistance",
     description:
-      "We ask all adopters for a personal references and a vet reference. The average reference check takes 10 minutes. A form will guide you through a list of questions.",
+      "We ask all adopters for a personal reference and a vet reference. The average reference check takes 10 minutes. A form will guide you through a list of questions.",
   },
   {
     title: "Transport assistance",
     description:
-      "We need drivers to pick up dogs and bring them to foster homes, vet visits, grooming appointments. The average time commitment is 2 hours.",
+      "We need drivers to pick up dogs and bring them to foster homes, vet visits, and grooming appointments. The average time commitment is 2 hours.",
   },
   {
     title: 'Adoption follow-up assistance and "Happy Endings" write-ups',
     description:
-      'We need assistance following up on recent adoptions, and a friendly phone call to past adopters. Our "Happy Endings" are in need of up dating.',
+      'We need assistance following up on recent adoptions and making friendly phone calls to past adopters. Our "Happy Endings" are in need of updating.',
   },
   {
     title: "Administrative assistance",
@@ -63,24 +63,24 @@ export default function AboutPage() {
             />
             <p>
               YCRAA is a small group of dedicated, unpaid volunteer dog lovers whose mission
-              is to rescue, provide sanctuary, and ultimately to re-home abandoned, stray and
+              is to rescue, provide sanctuary, and ultimately to re-home abandoned, stray, and
               neglected Chihuahuas. We also assist dogs who, because of extenuating
               circumstances, are unable to remain in their homes with their owners.
             </p>
             <p>
               We operate this rescue in our free time, aside from full-time jobs. Our dogs
               reside in foster homes. This provides a &apos;home&apos; environment and the time to
-              over come any difficulties medically or socially and provides an easier
+              overcome any difficulties medically or socially and provides an easier
               transition into an adoptive home. Our goal is to find only the best homes for
               the dogs in our care.
             </p>
             <p>
               Founded in 2000, YCRAA&apos;s ultimate goal is to create a world where all
-              Chihuahuas and Chi mixes have loving, permanent homes. Where no good natured
-              dog, no matter what their age, are considered to be surplus or un-adoptable.
+              Chihuahuas and Chi mixes have loving, permanent homes &mdash; homes where no good-natured
+              dog, no matter what its age, is considered surplus or unadoptable.
             </p>
             <p>
-              All YCRAA Chihuahuas and Chihuahua mixes are brought up to date on shots and
+              All YCRAA Chihuahuas and Chihuahua mixes are brought up-to-date on shots and
               spayed or neutered prior to adoption.
             </p>
           </div>
@@ -137,7 +137,7 @@ export default function AboutPage() {
       <section className="bg-white py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
           <h2 className="text-2xl font-bold text-warm-900 sm:text-3xl">
-            YCRAA objectives are to:
+            YCRAA&apos;s objectives are to:
           </h2>
           <ul className="mt-8 space-y-4">
             {objectives.map((item, idx) => (
@@ -152,7 +152,7 @@ export default function AboutPage() {
           <div className="mt-8 space-y-3 text-warm-700">
             <p>Each home is carefully screened before placement.</p>
             <p>
-              Each dog is evaluated for temperament, has a vet exam, is up to date on all
+              Each dog is evaluated for temperament, has a vet exam, is up-to-date on all
               shots, and receives whatever other vet care is needed.
             </p>
             <p>Adult dogs are spayed or neutered before adoption.</p>

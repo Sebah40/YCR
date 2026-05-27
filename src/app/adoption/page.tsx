@@ -22,7 +22,7 @@ const policies = [
   "YCRAA offers dogs for adoption only to households in which there are no children under 10 years of age without special approval of the YCRAA Board of Directors.",
   "All adult dogs are neutered before placement.",
   "YCRAA offers dogs for adoption only to households in which there are NO intact dogs.",
-  "All dogs under 6 months require a signed Spay/Neuter Contract and a signed receipt from the adopter's veterinarian stating that spay/neuter surgery has been paid in full by the adopter.",
+  "All dogs under 6 months require a signed Spay / Neuter Contract and a signed receipt from the adopter's veterinarian stating that spay / neuter surgery has been paid in full by the adopter.",
   "All dogs are microchipped and registered with YCRAA as the primary contact.",
 ];
 
@@ -33,7 +33,7 @@ const seniorReasons = [
   "When you rescue a senior dog, you have a best friend for life.",
   "Senior dogs reward your care with an unwavering devotion.",
   "Nothing matches the love of a senior dog for his family.",
-  "Senior dogs have learned many of life's lessons. They know, for example, that shoes are for walking and bones are for chewing. Senior dogs know that great outdoors is for eliminating and the house is for relaxing. Your carpet will last longer with a senior dog.",
+  "Senior dogs have learned many of life's lessons. They know, for example, that shoes are for walking and bones are for chewing. Senior dogs know that the great outdoors is for eliminating and the house is for relaxing. Your carpet will last longer with a senior dog.",
   "Senior dogs can learn new tricks and be valuable family and community members.",
   "They make excellent therapy dogs.",
   "Senior dogs often fit into your household with ease.",
@@ -46,11 +46,11 @@ const seniorReasons = [
 
 const unneuteredBehaviors = [
   "Wanderers & roamers",
-  "Noisy, Baying, howling, overbearing, barking & lunging at passersby",
+  "Noisy, baying, howling, overbearing, barking & lunging at passersby",
   "Tend toward fighting, lunging & barking at and fighting with other male dogs",
-  "Non-compliant; pushy and bossy attitude towards caretakers and strangers",
-  "Uncooperative, Resistant; an unwillingness to obey commands",
-  "Excessive sniffers have sexual frustration; mounting other dogs, people, toys",
+  "Non-compliant, pushy and bossy attitude towards caretakers and strangers",
+  "Uncooperative, resistant — an unwillingness to obey commands",
+  "Excessive sniffers having sexual frustration; mounting other dogs, people, toys",
   "Excessive grooming of genital area",
   "Offensive growling, snapping, biting",
   "A heightened sense of territoriality, marking with urine indoors",
@@ -92,11 +92,11 @@ export default function AdoptionPage() {
                 <li>Some are released to us by their owners due to changes in family circumstances</li>
                 <li>Some are from owners realizing that a Chihuahua is not a good match for them</li>
                 <li>Some are strays from animal shelters and humane societies</li>
-                <li>A few come from puppy mills and backyard breeders.</li>
+                <li>A few come from puppy mills and backyard breeders</li>
               </ul>
               <p>
-                Our adult Chihuahuas are spayed/neutered, tested and if necessary, treated, for
-                heartworm and other parasites. All Chihuahuas are brought up to date on their
+                Our adult Chihuahuas are spayed/neutered, tested and, if necessary, treated for
+                heartworm and other parasites. All Chihuahuas are brought up-to-date on their
                 inoculations prior to their placement in loving forever homes.
               </p>
             </div>
@@ -118,10 +118,10 @@ export default function AdoptionPage() {
                 family. Once the application is received and reviewed to ensure it is complete and
                 meets our adoption criteria, a YCRAA volunteer will then contact you for a phone
                 interview and arrange for a home visit. When there is a particular YCRAA dog you
-                may be interested in then the Foster Mom will also contact you to talk about
+                may be interested in, then the foster mom will also contact you to talk about
                 their foster. We do not have a shelter or facility where the Chihuahuas may be
                 visited, we are a network of foster homes here in New England. Foster parents
-                volunteer their time and put a lot into evaluating and rehabilitating YCRAA
+                volunteer their time, and put a lot into evaluating and rehabilitating YCRAA
                 Chihuahuas until they are ready for placement.
               </p>
               <p>
@@ -156,8 +156,8 @@ export default function AdoptionPage() {
           <div className="mt-6 space-y-5 text-base leading-relaxed text-warm-700">
             <p>
               Adoption cost is based on age (donation) plus any/all applicable medical
-              expenses. YCRAA willingly accepts Chihuahuas and Chi mixes young and old. Any
-              one dog may need expensive veterinary treatment to fulfill quality of life
+              expenses. YCRAA willingly accepts Chihuahuas and Chi mixes young and old. A
+              dog may need expensive veterinary treatment to fulfill quality of life
               standards. Adoption donations do not cover any veterinary/medical costs. Be aware
               that there may be additional medical expenses added to the adoption donation as
               the final cost for adoption.
@@ -205,14 +205,14 @@ export default function AdoptionPage() {
 
           <div className="mt-6 space-y-4 text-base leading-relaxed text-warm-700">
             <p>
-              For puppies, YCRAA requires adopters to sign a spay/neuter contract and to
-              submit a pre-paid receipt from a veterinarian for spay/neuter surgery (adopter
-              pre-paid expense).
+              For puppies, YCRAA requires adopters to sign a spay / neuter contract and to
+              submit a prepaid receipt from a veterinarian for spay / neuter surgery (adopter
+              prepaid expense).
             </p>
             <p>
-              For older dogs, e.g. Chihuahuas with a known health issue, then the donation
-              amount requested may be reduced but still may include applicable medical expenses
-              e.g. medications that go with the adoption.
+              For older dogs (e.g., Chihuahuas with a known health issue) then the donation
+              amount requested may be reduced, but still may include applicable medical expenses,
+              e.g., medications that go with the adoption.
             </p>
           </div>
         </div>
@@ -255,7 +255,7 @@ export default function AdoptionPage() {
                 The main reason we will not place a Yankee Chihuahua in a home where the current
                 pets have not been neutered, is because we want to place our Chihuahuas in homes
                 with responsible owners. Responsible owners take good care of their pets and do
-                the best thing for them -- which includes Neutering.
+                the best thing for them &mdash; which includes neutering.
               </p>
             </div>
           </div>
@@ -268,11 +268,11 @@ export default function AdoptionPage() {
               of testosterone will gradually enlarge over the course of the dog&apos;s life. In
               age, it is likely to become uncomfortable, possibly being large enough to
               interfere with defecation. The prostate under the influence of testosterone is
-              also predisposed to infection which is almost impossible to clear up without
+              also predisposed to infection, which is almost impossible to clear up without
               neutering. Neutering causes the prostate to shrink into insignificance thus
               preventing both prostatitis (an infection, usually caused by bacteria) as well as
               the uncomfortable benign hyperplasia (enlargement) that occurs with aging. It is
-              often erroneously held that neutering prevents prostate cancer but this is not
+              often erroneously held that neutering prevents prostate cancer, but this is not
               true.
             </p>
             <p>
@@ -282,11 +282,11 @@ export default function AdoptionPage() {
             </p>
             <p>
               The behavior of other dogs in homes our fosters go into is a huge concern of
-              YCRAA. Un-neutered dogs have natural biological needs. If the dog doesn&apos;t
+              YCRAA. Unneutered dogs have natural biological needs. If the dog doesn&apos;t
               fulfill those needs, he will build up frustration, anxiety, and may even develop
               obsessive tendencies.
             </p>
-            <p className="font-semibold text-warm-800">Un-neutered dogs often are:</p>
+            <p className="font-semibold text-warm-800">Unneutered dogs often are:</p>
             <ul className="ml-6 list-disc space-y-1 text-warm-600">
               {unneuteredBehaviors.map((item, idx) => (
                 <li key={idx}>{item}</li>
@@ -299,10 +299,10 @@ export default function AdoptionPage() {
               The only behavior changes after neutering relate to behaviors influenced by male
               hormones. Playfulness, friendliness, and socialization with humans are not
               changed. Activity level and appetite do not change with neutering. A male dog
-              should not gain weight or become less interested in activity post neuter.
+              should not gain weight or become less interested in activity post-neuter.
             </p>
             <p>
-              With Neutering, the interest in roaming is eliminated in 90 percent of neutered
+              With neutering, the interest in roaming is eliminated in 90 percent of neutered
               dogs. Aggressive behavior against other dogs is eliminated in 60 percent of
               neutered dogs. Urine marking is eliminated in 50 percent of neutered male dogs.
               Inappropriate mounting is eliminated in 70 percent of neutered dogs. In other
@@ -343,7 +343,7 @@ export default function AdoptionPage() {
                 they give in return is a very special thing.
               </p>
               <p>
-                If you would consider adopting an older dog, please fill in an application. Often
+                If you would consider adopting an older dog, please fill out an application. Often
                 these wonderful dogs need a new home quickly. If we have your application and are
                 on our waiting list they can be adopted right to you and the trauma of losing
                 their home is greatly reduced.
@@ -381,9 +381,9 @@ export default function AdoptionPage() {
             Contact Your State Coordinator
           </h2>
           <p className="mt-4 text-warm-700">
-            For more information having anything to do with Yankee Chihuahua Rescue And
+            For more information having anything to do with Yankee Chihuahua Rescue and
             Adoption, Inc., please find your state below. You may write concerning adoptions,
-            surrendering, volunteering, specific dogs.
+            surrendering, volunteering, or specific dogs.
           </p>
           <p className="mt-2 text-warm-600 italic">
             ...all the information you need is just a click away.

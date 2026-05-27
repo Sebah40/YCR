@@ -46,7 +46,7 @@ const badTreats = [
   },
   {
     name: "Fruit Seeds",
-    desc: "The flesh of Apples, Cherries, Peaches and similar fruit is fine for your dog. HOWEVER, the seeds of these fruits contain cyanide, which is poisonous to dogs as well as humans. Unlike humans, dogs do not know to stop eating at the pit and can easily ingest them. It can also become lodged in the intestines and kill the dog in 24 hours with no warning.",
+    desc: "The flesh of Apples, Cherries, Peaches and similar fruit is fine for your dog. HOWEVER, the seeds of these fruits contain cyanide, which is poisonous to dogs as well as humans. Unlike humans, dogs do not know to stop eating at the pit and can easily ingest it. It can also become lodged in the intestines and kill the dog in 24 hours with no warning.",
   },
   {
     name: "Raw eggs",
@@ -73,7 +73,7 @@ const goodTreats = [
   "Green Beans",
   "Peas (mine love them frozen!)",
   "Cheese (it's fine)",
-  "Apple cut up (watch out- the core and the seeds are toxic!)",
+  "Apple, cut up (watch out — the core and the seeds are toxic!)",
   "Cheerios (they're great for training)",
   "Banana",
   "Cantaloupe",

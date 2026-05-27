@@ -15,7 +15,7 @@ const famousChihuahuas = [
   { name: "Chloe", desc: "Played by Angel, co-star of the film Beverly Hills Chihuahua." },
   { name: "Enrique", desc: "Hector Con Carne's pet Chihuahua from Evil Con Carne." },
   { name: "Geraldo", desc: "Max Shreck's Chihuahua in Batman Returns." },
-  { name: "Madame Shirley the Medium", desc: "An old fortune-teller Chihuahua featured in the TV Show Cartoon, Courage the Cowardly Dog." },
+  { name: "Madame Shirley the Medium", desc: "An old fortune-teller Chihuahua featured in a TV show cartoon, Courage the Cowardly Dog." },
   { name: "Mammoth Mutt", desc: "From the cartoon series Krypto the Superdog." },
   { name: "Mojo", desc: "Samuel Witwicky's Chihuahua from Transformers.", img: "/images/articles/f-mojo.png" },
   { name: "Papi", desc: "Played by Rusco, the other co-star of Beverly Hills Chihuahua.", img: "/images/articles/f-papi.png" },

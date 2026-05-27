@@ -29,7 +29,7 @@ export default function ChocolatePoisoningPage() {
           <div className="space-y-6 text-base leading-relaxed text-warm-700">
             <p>
               The National Animal Control Center reports chocolate is one of its most encountered
-              toxins when it come to dogs. What makes chocolate a poison? The answer is in a
+              toxins when it comes to dogs. What makes chocolate a poison? The answer is in a
               chemical compound called theobromine in the chocolate.
             </p>
 

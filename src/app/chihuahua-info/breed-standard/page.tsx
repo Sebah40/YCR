@@ -11,7 +11,7 @@ const sections = [
   {
     title: "Size, Proportion, Substance",
     items: [
-      "Weight \u2013 A well balanced little dog not to exceed 6 pounds.",
+      "Weight \u2013 A well-balanced little dog not to exceed 6 pounds.",
       "Proportion \u2013 The body is off-square; hence, slightly longer when measured from point of shoulder to point of buttocks, than height at the withers. Somewhat shorter bodies are preferred in males.",
       "Disqualification \u2013 Any dog over 6 pounds in weight.",
     ],
@@ -19,13 +19,13 @@ const sections = [
   {
     title: "Head",
     items: [
-      'A well rounded "apple dome" skull, with or without molera.',
+      'A well-rounded "apple-dome" skull, with or without molera.',
       "Expression \u2013 Saucy.",
-      "Eyes \u2013 Full, round, but not protruding, balanced, set well apart-luminous dark or luminous ruby. Light eyes in blond or white-colored dogs permissible. Blue eyes or a difference in the color of the iris in the two eyes, or two different colors within one iris should be considered a serious fault.",
-      "Ears \u2013 Large, erect type ears, held more upright when alert, but flaring to the sides at a 45 degree angle when in repose, giving breadth between the ears.",
-      "Stop \u2013 Well defined. When viewed in profile, it forms a near 90 degree angle where muzzle joins skull.",
+      "Eyes \u2013 Full, round, but not protruding, balanced, set well apart — luminous dark or luminous ruby. Light eyes in blond or white-colored dogs permissible. Blue eyes or a difference in the color of the iris in the two eyes, or two different colors within one iris should be considered a serious fault.",
+      "Ears \u2013 Large, erect type ears, held more upright when alert, but flaring to the sides at a 45-degree angle when in repose, giving breadth between the ears.",
+      "Stop \u2013 Well defined. When viewed in profile, it forms a near 90-degree angle where muzzle joins skull.",
       "Muzzle \u2013 Moderately short, slightly pointed. Cheeks and jaws lean.",
-      "Nose \u2013 Self-colored in blond types, or black. In moles, blues, and chocolates, they are self-colored. In blond types, pink noses permissible.",
+      "Nose \u2013 Self-colored in blond types, or black. In fawns, blues, and chocolates, they are self-colored. In blond types, pink noses permissible.",
       "Bite \u2013 Level or scissors. Overshot or undershot, or any distortion of the bite or jaw, should be penalized as a serious fault. A missing tooth or two is permissible.",
       "Disqualifications \u2013 Broken down or cropped ears.",
     ],
@@ -34,16 +34,16 @@ const sections = [
     title: "Neck, Topline, Body",
     items: [
       "Neck \u2013 Slightly arched, gracefully sloping into lean shoulders.",
-      'Topline \u2013 Level. Body \u2013 Ribs rounded and well sprung (but not too much "barrel-shaped").',
-      "Tail \u2013 Moderately long, carried sickle either up or out, or in a loop over the back with tip just touching the back. (Never tucked between legs.)",
+      "Topline \u2013 Level. Body \u2013 Ribs rounded and well sprung (but not too much barrel-shaped).",
+      "Tail \u2013 Moderately long, carried sickle-shaped either up or out, or in a loop over the back with tip just touching the back. (Never tucked between the legs.)",
       "Disqualifications \u2013 Docked tail, bobtail.",
     ],
   },
   {
     title: "Forequarters",
     items: [
-      "Shoulders \u2013 Lean, sloping into a slightly broadening support above straight forelegs that set well under, giving free movement at the elbows. Shoulders should be well up, giving balance and soundness, sloping into a level back (never down or low). This gives a well developed chest and strength of forequarters.",
-      "Feet \u2013 A small, dainty foot with toes well split up but not spread, pads cushioned. (Neither the hare nor the cat foot.) Dewclaws may be removed.",
+      "Shoulders \u2013 Lean, sloping into a slightly broadening support above straight forelegs that set well under, giving free movement at the elbows. Shoulders should be well up, giving balance and soundness, sloping into a level back (never down or low). This gives a well-developed chest and strength of forequarters.",
+      "Feet \u2013 Small, dainty feet with toes well split up but not spread, pads cushioned. (Neither the hare nor the cat foot.) Dewclaws may be removed.",
       "Pasterns \u2013 Strong.",
     ],
   },
@@ -54,10 +54,10 @@ const sections = [
   {
     title: "Coat",
     items: [
-      "In the Smooth Coats, the coat should be of soft texture, close and glossy. (Heavier coats with undercoats permissible.) Coat placed well over body with ruff on neck preferred, and more scanty on head and ears. Hair on tail preferred furry.",
+      "In the Smooth Coats, the coat should be of soft texture, close and glossy. (Heavier coats with undercoats permissible.) Coat placed well over the body with ruff on neck preferred, and more scanty on head and ears. Hair on tail preferred furry.",
       "In Long Coats, the coat should be of a soft texture, either flat or slightly wavy, with undercoat preferred.",
       "Ears \u2013 Fringed.",
-      "Tail \u2013 Full and long (as a plume). Feathering on feet and legs, pants on hind legs and large ruff on the neck desired and preferred. (The Chihuahua should be groomed only to create a neat appearance.)",
+      "Tail \u2013 Full and long (as a plume). Feathering on feet and legs, pants on the hind legs and large ruff on the neck desired and preferred. (The Chihuahua should be groomed only to create a neat appearance.)",
       "Disqualification \u2013 In Long Coats, too thin coat that resembles bareness.",
     ],
   },
@@ -71,7 +71,7 @@ const sections = [
   },
   {
     title: "Temperament",
-    text: "Alert, projecting the \u2018terrier-like\u2019 attitudes of self importance, confidence, self-reliance.",
+    text: "Alert, projecting the \u2018terrier-like\u2019 attitudes of self-importance, confidence, self-reliance.",
   },
 ];
 

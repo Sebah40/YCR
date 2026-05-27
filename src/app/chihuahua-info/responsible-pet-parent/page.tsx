@@ -7,7 +7,7 @@ const questions = [
     question: "Where did you get your dog?",
     answers: [
       "A pet shop that sells puppies.",
-      'The Wal-Mart Parking lot (some guy in a van, giving away free puppies).',
+      'The Wal-Mart parking lot (some guy in a van, giving away free puppies).',
       "I saw an ad in the newspaper.",
       "I found my dog roaming as a stray, or my dog found me.",
       "From a responsible, well-known and reputable breeder.",
@@ -23,7 +23,7 @@ const questions = [
       "I needed a last-minute birthday/Christmas/anniversary gift for the spouse/kids.",
       "The kids needed a dog to teach them some responsibility. Plus, they've been begging for a dog.",
       'When I found the dog as a stray, I put up flyers and notified vets and shelters to try to find his owner. I took him to a vet to have him scanned for a microchip and checked for health problems. When no owner came forward, knowing I was able to take on the responsibility of caring for and training the dog, I kept him and he is now a member of the family.',
-      'We put a lot of thought into it, waited until the kids were grown up enough to handle the responsibility and not torment the dog, researched various breed types thoroughly, decided on the type of dog we wanted (like, terrier, herding breed, etc.). And looked for a good breeder of this kind of dog, or went to the breed rescue, petfinder.com or other place where I might find a pure or mixed breed with these qualities, and correct temperament for my family.',
+      'We put a lot of thought into it, waited until the kids were grown up enough to handle the responsibility and not torment the dog, researched various breed types thoroughly, decided on the type of dog we wanted (like, terrier, herding breed, etc.), and looked for a good breeder of this kind of dog, or went to the breed rescue, petfinder.com or other place where I might find a pure or mixed breed with these qualities, and correct temperament for my family.',
       'Add to #5 that I asked many questions about the sire and dam, and inquired of any potential hereditary defects, like hip dysplasia, deafness, retinal atrophy, etc. and asked how the puppies were housed/raised up until they were old enough to find homes. Or, if a rescue or adult dog, I asked to find out what kind of socialization the dog had during critical socialization periods.',
     ],
   },
@@ -36,8 +36,8 @@ const questions = [
       "In a kennel run with an insulated, dry doghouse or access to the indoors (house, shed, barn)",
       "My dog is always with me. I leave him in the car when I go to the store; in the house when I'm home.",
       "In the garage or basement while we're at work and at night; gets to come in to spend time with us in the evenings.",
-      "In the house in his room or a crate (or where ever his bed is), while we're gone, and loose with us in the home when we're there.",
-      "My dog accompanies me to places where he is welcome and if he can't come with me, he has a climate controlled house to stay in with access to a doggie door and a fully fenced private yard.",
+      "In the house in his room or a crate (or wherever his bed is), while we're gone, and loose with us in the home when we're there.",
+      "My dog accompanies me to places where he is welcome and if he can't come with me, he has a climate-controlled house to stay in with access to a doggie door and a fully fenced private yard.",
       "At doggie day care while we're at work, and in the house with us in the evenings and nights.",
     ],
   },
@@ -92,7 +92,7 @@ const questions = [
 const scoring = [
   "If you found your answers in the first few choices, you could likely improve your knowledge or responsibility in those areas. Your dog will be happier and you will feel better.",
   "If your answers tended to be in the middle of the choices, you might be doing OK, or you might want to increase your education about why the higher numbered answers could be better for your dog.",
-  "If your answers were the higher numbered choices, way to go! You have a very lucky dog! Your responsibility can be an example for others who are not as aware of the above situations as you.",
+  "If your answers were the higher numbered choices, Way to go! You have a very lucky dog! Your responsibility can be an example for others who are not as aware of the above situations as you.",
 ];
 
 export default function ResponsiblePetParentPage() {

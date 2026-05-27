@@ -40,10 +40,10 @@ export default function WhyNoIntactAnimalsPage() {
         <article className="py-14">
           <div className="space-y-5 text-base leading-relaxed text-warm-700">
             <p>
-              The main reason why Yankee Chihuahua Rescue will not place a chihuahua in a home
+              The main reason why Yankee Chihuahua Rescue will not place a Chihuahua in a home
               where the pets have not been neutered is because they deserve a home with
               responsible owners. Responsible owners take good care of their pets and do the best
-              thing for them -- Neutering.
+              thing for them &mdash; neutering.
             </p>
 
             <h2 className="!mt-10 text-2xl font-bold text-warm-900">
@@ -56,11 +56,11 @@ export default function WhyNoIntactAnimalsPage() {
               testosterone will gradually enlarge over the course of the dog&apos;s life. In age,
               it is likely to become uncomfortable, possibly being large enough to interfere
               with defecation. The prostate under the influence of testosterone is also
-              predisposed to infection which is almost impossible to clear up without neutering.
-              Neutering causes the prostate to shrink into insignificance thus preventing both
+              predisposed to infection, which is almost impossible to clear up without neutering.
+              Neutering causes the prostate to shrink into insignificance, thus preventing both
               prostatitis as well as the uncomfortable benign hyperplasia (enlargement) that
               occurs with aging. It is often erroneously held that neutering prevents prostate
-              cancer but this is not true.
+              cancer, but this is not true.
             </p>
 
             <p>
@@ -104,10 +104,10 @@ export default function WhyNoIntactAnimalsPage() {
               The only behavior changes after neutering relate to behaviors influenced by male
               hormones. Playfulness, friendliness, and socialization with humans are not changed.
               Activity level and appetite do not change with neutering. A male dog should not
-              gain weight or become less interested in activity post neuter.
+              gain weight or become less interested in activity post-neuter.
             </p>
 
-            <p>With Neutering:</p>
+            <p>With neutering:</p>
 
             <ul className="space-y-2">
               {stats.map((s) => (
@@ -124,7 +124,7 @@ export default function WhyNoIntactAnimalsPage() {
 
             <div className="!mt-10 rounded-xl border border-amber-200 bg-gradient-to-br from-amber-50 to-warm-50 p-8 text-center shadow-sm">
               <p className="text-lg font-bold italic text-warm-800">
-                Well behaved companions are what a Yankee Chihuahua deserves.
+                Well-behaved companions are what a Yankee Chihuahua deserves.
               </p>
             </div>
           </div>

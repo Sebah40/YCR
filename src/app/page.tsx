@@ -20,14 +20,14 @@ export default function Home() {
               </h1>
               <p className="mt-5 max-w-2xl text-base leading-relaxed text-warm-600 sm:text-lg">
                 YCRAA is a 501(c)(3) public charity, nonprofit organization founded in the
-                year 2000. As a New England based rescue, we are a network of independent
+                year 2000. As a New England-based rescue, we are a network of independent
                 volunteers who work together to rescue homeless Chihuahuas and Chihuahua mixes.
               </p>
               <p className="mt-3 max-w-2xl text-base leading-relaxed text-warm-600">
                 YCRAA is comprised entirely of volunteers (we have no paid employees) and is
                 dedicated to fostering and fundraising to help this beloved breed. Prior to
-                placement, all YCRAA dogs are immunized, heartworm tested, microchipped,
-                spayed/neutered and provided with any necessary medical attention.
+                placement, all YCRAA dogs are immunized, heartworm-tested, microchipped,
+                spayed/neutered, and provided with any necessary medical attention.
               </p>
               <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row lg:justify-start">
                 <Link
@@ -181,7 +181,7 @@ export default function Home() {
             className="mx-auto mb-6 rounded-xl shadow-sm"
           />
           <blockquote className="text-2xl font-bold italic leading-relaxed text-warm-800 sm:text-3xl lg:text-4xl">
-            &ldquo;If you want the best seat in the house, you&apos;ve got to move the Chihuahua&rdquo;
+            &ldquo;If you want the best seat in the house, you&apos;ve got to move the Chihuahua.&rdquo;
           </blockquote>
           <p className="mt-6 text-base text-warm-500">Thanks for stopping by!</p>
           <div className="mt-6 flex items-center justify-center">

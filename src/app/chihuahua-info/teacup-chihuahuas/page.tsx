@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export const metadata = { title: "TeaCup Chihuahuas - Fact or Fiction?" };
+export const metadata = { title: "Teacup Chihuahuas - Fact or Fiction?" };
 
 export default function TeacupChihuahuasPage() {
   return (
@@ -8,7 +8,7 @@ export default function TeacupChihuahuasPage() {
       <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-8 pt-14 text-center">
         <div className="mx-auto max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
-            TeaCup Chihuahuas
+            Teacup Chihuahuas
           </h1>
           <p className="mt-4 text-xl text-warm-600">Fact or Myth?</p>
           <p className="mt-2 text-sm text-warm-500">
@@ -46,7 +46,7 @@ export default function TeacupChihuahuasPage() {
             <p>
               Unfortunately, the additional adjectives used to describe the size difference and
               physical appearances are many; and have been misused for so long they now seem
-              legitimate. Tea-cup, Pocket Size, Tiny Toy, Miniature or Standard - are just a few
+              legitimate. Tea-cup, Pocket Size, Tiny Toy, Miniature, or Standard &mdash; are just a few
               of the many tags and labels that have been attached to this breed over the years.
               The Chihuahua Club of America is concerned that these terms may be used to entice
               prospective buyers into thinking that puppies described in this way are of greater

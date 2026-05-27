@@ -49,8 +49,8 @@ export default function TipsForNewAdoptersPage() {
             </p>
 
             <p>
-              You can expect your new dog to behave very differently to what it did in foster
-              care. The dog may hide and be very shy or, may exhibit rather negative behavior.
+              You can expect your new dog to behave very differently from what it did in foster
+              care. The dog may hide and be very shy, or may exhibit rather negative behavior.
               Remember, the CCRT foster home was patient and worked with the dog early on to help
               it adjust and get comfortable. When the dog is moved to your home, naturally, it
               will be confused with its new surroundings and be out of its element in relation to
@@ -63,8 +63,8 @@ export default function TipsForNewAdoptersPage() {
               everyone. Set up the dog&apos;s bed and/or crate, its food and water dishes and
               perhaps even some &lsquo;pee pads&rsquo;. Accidents are incredibly common during
               the first few days in a new home and you should be prepared to handle this. A great
-              suggestion to help establish a strong bond with the dog is hand-feed it for at
-              least the first 2 weeks. You should also frequently use the dogs name in a
+              suggestion to help establish a strong bond with the dog is to hand-feed it for at
+              least the first 2 weeks. You should also frequently use the dog&apos;s name in a
               positive voice while feeding and grooming.
             </p>
 
@@ -88,7 +88,7 @@ export default function TipsForNewAdoptersPage() {
             </p>
 
             <p>
-              The arrival home is one the most important events, as you will be introducing your
+              The arrival home is one of the most important events, as you will be introducing your
               dog to its new surroundings, other family members, including perhaps canine or
               feline companions and a different routine. A dog is a pack animal and there is a
               specific hierarchy. The new dog will have to learn from the beginning that he/she
@@ -124,7 +124,7 @@ export default function TipsForNewAdoptersPage() {
               If all is going well, bring the dogs in for a closer look and sniff. DO NOT tighten
               up on the lead or let yourself become tense, as this may put the dogs on guard or
               alert them to the fact that something is about to happen. Relax! This is
-              imperative. Did you know that most fights of dog on a leash start because of human
+              imperative. Did you know that most fights between dogs on a leash start because of human
               interference? Dogs need to figure out their own order or position.
             </p>
 
@@ -139,7 +139,7 @@ export default function TipsForNewAdoptersPage() {
               sniff, vocalize, posture, and growl. If you correct or interfere too much, a fight
               may erupt. Step back, relax and watch the dogs interact. If you have a truly
               submissive resident dog, you may want to hold them in place while the new dog is
-              allowed a real good sniff of the back end of your dog. Allow the new dogs to
+              allowed a really good sniff of the back end of your dog. Allow the new dogs to
               completely finish sniffing and then release your resident dog. Again, have the dogs
               meet at an angle and not face-to-face.
             </p>
@@ -171,9 +171,9 @@ export default function TipsForNewAdoptersPage() {
 
             <p>
               The new dog should sleep in the crate at night and should not be permitted to sleep
-              with children or have free roam of the house. If you have an older/ill dog, who is
-              unable to go a whole night without a potty break, it may be necessary to set-up a
-              secure sleep area utilizing items such as gates, playpen, or x-pen with their bed
+              with children or have free roam of the house. If you have an older/ill dog who is
+              unable to go a whole night without a potty break, it may be necessary to set up a
+              secure sleep area utilizing items such as gates, a playpen, or an x-pen with its bed
               and some pee pads or newspaper down.
             </p>
 
@@ -193,7 +193,7 @@ export default function TipsForNewAdoptersPage() {
 
             <p>
               Once you have shown the new dog around, including his/her potty place outside, make
-              sure you limit his/her access to certain areas of the house for awhile. You can do
+              sure you limit his/her access to certain areas of the house for a while. You can do
               this by closing doors to some rooms and by using baby gates. Some dogs find it very
               stressful to have full access to the house right away. As time goes on, and your
               new dog settles in, you can increase the amount of space he can occupy.
@@ -358,7 +358,7 @@ export default function TipsForNewAdoptersPage() {
             <div className="h-1 w-12 rounded-full bg-coral-400" />
 
             <p>
-              Walking and daily exercise are a vital part of your dogs routine. It is also a
+              Walking and daily exercise are a vital part of your dog&apos;s routine. It is also a
               great way to bond with your new pet and have some fun at the same time. Here are
               some tips to help you:
             </p>
@@ -429,7 +429,7 @@ export default function TipsForNewAdoptersPage() {
               Walking for success takes practice! However, if you stay positive, relaxed, and
               above all, have fun and enjoy your dog, you will very soon be out there taking
               long, wonderful strolls with your dog and everyone will be asking you how you did
-              it?
+              it.
             </p>
 
             <p>

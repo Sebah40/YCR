@@ -42,11 +42,11 @@ export default function BenefitsOfNeuteringPage() {
               these dogs will tend to be less aggressive both toward other male dogs and also
               people. The androgen (male) hormones, of which testosterone is the most important,
               are responsible for the development of many behavioral patterns. When young puppies
-              are sexually mounting their 7 and 8-week old litter mates this is because of
+              are sexually mounting their 7- and 8-week-old littermates this is because of
               androgen surges in their bodies. The same is true with aggressive behavior. Some
               medications that have androgenic hormonal activity often cause increased aggression
               (an example would be the birth control medication, Cheque Drops, which contains
-              one of these androgen-type chemicals). The degree castration has on suppressing
+              one of these androgen-type chemicals). The degree to which castration suppresses
               aggression varies between animals and the age at which it is done. Its effect is
               greatest if it is done before one year of age.
             </p>
@@ -160,7 +160,7 @@ export default function BenefitsOfNeuteringPage() {
               humane shelters and veterinarians are starting to neuter male animals at a younger
               age, even 6-14 weeks of age. This early neutering does not affect the growth rate,
               and there are no appreciable differences in skeletal, physical, or behavioral
-              development between those animals neutered early than those neutered at a more
+              development between those animals neutered early and those neutered at a more
               traditional age. It must be remembered that younger animals may need different
               anesthetics and are more prone to hypothermia (lower than normal body temperature)
               during surgery. As long as procedures are modified to account for these

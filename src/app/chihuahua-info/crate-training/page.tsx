@@ -8,7 +8,7 @@ export default function CrateTrainingPage() {
       <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-8 pt-14 text-center">
         <div className="mx-auto max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
-            Crate Training; Step by Step
+            Crate Training &mdash; Step by Step
           </h1>
         </div>
       </section>
@@ -18,7 +18,7 @@ export default function CrateTrainingPage() {
           <div className="space-y-6 text-base leading-relaxed text-warm-700">
             <p>
               There are a few different situations that might be a reason your dog isn&apos;t
-              comfortable in his crate and this article will help you address these:
+              comfortable in his crate and this article will help you address these.
             </p>
 
             <ul className="space-y-2">
@@ -32,7 +32,7 @@ export default function CrateTrainingPage() {
               <li className="flex items-start gap-3">
                 <span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-amber-400" />
                 <span>
-                  Your dog might be young and/or not had any experience with crates
+                  Your dog might be young and/or have not had any experience with crates
                 </span>
               </li>
               <li className="flex items-start gap-3">
@@ -45,7 +45,7 @@ export default function CrateTrainingPage() {
             <div className="h-1 w-12 rounded-full bg-amber-400" />
 
             <p>
-              Crates should be a safe place for your dog to relax. It should be a place where he
+              A crate should be a safe place for your dog to relax. It should be a place where he
               isn&apos;t pestered by kids or other dogs and isn&apos;t isolated from everything
               going on in the house. It is also a safe place for the dog because you will know he
               isn&apos;t chewing electric cords and your favorite belongings, digging up the
@@ -82,10 +82,10 @@ export default function CrateTrainingPage() {
             <p>
               If you have tried putting the dog in the crate and found the dog is not happy in
               there, you may have accidentally trained him to act out in his crate. Remember,
-              dog&apos;s do what works for them so if he was let out of the crate when he whined
+              dogs do what works for them so if he was let out of the crate when he whined
               or barked, that&apos;s what he will do more of in the crate. Give it another try
               using the steps below and there&apos;s a good chance your dog will feel better about
-              his crate (and so will you!)
+              his crate (and so will you!).
             </p>
 
             <p>
@@ -102,7 +102,7 @@ export default function CrateTrainingPage() {
             <p>
               If your dog has not had any experiences with a crate, you can use the steps below to
               help them understand that the crate is a safe place to relax. Don&apos;t use the
-              crate for punishment, you want the dog to love going in there and feel calm when in
+              crate for punishment; you want the dog to love going in there and feel calm when in
               the crate. The following might look like a lot of steps, but with most dogs that are
               brand-new to crates, this training will only take a few sessions to get through. A
               big part of the dog being willing to be calm and quiet in the crate is the amount of
@@ -147,7 +147,7 @@ export default function CrateTrainingPage() {
                 <p className="mt-2 text-sm">
                   Leave the door of the crate open and see if the dog will go in, odds are he
                   will investigate the crate. If he does, toss in some yummy treats and praise
-                  heavily, but not excitedly, you don&apos;t want to fire the dog up, you want the
+                  heavily, but not excitedly. You don&apos;t want to fire the dog up; you want the
                   crate experience to be calm and soothing. If it&apos;s a wire type crate, you
                   can drop the treats through the top.
                 </p>
@@ -187,10 +187,10 @@ export default function CrateTrainingPage() {
               <div className="rounded-xl border border-warm-100 bg-white p-6">
                 <h3 className="font-semibold text-warm-800">Step 7: Handle stress signals</h3>
                 <p className="mt-2 text-sm">
-                  If at anytime the dog gets worried about the door being closed (whimpering,
+                  If at any time the dog gets worried about the door being closed (whimpering,
                   pawing at the door, ears down, tail down) push a treat through the closed door
                   (or the top of the crate) and as the dog is eating it, open the door and walk
-                  away &ndash; game ends for a few minutes. The dog&apos;s stress has told you
+                  away &mdash; game ends for a few minutes. The dog&apos;s stress has told you
                   that you pushed the time too far too fast. You don&apos;t want to do that too
                   often. You&apos;ll need to go for a shorter amount of time when you start the
                   game again and work toward longer times more slowly.
@@ -200,7 +200,7 @@ export default function CrateTrainingPage() {
               <div className="rounded-xl border border-warm-100 bg-white p-6">
                 <h3 className="font-semibold text-warm-800">Step 8: Use meal times for training</h3>
                 <p className="mt-2 text-sm">
-                  You can use meals times as training times. Feed the dog in the crate with the
+                  You can use meal times as training times. Feed the dog in the crate with the
                   door closed (if he can handle that without stress) or use his meal as the
                   training morsels mentioned above. You can also give special treats in the
                   dog&apos;s crate.
@@ -264,7 +264,7 @@ export default function CrateTrainingPage() {
               bit longer to achieve. You&apos;ll have to change how the dog feels about the crate
               and depending on what has happened to the dog while in a crate in the past, this
               might be a huge task. But there are very few dogs that cannot overcome their fears
-              when they work with a loving, motivated and patient trainer (you.)
+              when they work with a loving, motivated and patient trainer (you).
             </p>
 
             <p>

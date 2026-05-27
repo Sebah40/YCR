@@ -37,7 +37,7 @@ export default function YcraaTheBeginningPage() {
             </p>
 
             <p>
-              This was not what I had expected when I volunteered; but I soon found that I was
+              This was not what I had expected when I volunteered, but I soon found that I was
               doing a lot of transports, pulling dogs from shelters, fostering, home visits, and
               placements. I was in constant contact with another New England volunteer, and since
               she didn&apos;t drive much, she was primarily the &ldquo;paperwork&rdquo; person,
@@ -47,7 +47,7 @@ export default function YcraaTheBeginningPage() {
             <p>
               Soon we started talking about going &ldquo;on our own&rdquo; since CRT seemed to
               be focused primarily on the Southern US. I would be the New England Coordinator and
-              we chose the name Yankee Chihuahua Rescue and Adoption. Soon however, I was a
+              we chose the name Yankee Chihuahua Rescue and Adoption. Soon, however, I was a
               Co-President with Terri Wakefield of Maine.
             </p>
 

@@ -18,10 +18,11 @@ export default function VersatileChihuahuaPage() {
         <article className="py-10">
           <div className="space-y-6 text-base leading-relaxed text-warm-700">
             <p>
-              Cheeky, extrovert, and full of life, the Chihuahua may be the smallest breed in
+              Cheeky, extroverted, and full of life, the Chihuahua may be the smallest breed in
               the world, but it has the biggest personality! Many people make the mistake of
-              thinking that toy dogs cannot be trained, but how false this idea is. Agility,
-              Competitive Obedience, Fly Ball, Therapy Dog, Service Dog, Show Dog.
+              thinking that toy dogs cannot be trained, but this is completely false. Chihuahuas
+              can excel in agility, competitive obedience, flyball, therapy work, service work,
+              and the show ring.
             </p>
 
             <h2 className="!mt-12 text-2xl font-bold text-warm-900">Therapy Chihuahuas</h2>
@@ -53,7 +54,7 @@ export default function VersatileChihuahuaPage() {
               to make physical contact with it and to enjoy that contact. Children in particular
               enjoy hugging animals; adults usually enjoy simply petting the dog. Many dogs
               contribute to the visiting experience by performing small tricks for their
-              audiences or by playing carefully structured games.
+              audiences or by participating in carefully structured games.
             </p>
 
             <p>
@@ -62,13 +63,13 @@ export default function VersatileChihuahuaPage() {
               Citizen test, and then add further requirements specific to the environments in
               which the dogs will be working. Typical tests might ensure that a dog can handle
               sudden loud or strange noises, can walk on assorted unfamiliar surfaces
-              comfortably, are not frightened by people with canes, wheelchairs, or unusual
-              styles of walking or moving, get along well with children and with the elderly, and
+              comfortably, is not frightened by people with canes, wheelchairs, or unusual
+              styles of walking or moving, and gets along well with children and the elderly, and
               so on.
             </p>
 
             <p>
-              Pet Therapy is a more inclusive terminology regarding the benefits from having a
+              Pet therapy is a more inclusive terminology regarding the benefits from having a
               &ldquo;therapy dog&rdquo;, or other &ldquo;therapy animals&rdquo; such as cats and
               rabbits.
             </p>
@@ -90,7 +91,7 @@ export default function VersatileChihuahuaPage() {
               faces of 185 families who ride the van to medical and social service appointments,
               according to Monica Zulauf. Zulauf, director of family services for the resource
               center on Atkinson Street, knows many of those who ride the van have a tough life.
-              Because of that, the atmosphere in the 15-passenger vehicle can be not so cheerful.
+              Because of that, the atmosphere in the 15-passenger vehicle can be less than cheerful.
             </p>
 
             <p>
@@ -108,7 +109,7 @@ export default function VersatileChihuahuaPage() {
               She said she didn&apos;t know what to make of it when she first saw Bonney driving
               with Thomas, Trance and Harmond. But they turned out to be &ldquo;happy
               accidents,&rdquo; which now serve as &ldquo;charming additions&rdquo; to the family
-              resource center&apos;s program, she said. HUB Family Resource Center provides
+              resource center&apos;s program. HUB Family Resource Center provides
               family education and transportation services to about 800 area families. It
               operates the van service using money provided under the state Health Care Community
               Grant.
@@ -116,7 +117,7 @@ export default function VersatileChihuahuaPage() {
 
             <div className="!mt-12 clear-both" />
 
-            <h2 className="text-2xl font-bold text-warm-900">Fly Ball</h2>
+            <h2 className="text-2xl font-bold text-warm-900">Flyball</h2>
             <div className="h-1 w-12 rounded-full bg-amber-400" />
             <div className="mt-6 flex flex-col items-start gap-6 sm:flex-row">
               <Image

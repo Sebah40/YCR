@@ -4,6 +4,7 @@ import { ArrowRight } from "lucide-react";
 import FallingLeaves from "@/components/FallingLeaves";
 import SeasonalImages from "@/components/SeasonalImages";
 import HeroLogo from "@/components/HeroLogo";
+import ObfuscatedEmail from "@/components/ObfuscatedEmail";
 
 export default function Home() {
   return (
@@ -11,7 +12,9 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative overflow-hidden bg-gradient-to-br from-amber-50 via-cream to-coral-50 py-8 sm:py-12 lg:py-16">
         <FallingLeaves />
-        <HeroLogo />
+        <div className="flex justify-center pt-2 pb-4">
+          <HeroLogo />
+        </div>
         <div className="mx-auto max-w-7xl px-6">
           <div className="grid items-center gap-8 lg:grid-cols-2 lg:gap-12">
             <div className="text-center lg:text-left">
@@ -132,9 +135,12 @@ export default function Home() {
             </p>
             <p className="mt-2 text-sm text-warm-500">
               Email details to{" "}
-              <a href="mailto:info@yankeechihuahuarescue.org" className="text-amber-600 underline">
-                info@yankeechihuahuarescue.org
-              </a>
+              <ObfuscatedEmail
+                enc="aW5mb0B5YW5rZWVjaGlodWFodWFyZXNjdWUub3Jn"
+                subject="Donation Items Detail"
+                display="auto"
+                className="text-amber-600 underline"
+              />
             </p>
           </div>
 

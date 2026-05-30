@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
 import HeroLogo from "@/components/HeroLogo";
+import ObfuscatedEmail from "@/components/ObfuscatedEmail";
 
 export const metadata = { title: "About YCRAA" };
 
@@ -113,12 +114,12 @@ export default function AboutPage() {
           </div>
           <p className="mt-6 text-warm-700">
             If interested in any of the above, please send an email to{" "}
-            <a
-              href="mailto:volunteer@yankeechihuahuarescue.org"
+            <ObfuscatedEmail
+              enc="Vm9sdW50ZWVyQHlhbmtlZWNoaWh1YWh1YXJlc2N1ZS5vcmc="
+              subject="Volunteering"
+              display="auto"
               className="font-semibold text-coral-600 underline"
-            >
-              Volunteer@yankeechihuahuarescue.org
-            </a>
+            />
           </p>
           <div className="mt-6 flex flex-wrap gap-4">
             <Link

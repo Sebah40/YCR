@@ -2,6 +2,7 @@ import Link from "next/link";
 import { AlertTriangle, Check } from "lucide-react";
 import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
 import HeroLogo from "@/components/HeroLogo";
+import ObfuscatedEmail from "@/components/ObfuscatedEmail";
 
 export const metadata = { title: "Surrender" };
 
@@ -206,12 +207,12 @@ export default function SurrenderPage() {
             <p>
               We&apos;d be happy to talk with you about your options. For more information or
               to surrender a dog, contact:{" "}
-              <a
-                href="mailto:info@yankeechihuahuarescue.org"
+              <ObfuscatedEmail
+                enc="aW5mb0BZYW5rZWVDaGlodWFodWFSZXNjdWUub3Jn"
+                subject="I need more information about Surrendering a dog"
+                display="auto"
                 className="font-semibold text-coral-600 underline"
-              >
-                info@YankeeChihuahuaRescue.org
-              </a>
+              />
             </p>
           </div>
         </div>

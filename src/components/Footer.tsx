@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import ObfuscatedEmail from "@/components/ObfuscatedEmail";
 
 export default function Footer() {
   return (
@@ -99,14 +100,18 @@ export default function Footer() {
             </h3>
             <ul className="space-y-2.5 text-sm text-warm-300">
               <li>
-                <a href="mailto:info@yankeechihuahuarescue.org" className="transition-colors hover:text-amber-400">
-                  info@yankeechihuahuarescue.org
-                </a>
+                <ObfuscatedEmail
+                  enc="aW5mb0B5YW5rZWVjaGlodWFodWFyZXNjdWUub3Jn"
+                  display="auto"
+                  className="transition-colors hover:text-amber-400"
+                />
               </li>
               <li>
-                <a href="mailto:volunteer@yankeechihuahuarescue.org" className="transition-colors hover:text-amber-400">
-                  volunteer@yankeechihuahuarescue.org
-                </a>
+                <ObfuscatedEmail
+                  enc="dm9sdW50ZWVyQHlhbmtlZWNoaWh1YWh1YXJlc2N1ZS5vcmc="
+                  display="auto"
+                  className="transition-colors hover:text-amber-400"
+                />
               </li>
               <li className="pt-2 text-warm-400">
                 Serving CT, MA, ME, NH, RI & VT

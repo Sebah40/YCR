@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Check, Heart } from "lucide-react";
 import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
 import HeroLogo from "@/components/HeroLogo";
+import ObfuscatedEmail from "@/components/ObfuscatedEmail";
 
 export const metadata = { title: "Adoption" };
 
@@ -60,12 +61,12 @@ const unneuteredBehaviors = [
 ];
 
 const states = [
-  "Connecticut",
-  "Maine",
-  "Massachusetts",
-  "New Hampshire",
-  "Rhode Island",
-  "Vermont",
+  { name: "Connecticut", code: "CT" },
+  { name: "Maine", code: "ME" },
+  { name: "Massachusetts", code: "MA" },
+  { name: "New Hampshire", code: "NH" },
+  { name: "Rhode Island", code: "RI" },
+  { name: "Vermont", code: "VT" },
 ];
 
 export default function AdoptionPage() {
@@ -394,13 +395,13 @@ export default function AdoptionPage() {
           </p>
           <div className="mt-6 flex flex-wrap gap-2.5">
             {states.map((state) => (
-              <a
-                key={state}
-                href="mailto:info@yankeechihuahuarescue.org"
+              <ObfuscatedEmail
+                key={state.code}
+                enc="aW5mb0B5YW5rZWVjaGlodWFodWFyZXNjdWUub3Jn"
+                subject={`To YCRAA State Rep ${state.code} (${state.name})`}
+                display={state.name}
                 className="rounded-full border border-amber-200 bg-white px-5 py-2 text-sm font-medium text-amber-700 shadow-sm transition-all hover:-translate-y-0.5 hover:shadow-md"
-              >
-                {state}
-              </a>
+              />
             ))}
           </div>
         </div>
@@ -417,21 +418,23 @@ export default function AdoptionPage() {
               Through the past years some of the information about past YCRAA adoptions has
               been lost. If you have any information about any of Yankee Chihuahua Rescue past
               adoptions or current pictures you&apos;d like displayed, please drop an email to:{" "}
-              <a
-                href="mailto:YankeeChiRescue@gmail.com?subject=New information about YCR past adoption"
+              <ObfuscatedEmail
+                enc="WWFua2VlQ2hpUmVzY3VlQGdtYWlsLmNvbQ=="
+                subject="New information about YCR past adoption"
+                display="auto"
                 className="font-semibold text-coral-600 underline"
-              >
-                YankeeChiRescue@gmail.com
-              </a>
+              />
             </p>
             <p>Thanks so much!</p>
           </div>
           <p className="mt-5 text-sm text-warm-500">
             If you experience problems with the online form please request an Adoption
             Application by email to:{" "}
-            <a href="mailto:YankeeChiRescue@gmail.com" className="text-amber-600 underline">
-              YankeeChiRescue@gmail.com
-            </a>
+            <ObfuscatedEmail
+              enc="WWFua2VlQ2hpUmVzY3VlQGdtYWlsLmNvbQ=="
+              display="auto"
+              className="text-amber-600 underline"
+            />
           </p>
         </div>
       </section>

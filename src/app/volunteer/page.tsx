@@ -1,6 +1,7 @@
 import { Check } from "lucide-react";
 import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
 import HeroLogo from "@/components/HeroLogo";
+import ObfuscatedEmail from "@/components/ObfuscatedEmail";
 
 export const metadata = { title: "Volunteer" };
 
@@ -83,12 +84,12 @@ export default function VolunteerPage() {
           </p>
           <p className="mt-5 text-warm-200">
             For more information email us:{" "}
-            <a
-              href="mailto:volunteer@yankeechihuahuarescue.org"
+            <ObfuscatedEmail
+              enc="dm9sdW50ZWVyQHlhbmtlZWNoaWh1YWh1YXJlc2N1ZS5vcmc="
+              subject="I'd like more information about Volunteering"
+              display="auto"
               className="font-semibold text-amber-400 underline"
-            >
-              volunteer@yankeechihuahuarescue.org
-            </a>
+            />
           </p>
           <div className="mt-7 flex flex-col items-center justify-center gap-3 sm:flex-row">
             <a

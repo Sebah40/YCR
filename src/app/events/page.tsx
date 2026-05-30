@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
+import HeroLogo from "@/components/HeroLogo";
 
 export const metadata = { title: "Current Events" };
 
@@ -9,6 +10,7 @@ export default function EventsPage() {
     <div className="bg-cream">
       {/* Header */}
       <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-8 pt-14 sm:pb-10 sm:pt-16">
+        <HeroLogo />
         <div className="relative mx-auto max-w-4xl px-6 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
             Current Events

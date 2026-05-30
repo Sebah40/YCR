@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { AlertTriangle, Check } from "lucide-react";
 import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
+import HeroLogo from "@/components/HeroLogo";
 
 export const metadata = { title: "Surrender" };
 
@@ -27,6 +28,7 @@ export default function SurrenderPage() {
     <div className="bg-cream">
       {/* Header */}
       <section className="relative overflow-hidden bg-gradient-to-b from-warm-100 to-cream pb-8 pt-14 sm:pb-10 sm:pt-16">
+        <HeroLogo />
         <div className="relative mx-auto max-w-4xl px-6 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
             Surrendering your Chihuahua

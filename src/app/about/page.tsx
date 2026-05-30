@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
+import HeroLogo from "@/components/HeroLogo";
 
 export const metadata = { title: "About YCRAA" };
 
@@ -44,6 +45,7 @@ export default function AboutPage() {
     <div>
       {/* Header */}
       <section className="relative overflow-hidden bg-gradient-to-br from-amber-50 via-cream to-coral-50 py-14 sm:py-16">
+        <HeroLogo />
         <div className="mx-auto max-w-4xl px-6 text-center">
           <h1 className="text-4xl font-extrabold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
             About Yankee Chihuahua Rescue and Adoption

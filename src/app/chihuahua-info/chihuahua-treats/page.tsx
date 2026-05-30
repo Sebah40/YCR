@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Check } from "lucide-react";
+import HeroLogo from "@/components/HeroLogo";
 
 export const metadata = { title: "Chihuahua Treats" };
 
@@ -83,6 +84,7 @@ export default function ChihuahuaTreatsPage() {
   return (
     <div className="bg-cream">
       <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-14 pt-16 text-center">
+        <HeroLogo />
         <div className="mx-auto max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
             Chihuahua Treats

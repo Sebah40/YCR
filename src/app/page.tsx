@@ -3,6 +3,7 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import FallingLeaves from "@/components/FallingLeaves";
 import SeasonalImages from "@/components/SeasonalImages";
+import HeroLogo from "@/components/HeroLogo";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative overflow-hidden bg-gradient-to-br from-amber-50 via-cream to-coral-50 py-8 sm:py-12 lg:py-16">
         <FallingLeaves />
+        <HeroLogo />
         <div className="mx-auto max-w-7xl px-6">
           <div className="grid items-center gap-8 lg:grid-cols-2 lg:gap-12">
             <div className="text-center lg:text-left">

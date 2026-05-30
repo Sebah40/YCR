@@ -2,6 +2,7 @@
 
 import { useState, type FormEvent } from "react";
 import Link from "next/link";
+import HeroLogo from "@/components/HeroLogo";
 
 const states = ["ME", "NH", "VT", "MA", "CT", "RI"] as const;
 
@@ -46,6 +47,7 @@ export default function VolunteerApplyPage() {
     return (
       <div className="bg-cream">
         <section className="bg-gradient-to-b from-amber-50 to-cream px-6 pb-6 pt-12 text-center">
+          <HeroLogo />
           <div className="mx-auto max-w-3xl">
             <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
               Thank You!
@@ -70,6 +72,7 @@ export default function VolunteerApplyPage() {
   return (
     <div className="bg-cream">
       <section className="bg-gradient-to-b from-amber-50 to-cream px-6 pb-6 pt-12 text-center">
+        <HeroLogo />
         <div className="mx-auto max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
             Volunteer Application

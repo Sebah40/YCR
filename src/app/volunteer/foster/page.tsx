@@ -2,6 +2,7 @@
 
 import { useState, type FormEvent } from "react";
 import Link from "next/link";
+import HeroLogo from "@/components/HeroLogo";
 
 const stateOptions = ["ME", "NH", "VT", "MA", "CT", "RI"] as const;
 
@@ -80,6 +81,7 @@ export default function FosterApplyPage() {
     return (
       <div className="bg-cream">
         <section className="bg-gradient-to-b from-amber-50 to-cream px-6 pb-6 pt-12 text-center">
+          <HeroLogo />
           <div className="mx-auto max-w-3xl">
             <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">Thank You!</h1>
           </div>
@@ -95,6 +97,7 @@ export default function FosterApplyPage() {
   return (
     <div className="bg-cream">
       <section className="bg-gradient-to-b from-amber-50 to-cream px-6 pb-6 pt-12 text-center">
+        <HeroLogo />
         <div className="mx-auto max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">Foster Home Application</h1>
           <p className="mx-auto mt-3 max-w-2xl text-base text-warm-600">Yankee Chihuahua Rescue and Adoption, Inc (YCRAA)</p>

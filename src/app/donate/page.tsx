@@ -1,4 +1,5 @@
 import Image from "next/image";
+import HeroLogo from "@/components/HeroLogo";
 
 export const metadata = { title: "Support YCR via iGive" };
 
@@ -7,6 +8,7 @@ export default function DonatePage() {
     <div className="bg-cream">
       {/* Header */}
       <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-8 pt-14 sm:pb-10 sm:pt-16">
+        <HeroLogo />
         <div className="relative mx-auto max-w-4xl px-6 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
             Shop to Support YCR

@@ -1,5 +1,6 @@
 import { Check } from "lucide-react";
 import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
+import HeroLogo from "@/components/HeroLogo";
 
 export const metadata = { title: "Volunteer" };
 
@@ -40,6 +41,7 @@ export default function VolunteerPage() {
     <div>
       {/* Header */}
       <section className="relative overflow-hidden bg-gradient-to-br from-amber-50 via-cream to-coral-50 py-8 sm:py-10">
+        <HeroLogo />
         <div className="relative mx-auto max-w-7xl px-6 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
             Volunteer for Chihuahua Rescue

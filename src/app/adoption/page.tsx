@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Check, Heart } from "lucide-react";
 import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
+import HeroLogo from "@/components/HeroLogo";
 
 export const metadata = { title: "Adoption" };
 
@@ -73,6 +74,7 @@ export default function AdoptionPage() {
       {/* Header */}
       {/* Header */}
       <section className="relative bg-gradient-to-b from-amber-50 to-cream py-8 sm:py-10">
+        <HeroLogo />
         <div className="relative mx-auto max-w-4xl px-6 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
             Adopting a Yankee Chihuahua

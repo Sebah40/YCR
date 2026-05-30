@@ -1,4 +1,5 @@
 import Link from "next/link";
+import HeroLogo from "@/components/HeroLogo";
 
 export const metadata = { title: "Are You a Responsible Pet Parent?" };
 
@@ -99,6 +100,7 @@ export default function ResponsiblePetParentPage() {
   return (
     <div className="bg-cream">
       <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-8 pt-14 text-center">
+        <HeroLogo />
         <div className="mx-auto max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
             Are You a Responsible Pet Parent?

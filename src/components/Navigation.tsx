@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useState } from "react";
-import { Menu, X, BookOpen } from "lucide-react";
+import { Menu, X, BookOpen, Heart } from "lucide-react";
 
 const navLinks = [
   { href: "/about", label: "About" },
@@ -12,8 +12,9 @@ const navLinks = [
   { href: "/surrender", label: "Surrender" },
   { href: "/happy-endings", label: "Happy Endings" },
   { href: "/events", label: "Events" },
-  { href: "/donate", label: "Donate" },
 ];
+
+const GOFUNDME_URL = "https://gofund.me/a6cb95fec";
 
 export default function Navigation() {
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -61,6 +62,17 @@ export default function Navigation() {
             >
               Adopt Today
             </Link>
+          </li>
+          <li className="ml-2">
+            <a
+              href={GOFUNDME_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 rounded-full bg-gradient-to-r from-emerald-500 to-emerald-600 px-5 py-2 text-[13px] font-semibold text-white shadow-md ring-1 ring-emerald-400/50 transition-all hover:from-emerald-600 hover:to-emerald-700 hover:shadow-lg"
+            >
+              <Heart className="h-3.5 w-3.5 fill-current" strokeWidth={2} />
+              GoFundMe
+            </a>
           </li>
         </ul>
 
@@ -113,6 +125,18 @@ export default function Navigation() {
               >
                 Adopt Today
               </Link>
+            </li>
+            <li className="mt-2">
+              <a
+                href={GOFUNDME_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={() => setMobileOpen(false)}
+                className="flex items-center justify-center gap-2 rounded-full bg-gradient-to-r from-emerald-500 to-emerald-600 px-5 py-2.5 text-sm font-semibold text-white shadow-md ring-1 ring-emerald-400/50"
+              >
+                <Heart className="h-4 w-4 fill-current" strokeWidth={2} />
+                GoFundMe
+              </a>
             </li>
           </ul>
         </div>

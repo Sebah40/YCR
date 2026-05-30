@@ -45,15 +45,14 @@ export default function Navigation() {
             </li>
           ))}
           <li className="ml-3">
-            <a
-              href="https://www.yankeechihuahuarescue.org/guest/index.php"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex whitespace-nowrap items-center gap-1.5 rounded-full border border-warm-200 px-3.5 py-1.5 text-[13px] font-medium text-warm-600 transition-colors hover:border-warm-300 hover:text-warm-800"
+            <span
+              aria-disabled="true"
+              title="Coming soon"
+              className="inline-flex cursor-not-allowed whitespace-nowrap items-center gap-1.5 rounded-full border border-warm-200/60 px-3.5 py-1.5 text-[13px] font-medium text-warm-400"
             >
               <BookOpen className="h-3.5 w-3.5" strokeWidth={2} />
               Guest Book
-            </a>
+            </span>
           </li>
           <li className="ml-2">
             <Link
@@ -106,16 +105,14 @@ export default function Navigation() {
               </li>
             ))}
             <li className="mt-3">
-              <a
-                href="https://www.yankeechihuahuarescue.org/guest/index.php"
-                target="_blank"
-                rel="noopener noreferrer"
-                onClick={() => setMobileOpen(false)}
-                className="flex items-center justify-center gap-2 rounded-full border border-warm-200 px-5 py-2.5 text-sm font-medium text-warm-600 transition-colors hover:border-warm-300"
+              <span
+                aria-disabled="true"
+                title="Coming soon"
+                className="flex cursor-not-allowed items-center justify-center gap-2 rounded-full border border-warm-200/60 px-5 py-2.5 text-sm font-medium text-warm-400"
               >
                 <BookOpen className="h-4 w-4" strokeWidth={2} />
                 Guest Book
-              </a>
+              </span>
             </li>
             <li className="mt-2">
               <Link

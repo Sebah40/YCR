@@ -8,18 +8,9 @@ export default function Footer() {
         <div className="grid gap-12 md:grid-cols-2 lg:grid-cols-4">
           {/* Brand */}
           <div className="lg:col-span-1">
-            <div className="flex items-center gap-3 mb-4">
-              <Image
-                src="/images/Yankee-Chi-Logo-transparent.png"
-                alt="Yankee Chihuahua Rescue logo"
-                width={44}
-                height={44}
-                className="h-11 w-11"
-              />
-              <div>
-                <span className="text-lg font-bold text-white">Yankee Chihuahua</span>
-                <span className="block text-xs text-warm-300 -mt-1">Rescue & Adoption</span>
-              </div>
+            <div className="mb-4">
+              <span className="block text-lg font-bold text-white">Yankee Chihuahua</span>
+              <span className="block text-xs text-warm-300 -mt-1">Rescue &amp; Adoption</span>
             </div>
             <p className="text-sm text-warm-300 leading-relaxed">
               A 501(c)(3) nonprofit charity serving the six New England states since 2000.

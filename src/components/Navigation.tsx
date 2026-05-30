@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 import { Menu, X, BookOpen } from "lucide-react";
@@ -22,23 +21,14 @@ export default function Navigation() {
   return (
     <header className="sticky top-0 z-50 bg-white/90 backdrop-blur-md shadow-sm">
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-3">
-        {/* Logo / Brand */}
-        <Link href="/" className="flex items-center gap-3">
-          <Image
-            src="/images/Yankee-Chi-Logo-transparent.png"
-            alt="Yankee Chihuahua Rescue logo"
-            width={56}
-            height={56}
-            className="h-14 w-14"
-          />
-          <div className="hidden sm:block">
-            <span className="text-base font-semibold text-warm-800">
-              Yankee Chihuahua
-            </span>
-            <span className="-mt-0.5 block text-[11px] font-medium tracking-wide text-warm-400">
-              Rescue & Adoption
-            </span>
-          </div>
+        {/* Brand */}
+        <Link href="/" className="flex flex-col leading-tight">
+          <span className="text-lg font-bold tracking-tight text-warm-800 sm:text-xl">
+            Yankee Chihuahua
+          </span>
+          <span className="-mt-0.5 text-[11px] font-medium uppercase tracking-wider text-warm-400">
+            Rescue &amp; Adoption
+          </span>
         </Link>
 
         {/* Desktop nav */}

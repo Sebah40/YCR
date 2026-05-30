@@ -2,6 +2,7 @@ export type ThemeId =
   | "st-patricks"
   | "easter"
   | "spring"
+  | "graduation"
   | "summer"
   | "4th-of-july"
   | "halloween"
@@ -174,6 +175,47 @@ const themes: Record<ThemeId, ThemeConfig> = {
     },
     seasonalImages: [],
     decorativeImages: defaultDecorativeImages,
+  },
+  graduation: {
+    id: "graduation",
+    name: "Graduation",
+    icon: "GraduationCap",
+    preview: "#1d4ed8",
+    colors: {
+      warm: {
+        "50": "#f7f9fc", "100": "#eaf0f8", "200": "#cfdcec", "300": "#9bb4d3",
+        "400": "#6889b5", "500": "#446a99", "600": "#2f5380", "700": "#234066",
+        "800": "#192f4d", "900": "#101f33",
+      },
+      coral: {
+        "50": "#eef4ff", "100": "#dbe7ff", "200": "#b8ceff", "300": "#88adff",
+        "400": "#5e8bff", "500": "#3a6aef", "600": "#2a55d6", "700": "#1d4ed8",
+        "800": "#1e3fa8", "900": "#1c3686",
+      },
+      amber: {
+        "50": "#fffbeb", "100": "#fef3c7", "200": "#fde68a", "300": "#fcd34d",
+        "400": "#fbbf24", "500": "#f59e0b", "600": "#d97706", "700": "#b45309",
+        "800": "#92400e", "900": "#78350f",
+      },
+      cream: "#f7f9fc",
+      creamDark: "#eaf0f8",
+    },
+    seasonalImages: [
+      { src: "/images/scraped/images/holidays/graduation/gradchicoolglasses.png", alt: "Graduation Chihuahua with cool glasses", width: 160, height: 160 },
+      { src: "/images/scraped/images/holidays/graduation/gradchimascoticon.png", alt: "Graduation Chihuahua mascot", width: 160, height: 160 },
+      { src: "/images/scraped/images/holidays/graduation/gradchisticker2.png", alt: "Graduation Chihuahua sticker", width: 160, height: 160 },
+    ],
+    decorativeImages: {
+      "about-float": { src: "/images/scraped/images/holidays/graduation/gradstandingchi.png", alt: "Graduation Chihuahua standing proud" },
+      "about-quote": { src: "/images/scraped/images/holidays/graduation/gradsurprisechi.jpg", alt: "Surprised graduation Chihuahua" },
+      "volunteer-aside": { src: "/images/scraped/images/holidays/graduation/gradhappychi.jpg", alt: "Happy graduation Chihuahua" },
+      "events-hero": { src: "/images/scraped/images/holidays/graduation/gradbanner.png", alt: "Graduation season banner" },
+      "adoption-aside": { src: "/images/scraped/images/holidays/graduation/gradbooksmartchi.jpg", alt: "Book-smart graduation Chihuahua" },
+      "chiinfo-breed": { src: "/images/scraped/images/holidays/graduation/gradchiprofessor.jpg", alt: "Chihuahua professor" },
+      "chiinfo-articles": { src: "/images/scraped/images/holidays/graduation/gradchipainting.jpg", alt: "Graduation Chihuahua painting" },
+      "surrender-top": { src: "/images/scraped/images/holidays/graduation/gradproudchi.jpg", alt: "Proud graduation Chihuahua" },
+      "surrender-mid": { src: "/images/scraped/images/holidays/graduation/gradchiworkready.jpg", alt: "Work-ready graduation Chihuahua" },
+    },
   },
   summer: {
     id: "summer",

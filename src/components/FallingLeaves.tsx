@@ -11,6 +11,7 @@ import {
   Snowflake,
   Sparkles,
   Heart,
+  GraduationCap,
 } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import type { ThemeId } from "@/lib/themes";
@@ -26,12 +27,14 @@ const iconMap: Record<string, LucideIcon> = {
   Snowflake,
   Sparkles,
   Heart,
+  GraduationCap,
 };
 
 const themeIconName: Record<ThemeId, string> = {
   "st-patricks": "Clover",
   easter: "Flower2",
   spring: "Flower2",
+  graduation: "GraduationCap",
   summer: "Sun",
   "4th-of-july": "Star",
   halloween: "Moon",

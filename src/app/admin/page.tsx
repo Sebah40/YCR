@@ -9,6 +9,7 @@ const THEME_ICONS: Record<string, string> = {
   Clover: "\u2618",
   Egg: "\ud83e\udd5a",
   Flower2: "\ud83c\udf38",
+  GraduationCap: "\ud83c\udf93",
   Sun: "\u2600\ufe0f",
   Star: "\u2b50",
   Moon: "\ud83c\udf19",

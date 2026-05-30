@@ -8,10 +8,10 @@ export default function Home() {
   return (
     <>
       {/* Hero Section */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-amber-50 via-cream to-coral-50 py-16 sm:py-24 lg:py-32">
+      <section className="relative overflow-hidden bg-gradient-to-br from-amber-50 via-cream to-coral-50 py-8 sm:py-12 lg:py-16">
         <FallingLeaves />
         <div className="mx-auto max-w-7xl px-6">
-          <div className="grid items-center gap-10 lg:grid-cols-2 lg:gap-16">
+          <div className="grid items-center gap-8 lg:grid-cols-2 lg:gap-12">
             <div className="text-center lg:text-left">
               <Image
                 src="/images/Yankee-Chi-Logo-transparent.png"
@@ -19,7 +19,7 @@ export default function Home() {
                 width={212}
                 height={171}
                 priority
-                className="mx-auto mb-6 h-auto w-48 sm:w-56 lg:mx-0"
+                className="mx-auto mb-4 h-auto w-44 sm:w-52 lg:mx-0"
               />
               <h1 className="text-4xl font-extrabold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
                 Welcome to{" "}

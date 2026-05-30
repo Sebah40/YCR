@@ -10,11 +10,13 @@ export default function EventsPage() {
     <div className="bg-cream">
       {/* Header */}
       <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-8 pt-14 sm:pb-10 sm:pt-16">
-        <HeroLogo />
-        <div className="relative mx-auto max-w-4xl px-6 text-center">
-          <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
-            Current Events
-          </h1>
+        <div className="mx-auto flex max-w-4xl flex-col items-center justify-center gap-5 px-6 sm:flex-row sm:items-center sm:gap-8">
+          <HeroLogo />
+          <div className="text-center sm:text-left">
+            <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
+              Current Events
+            </h1>
+          </div>
         </div>
       </section>
 

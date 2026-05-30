@@ -95,10 +95,12 @@ export default function IntakeFormPage() {
   if (submitted) {
     return (
       <div className="bg-cream">
-        <section className="bg-gradient-to-b from-warm-100 to-cream px-6 pb-6 pt-12 text-center">
-          <HeroLogo />
-          <div className="mx-auto max-w-3xl">
-            <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">Thank You!</h1>
+        <section className="relative bg-gradient-to-b from-warm-100 to-cream px-6 pb-6 pt-12 text-center">
+          <div className="mx-auto flex max-w-4xl flex-col items-center justify-center gap-5 sm:flex-row sm:items-center sm:gap-8">
+            <HeroLogo />
+            <div className="text-center sm:text-left">
+              <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">Thank You!</h1>
+            </div>
           </div>
         </section>
         <div className="mx-auto max-w-2xl px-6 py-16 text-center">
@@ -111,11 +113,13 @@ export default function IntakeFormPage() {
 
   return (
     <div className="bg-cream">
-      <section className="bg-gradient-to-b from-warm-100 to-cream px-6 pb-6 pt-12 text-center">
-        <HeroLogo />
-        <div className="mx-auto max-w-3xl">
-          <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">Foster Dog Intake Form</h1>
-          <p className="mx-auto mt-3 max-w-2xl text-base text-warm-600">Yankee Chihuahua Rescue and Adoption, Inc (YCRAA)</p>
+      <section className="relative bg-gradient-to-b from-warm-100 to-cream px-6 pb-6 pt-12 text-center">
+        <div className="mx-auto flex max-w-4xl flex-col items-center justify-center gap-5 sm:flex-row sm:items-center sm:gap-8">
+          <HeroLogo />
+          <div className="text-center sm:text-left">
+            <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">Foster Dog Intake Form</h1>
+            <p className="mt-3 max-w-2xl text-base text-warm-600">Yankee Chihuahua Rescue and Adoption, Inc (YCRAA)</p>
+          </div>
         </div>
       </section>
 

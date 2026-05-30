@@ -30,12 +30,14 @@ const imagePositions: Record<number, { src: string; alt: string }> = {
 export default function BillOfRightsPage() {
   return (
     <div className="bg-cream">
-      <section className="bg-gradient-to-b from-amber-100 to-cream px-6 pb-8 pt-14 text-center">
-        <HeroLogo />
-        <div className="mx-auto max-w-3xl">
-          <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
-            Chihuahua Bill of Rights
-          </h1>
+      <section className="relative bg-gradient-to-b from-amber-100 to-cream px-6 pb-8 pt-14">
+        <div className="mx-auto flex max-w-4xl flex-col items-center justify-center gap-5 sm:flex-row sm:items-center sm:gap-8">
+          <HeroLogo />
+          <div className="text-center sm:text-left">
+            <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl">
+              Chihuahua Bill of Rights
+            </h1>
+          </div>
         </div>
       </section>
 

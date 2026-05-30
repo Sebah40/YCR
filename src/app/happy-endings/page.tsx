@@ -231,20 +231,22 @@ export default function HappyEndingsPage() {
   return (
     <div className="bg-cream">
       {/* Header */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-8 pt-14 text-center">
-        <HeroLogo />
-        <div className="relative mx-auto max-w-4xl px-6">
-          <div className="mb-5 inline-flex items-center gap-2 rounded-full bg-coral-100 px-4 py-1.5 text-[13px] font-medium text-coral-700">
-            <Heart className="h-3.5 w-3.5" strokeWidth={2} fill="currentColor" />
-            Celebrating Forever Homes
+      <section className="relative overflow-hidden bg-gradient-to-b from-amber-50 to-cream pb-8 pt-14">
+        <div className="mx-auto flex max-w-4xl flex-col items-center justify-center gap-5 px-6 sm:flex-row sm:items-center sm:gap-8">
+          <HeroLogo />
+          <div className="text-center sm:text-left">
+            <div className="mb-5 inline-flex items-center gap-2 rounded-full bg-coral-100 px-4 py-1.5 text-[13px] font-medium text-coral-700">
+              <Heart className="h-3.5 w-3.5" strokeWidth={2} fill="currentColor" />
+              Celebrating Forever Homes
+            </div>
+            <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
+              Happy Endings
+            </h1>
+            <p className="mt-5 max-w-2xl text-base leading-relaxed text-warm-600 sm:text-lg">
+              Every rescue story deserves a happy ending. Here we celebrate the chihuahuas who
+              found their forever homes and the families who opened their hearts.
+            </p>
           </div>
-          <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
-            Happy Endings
-          </h1>
-          <p className="mx-auto mt-5 max-w-2xl text-base leading-relaxed text-warm-600 sm:text-lg">
-            Every rescue story deserves a happy ending. Here we celebrate the chihuahuas who
-            found their forever homes and the families who opened their hearts.
-          </p>
         </div>
       </section>
 

@@ -41,14 +41,16 @@ export default function VolunteerPage() {
     <div>
       {/* Header */}
       <section className="relative overflow-hidden bg-gradient-to-br from-amber-50 via-cream to-coral-50 py-8 sm:py-10">
-        <HeroLogo />
-        <div className="relative mx-auto max-w-7xl px-6 text-center">
-          <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
-            Volunteer for Chihuahua Rescue
-          </h1>
-          <p className="mx-auto mt-3 max-w-2xl text-base leading-relaxed text-warm-600 sm:text-lg">
-            Volunteer opportunities are available in a variety of areas
-          </p>
+        <div className="mx-auto flex max-w-7xl flex-col items-center justify-center gap-5 px-6 sm:flex-row sm:items-center sm:gap-8">
+          <HeroLogo />
+          <div className="text-center sm:text-left">
+            <h1 className="text-4xl font-bold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
+              Volunteer for Chihuahua Rescue
+            </h1>
+            <p className="mt-3 max-w-2xl text-base leading-relaxed text-warm-600 sm:text-lg">
+              Volunteer opportunities are available in a variety of areas
+            </p>
+          </div>
         </div>
       </section>
 

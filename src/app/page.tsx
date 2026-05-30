@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, Heart } from "lucide-react";
 import FallingLeaves from "@/components/FallingLeaves";
 import SeasonalImages from "@/components/SeasonalImages";
 import HeroLogo from "@/components/HeroLogo";
@@ -121,8 +121,9 @@ export default function Home() {
               href="https://gofund.me/a6cb95fec"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center rounded-full bg-amber-500 px-8 py-3.5 text-base font-semibold text-white shadow-sm transition-colors hover:bg-amber-600"
+              className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-emerald-500 to-emerald-600 px-8 py-3.5 text-base font-semibold text-white shadow-md ring-1 ring-emerald-400/50 transition-all hover:from-emerald-600 hover:to-emerald-700 hover:shadow-lg"
             >
+              <Heart className="h-4 w-4 fill-current" strokeWidth={2} />
               Donate via GoFundMe
             </a>
           </div>

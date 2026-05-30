@@ -1,0 +1,11 @@
+--- saved/chocolate.txt
++++ live/chocolate
+@@ -23,7 +23,7 @@
+  |
+ # Chocolate Poisoning
+ 
+-The National Animal Control Center reports chocolate is one of its most encountered toxins when it come to dogs. What makes chocolate a poison? The answer is in a chemical compound called theobromine in the chocolate.
++The National Animal Control Center reports chocolate is one of its most encountered toxins when it comes to dogs. What makes chocolate a poison? The answer is in a chemical compound called theobromine in the chocolate.
+ 
+ This chemical compound acts as a heart stimulant, which leads to irregular and racing heartbeats. If this issue is aggravated enough, your dog could suffer heart failure and die. Weight and metabolism rates allow humans to break this compound down quicker, thus making "death by chocolate" much more unlikely. The following is a breakdown of which kind and how much of various chocolates are toxic to dogs. Because white chocolate has little to no cocoa (where most theobromine comes from), it has little if any toxicity.
+ 

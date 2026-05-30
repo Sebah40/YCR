@@ -13,14 +13,6 @@ export default function Home() {
         <div className="mx-auto max-w-7xl px-6">
           <div className="grid items-center gap-8 lg:grid-cols-2 lg:gap-12">
             <div className="text-center lg:text-left">
-              <Image
-                src="/images/Yankee-Chi-Logo-transparent.png"
-                alt="Yankee Chihuahua Rescue logo"
-                width={212}
-                height={171}
-                priority
-                className="mx-auto mb-4 h-auto w-44 sm:w-52 lg:mx-0"
-              />
               <h1 className="text-4xl font-extrabold tracking-tight text-warm-900 sm:text-5xl lg:text-6xl">
                 Welcome to{" "}
                 <span className="text-coral-500">Yankee Chihuahua Rescue</span>{" "}

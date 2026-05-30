@@ -1,0 +1,31 @@
+--- saved/treats.txt
++++ live/treats
+@@ -27,15 +27,15 @@
+ 
+ - Grapes and Raisins:Grapes and raisins can cause kidney failure in dogs. As little as a single serving of raisins can kill a dog.
+ - Onions:Onions destroy red blood cells and can cause anemia.
+-- Chocolate:Chocolate can cause seizures, coma and death. Baker’s chocolate or dark chocolate are the most dangerous. A dog can consume milk chocolate and appear to be fine because it is not as concentrated, but it is still dangerous. (for more information onChocolate Poisoning.)
+-- Coffee, coffee grounds, tea and tea bags:Drinks/foods containing caffeine cause many of the same symptoms chocolate causes
+-- Macadamia nuts and walnuts: Macadamia nuts can cause weakness, muscle tremor and paralysis. Limit all other nuts, as they are not good for dogs in general. Their high phosphorous content is said to be a possible contributor to bladder stones. Peanut butter is not made from a nut. Peanuts are legumes and fine for dogs.. Always use salt- and sugar-free peanut butter (sugar encourages cancer growth). Use only ORGANIC peanut butter as regular peanut butter has potentially harmful chemicals and may contain pesticides.
++- Chocolate:Chocolate can cause seizures, coma and death. Baker’s chocolate or dark chocolate are the most dangerous. A dog can consume milk chocolate and appear to be fine because it is not as concentrated, but it is still dangerous. (SeeChocolate Poisoningfor more information.)
++- Coffee, coffee grounds, tea and tea bags:Drinks/foods containing caffeine cause many of the same symptoms chocolate causes.
++- Macadamia nuts and walnuts: Macadamia nuts can cause weakness, muscle tremor and paralysis. Limit all other nuts, as they are not good for dogs in general. Their high phosphorous content is said to be a possible contributor to bladder stones. Peanut butter is not made from a nut. Peanuts are legumes and fine for dogs. Always use salt- and sugar-free peanut butter (sugar encourages cancer growth). Use only ORGANIC peanut butter as regular peanut butter has potentially harmful chemicals and may contain pesticides.
+ - Animal fat and fried foods: Excessive fat can cause pancreatitis, so it's best to avoid fatty treats. Limit fat to what’s provided by your dog’s regular food.
+ - Bones:Cooked bones are brittle and can splinter and damage a dog’s internal organs. Raw bones offer a good natural way to clean teeth, but should always be given under supervision, since small chunks can cause problems, if swallowed whole. Try frozen oxtails or frozen knucklebones, and take the bone away before the dog can swallow a final small piece whole.
+ - Tomatoes:Tomatoes can cause tremors and heart arrhythmia. Tomato plants are the most toxic, but tomatoes themselves are also unsafe.
+ - Avocados:The fruit, pit and plant are all toxic. They can cause difficulty breathing and fluid accumulation in the chest, abdomen and heart.
+ - Nutmeg:Nutmeg can cause tremors, seizures and death.
+-- Fruit Seeds:The flesh of Apples, Cherries, Peaches and similar fruit is fine for your dog. HOWEVER, the seeds of these fruits contain cyanide, which is poisonous to dogs as well as humans. Unlike humans, dogs do not know to stop eating at the pit and can easily ingest them. It can also become lodged in the intestines and kill the dog in 24 hours with no warning.
++- Fruit Seeds:The flesh of Apples, Cherries, Peaches and similar fruit is fine for your dog. HOWEVER, the seeds of these fruits contain cyanide, which is poisonous to dogs as well as humans. Unlike humans, dogs do not know to stop eating at the pit and can easily ingest it. It can also become lodged in the intestines and kill the dog in 24 hours with no warning.
+ - Raw eggs:Raw eggs can cause salmonella poisoning in dogs. Dogs have a shorter digestive tract than humans and are less likely to suffer from food poisoning, but it is still possible. BEST to use ORGANIC EGGS if you do raw. Scrambled lightly is best!
+ - Salt:Excessive salt intake can cause kidney problems. Avoid salty treats.
+ - Mushrooms and toadstoolscan be deadly. Never let your pets chew on mushrooms found in your yard. Allow only safe, "food" mushrooms such as shiitake, and maitake.
+@@ -53,7 +53,7 @@
+ - Green Beans
+ - Peas (mine love them frozen!)
+ - Cheese (it's fine)
+-- Apple cut up (watch out- the core and the seeds are toxic!)
++- Apple, cut up (watch out — the core and the seeds are toxic!)
+ - Cheerios (they're great for training)
+ - Banana
+ - Cantaloupe |

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Navigation from "@/components/Navigation";
+import BrandBand from "@/components/BrandBand";
 import Footer from "@/components/Footer";
 import ThemeProvider from "@/components/ThemeProvider";
 import { getTheme } from "@/lib/theme-store";
@@ -34,6 +35,7 @@ export default async function RootLayout({
       <body className={`${inter.variable} font-sans antialiased`}>
         <ThemeProvider initialTheme={theme}>
           <Navigation />
+          <BrandBand />
           <main className="min-h-screen">{children}</main>
           <Footer />
         </ThemeProvider>

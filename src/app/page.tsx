@@ -12,7 +12,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative overflow-hidden bg-gradient-to-br from-amber-50 via-cream to-coral-50 pt-3 pb-8 sm:pt-4 sm:pb-12 lg:pt-6 lg:pb-16">
         <FallingLeaves />
-        <div className="flex items-center justify-center gap-4 pb-3 sm:gap-8">
+        <div className="flex items-center justify-center gap-6 pb-3 sm:gap-12 lg:gap-16">
           <Image
             src="/images/scraped/images/holidays/graduation/gradchicoolglasses.png"
             alt="Graduation Chihuahua with cool glasses"

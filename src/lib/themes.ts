@@ -200,11 +200,7 @@ const themes: Record<ThemeId, ThemeConfig> = {
       cream: "#f7f9fc",
       creamDark: "#eaf0f8",
     },
-    seasonalImages: [
-      { src: "/images/scraped/images/holidays/graduation/gradchicoolglasses.png", alt: "Graduation Chihuahua with cool glasses", width: 160, height: 160 },
-      { src: "/images/scraped/images/holidays/graduation/gradchimascoticon.png", alt: "Graduation Chihuahua mascot", width: 160, height: 160 },
-      { src: "/images/scraped/images/holidays/graduation/gradchistud.png", alt: "Graduation Chihuahua stud", width: 160, height: 240 },
-    ],
+    seasonalImages: [],
     decorativeImages: {
       "about-float": { src: "/images/scraped/images/holidays/graduation/gradstandingchi.png", alt: "Graduation Chihuahua standing proud" },
       "about-quote": { src: "/images/scraped/images/holidays/graduation/gradsurprisechi.jpg", alt: "Surprised graduation Chihuahua" },

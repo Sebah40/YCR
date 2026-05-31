@@ -12,8 +12,22 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative overflow-hidden bg-gradient-to-br from-amber-50 via-cream to-coral-50 py-8 sm:py-12 lg:py-16">
         <FallingLeaves />
-        <div className="flex justify-center pt-2 pb-4">
+        <div className="flex items-center justify-center gap-4 pt-2 pb-4 sm:gap-8">
+          <Image
+            src="/images/scraped/images/holidays/graduation/gradchicoolglasses.png"
+            alt="Graduation Chihuahua with cool glasses"
+            width={160}
+            height={160}
+            className="h-auto w-16 sm:w-24 md:w-28"
+          />
           <HeroLogo />
+          <Image
+            src="/images/scraped/images/holidays/graduation/gradchistud.png"
+            alt="Graduation Chihuahua stud"
+            width={160}
+            height={240}
+            className="h-auto w-16 sm:w-24 md:w-28"
+          />
         </div>
         <div className="mx-auto max-w-7xl px-6">
           <div className="grid items-center gap-8 lg:grid-cols-2 lg:gap-12">

@@ -61,16 +61,31 @@ function Entry({ entry, section, draft, setDraft, isBusy, onAct }: EntryProps) {
           onChange={(e) => setDraft(entry.id, e.target.value)}
           placeholder="Optional response shown on the public guest book"
         />
-        {draft !== entry.reply && (
-          <button
-            type="button"
-            disabled={isBusy}
-            onClick={() => onAct(entry.id, "reply", draft)}
-            className="mt-2 rounded-md bg-warm-700 px-3 py-1.5 text-xs font-semibold text-white hover:bg-warm-800 disabled:opacity-50"
-          >
-            Save reply
-          </button>
-        )}
+        <div className="mt-2 flex flex-wrap gap-2">
+          {draft !== entry.reply && (
+            <button
+              type="button"
+              disabled={isBusy}
+              onClick={() => onAct(entry.id, "reply", draft)}
+              className="rounded-md bg-warm-700 px-3 py-1.5 text-xs font-semibold text-white hover:bg-warm-800 disabled:opacity-50"
+            >
+              Save reply
+            </button>
+          )}
+          {entry.reply && (
+            <button
+              type="button"
+              disabled={isBusy}
+              onClick={() => {
+                setDraft(entry.id, "");
+                onAct(entry.id, "reply", "");
+              }}
+              className="rounded-md border border-coral-300 px-3 py-1.5 text-xs font-semibold text-coral-700 hover:bg-coral-50 disabled:opacity-50"
+            >
+              Delete reply
+            </button>
+          )}
+        </div>
       </div>
 
       <div className="mt-4 flex flex-wrap gap-2">

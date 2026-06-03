@@ -1,3 +1,5 @@
+import Image from "next/image";
+import Link from "next/link";
 import { Check } from "lucide-react";
 import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
 import HeroLogo from "@/components/HeroLogo";
@@ -104,6 +106,21 @@ export default function VolunteerPage() {
             >
               Foster Home Application
             </a>
+          </div>
+          <div className="mt-8 flex justify-center">
+            <Link
+              href="/volunteer/apply"
+              className="inline-block transition-transform hover:scale-105"
+              aria-label="Start your Volunteer Application"
+            >
+              <Image
+                src="/images/scraped/images/HeartVolunteer.png"
+                alt="Volunteer Information"
+                width={200}
+                height={210}
+                className="h-auto w-40 sm:w-48"
+              />
+            </Link>
           </div>
         </div>
       </section>

@@ -115,7 +115,7 @@ export default function AdoptionPage() {
             Adoption Process
           </h2>
           <div className="mx-auto mt-2 h-1 w-16 rounded-full bg-coral-400" />
-          <div className="mt-6 flex gap-6">
+          <div className="mt-6 flex flex-col-reverse gap-6 sm:flex-row sm:items-start">
             <div className="space-y-5 text-base leading-relaxed text-warm-700 sm:text-lg">
               <p>
                 The first step in adoption is to fill out an <Link href="/adoption/apply" className="font-semibold text-coral-600 underline">Adoption Application</Link>. This form
@@ -146,6 +146,21 @@ export default function AdoptionPage() {
               height={180}
               className="hidden h-auto w-32 shrink-0 self-start sm:block sm:w-40"
             />
+          </div>
+          <div className="mt-10 flex justify-center">
+            <Link
+              href="/adoption/apply"
+              className="inline-block transition-transform hover:scale-105"
+              aria-label="Start your Adoption Application"
+            >
+              <Image
+                src="/images/scraped/HeartAdopt.png"
+                alt="Adoption Application"
+                width={200}
+                height={210}
+                className="h-auto w-40 sm:w-48"
+              />
+            </Link>
           </div>
         </div>
       </section>

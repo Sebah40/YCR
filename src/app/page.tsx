@@ -110,8 +110,24 @@ export default function Home() {
       {/* Donations Section */}
       <section className="bg-white py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
-          <h2 className="text-center text-3xl font-bold tracking-tight text-warm-900 sm:text-4xl">
+          <h2 className="flex items-center justify-center gap-3 text-center text-3xl font-bold tracking-tight text-warm-900 sm:text-4xl">
+            <Image
+              src="/images/scraped/Heart.png"
+              alt=""
+              width={200}
+              height={210}
+              aria-hidden="true"
+              className="h-7 w-auto sm:h-8"
+            />
             Donations are welcomed
+            <Image
+              src="/images/scraped/Heart.png"
+              alt=""
+              width={200}
+              height={210}
+              aria-hidden="true"
+              className="h-7 w-auto sm:h-8"
+            />
           </h2>
 
           {/* Donate buttons */}
@@ -174,22 +190,33 @@ export default function Home() {
 
       {/* Volunteer CTA */}
       <section className="bg-gradient-to-br from-warm-800 via-warm-900 to-warm-900 py-10 sm:py-14">
-        <div className="mx-auto max-w-4xl px-6 text-center">
-          <h2 className="text-3xl font-bold tracking-tight text-amber-100 sm:text-4xl">
-            Yankee Chihuahua Rescue is looking for dedicated people
-          </h2>
-          <p className="mx-auto mt-5 max-w-2xl text-base leading-relaxed text-warm-200">
-            If you have a few hours to give to help New England Chihuahuas in need,
-            then please consider submitting an application. YCRAA is in need of
-            Volunteers and Foster Homes.
-          </p>
-          <Link
-            href="/volunteer"
-            className="mt-7 inline-flex items-center gap-2 rounded-full bg-amber-400 px-7 py-3 text-sm font-semibold text-warm-900 shadow-md transition-all hover:bg-amber-300 hover:shadow-lg"
-          >
-            For more information about Volunteering
-            <ArrowRight className="h-4 w-4" strokeWidth={2} />
+        <div className="mx-auto flex max-w-4xl flex-col items-center gap-6 px-6 text-center sm:flex-row sm:gap-10 sm:text-left">
+          <Link href="/volunteer" className="shrink-0 transition-transform hover:scale-105">
+            <Image
+              src="/images/scraped/images/HeartVolunteer.png"
+              alt="Volunteer Information"
+              width={200}
+              height={210}
+              className="h-auto w-32 sm:w-40"
+            />
           </Link>
+          <div>
+            <h2 className="text-3xl font-bold tracking-tight text-amber-100 sm:text-4xl">
+              Yankee Chihuahua Rescue is looking for dedicated people
+            </h2>
+            <p className="mt-5 max-w-2xl text-base leading-relaxed text-warm-200">
+              If you have a few hours to give to help New England Chihuahuas in need,
+              then please consider submitting an application. YCRAA is in need of
+              Volunteers and Foster Homes.
+            </p>
+            <Link
+              href="/volunteer"
+              className="mt-7 inline-flex items-center gap-2 rounded-full bg-amber-400 px-7 py-3 text-sm font-semibold text-warm-900 shadow-md transition-all hover:bg-amber-300 hover:shadow-lg"
+            >
+              For more information about Volunteering
+              <ArrowRight className="h-4 w-4" strokeWidth={2} />
+            </Link>
+          </div>
         </div>
       </section>
 

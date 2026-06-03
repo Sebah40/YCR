@@ -1,9 +1,21 @@
 "use client";
 
-import { useState, type FormEvent } from "react";
+import { useEffect, useState, type FormEvent } from "react";
+import Script from "next/script";
 import Link from "next/link";
 import HeroLogo from "@/components/HeroLogo";
 import { BookOpen } from "lucide-react";
+
+declare global {
+  interface Window {
+    grecaptcha?: {
+      ready: (cb: () => void) => void;
+      execute: (siteKey: string, opts: { action: string }) => Promise<string>;
+    };
+  }
+}
+
+const RECAPTCHA_SITE_KEY = process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY ?? "";
 
 const ic =
   "mt-1.5 block w-full rounded-lg border border-warm-200 bg-white px-4 py-2.5 text-warm-800 shadow-sm focus:border-amber-400 focus:outline-none focus:ring-2 focus:ring-amber-200";
@@ -12,6 +24,21 @@ export default function SignGuestbookPage() {
   const [submitted, setSubmitted] = useState(false);
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [recaptchaReady, setRecaptchaReady] = useState(false);
+
+  useEffect(() => {
+    if (!RECAPTCHA_SITE_KEY) {
+      setRecaptchaReady(true); // no captcha configured — let submissions through
+      return;
+    }
+    const tick = setInterval(() => {
+      if (window.grecaptcha) {
+        window.grecaptcha.ready(() => setRecaptchaReady(true));
+        clearInterval(tick);
+      }
+    }, 200);
+    return () => clearInterval(tick);
+  }, []);
 
   async function handleSubmit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault();
@@ -21,6 +48,12 @@ export default function SignGuestbookPage() {
     setSubmitting(true);
     setError(null);
     try {
+      if (RECAPTCHA_SITE_KEY && window.grecaptcha) {
+        const token = await window.grecaptcha.execute(RECAPTCHA_SITE_KEY, {
+          action: "guestbook_submit",
+        });
+        fd.set("recaptcha_token", token);
+      }
       const res = await fetch("/api/guestbook", {
         method: "POST",
         body: fd,
@@ -66,6 +99,12 @@ export default function SignGuestbookPage() {
 
   return (
     <div className="bg-cream">
+      {RECAPTCHA_SITE_KEY && (
+        <Script
+          src={`https://www.google.com/recaptcha/api.js?render=${RECAPTCHA_SITE_KEY}`}
+          strategy="afterInteractive"
+        />
+      )}
       <section className="bg-gradient-to-b from-amber-50 to-cream pb-8 pt-14 sm:pb-10 sm:pt-16">
         <div className="mx-auto flex max-w-3xl flex-col items-center justify-center gap-5 px-6 sm:flex-row sm:gap-8">
           <HeroLogo />
@@ -132,6 +171,15 @@ export default function SignGuestbookPage() {
             </div>
           )}
 
+          {RECAPTCHA_SITE_KEY && (
+            <p className="text-xs text-warm-400">
+              This form is protected by reCAPTCHA and the Google{" "}
+              <a className="underline" href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>{" "}
+              and{" "}
+              <a className="underline" href="https://policies.google.com/terms" target="_blank" rel="noopener noreferrer">Terms of Service</a> apply.
+            </p>
+          )}
+
           <div className="flex justify-end gap-3 pt-2">
             <Link
               href="/guestbook"
@@ -141,7 +189,7 @@ export default function SignGuestbookPage() {
             </Link>
             <button
               type="submit"
-              disabled={submitting}
+              disabled={submitting || !recaptchaReady}
               className="rounded-full bg-coral-500 px-7 py-3 text-sm font-semibold text-white shadow-sm transition-colors hover:bg-coral-600 disabled:cursor-not-allowed disabled:opacity-50"
             >
               {submitting ? "Submitting…" : "Submit Entry"}

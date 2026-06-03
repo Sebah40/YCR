@@ -5,14 +5,50 @@ import { submitEntry, type GuestbookEntry } from "@/lib/guestbook";
 // Use Node runtime so googleapis (and its native deps) work.
 export const runtime = "nodejs";
 
-const RATE_LIMIT_WINDOW_SECONDS = 60 * 60; // 1 hour
-const RATE_LIMIT_MAX = 3; // max 3 submissions per IP per hour
+const RATE_LIMIT_WINDOW_SECONDS = 60 * 60 * 24; // 24 hours
+const RATE_LIMIT_MAX = 1; // 1 submission per IP per day
 
 // Formspree email-keyed endpoint — first POST triggers a confirmation email
 // to info@, someone with inbox access clicks the link once, all future POSTs
 // are forwarded there.
 const NOTIFY_URL =
   "https://formspree.io/f/info@yankeechihuahuarescue.org";
+
+const RECAPTCHA_MIN_SCORE = 0.5;
+
+interface RecaptchaResponse {
+  success: boolean;
+  score?: number;
+  action?: string;
+  challenge_ts?: string;
+  hostname?: string;
+  "error-codes"?: string[];
+}
+
+/** Verify the v3 token with Google. Returns true if valid; false to reject. */
+async function verifyRecaptcha(token: string): Promise<boolean> {
+  const secret = process.env.RECAPTCHA_SECRET_KEY;
+  // If no secret configured, treat captcha as not required — useful for local
+  // dev before keys are set. In production once the env var is set, missing
+  // tokens fall through to a failed verification below.
+  if (!secret) return true;
+  if (!token) return false;
+  try {
+    const res = await fetch("https://www.google.com/recaptcha/api/siteverify", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: new URLSearchParams({ secret, response: token }).toString(),
+    });
+    const data = (await res.json()) as RecaptchaResponse;
+    if (!data.success) return false;
+    if (data.action && data.action !== "guestbook_submit") return false;
+    if (typeof data.score === "number" && data.score < RECAPTCHA_MIN_SCORE) return false;
+    return true;
+  } catch {
+    // Don't block legitimate submissions if Google's API is down.
+    return true;
+  }
+}
 
 async function notifyAdmin(entry: GuestbookEntry, requestUrl: string): Promise<void> {
   try {
@@ -96,11 +132,20 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: "Email too long." }, { status: 400 });
   }
 
+  const recaptchaToken = (form.get("recaptcha_token") as string | null) ?? "";
+  const captchaOk = await verifyRecaptcha(recaptchaToken);
+  if (!captchaOk) {
+    return NextResponse.json(
+      { error: "We couldn't verify you're human. Please refresh the page and try again." },
+      { status: 400 }
+    );
+  }
+
   const ip = getClientIp(req);
   const allowed = await rateLimit(ip);
   if (!allowed) {
     return NextResponse.json(
-      { error: "Too many submissions. Please try again later." },
+      { error: "You've already submitted an entry today. Please try again tomorrow." },
       { status: 429 }
     );
   }

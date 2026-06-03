@@ -45,14 +45,13 @@ export default function Navigation() {
             </li>
           ))}
           <li className="ml-3">
-            <span
-              aria-disabled="true"
-              title="Coming soon"
-              className="inline-flex cursor-not-allowed whitespace-nowrap items-center gap-1.5 rounded-full border border-warm-200/60 px-3.5 py-1.5 text-[13px] font-medium text-warm-400"
+            <Link
+              href="/guestbook"
+              className="inline-flex whitespace-nowrap items-center gap-1.5 rounded-full border border-warm-200 px-3.5 py-1.5 text-[13px] font-medium text-warm-600 transition-colors hover:border-warm-300 hover:text-warm-800"
             >
               <BookOpen className="h-3.5 w-3.5" strokeWidth={2} />
               Guest Book
-            </span>
+            </Link>
           </li>
           <li className="ml-2">
             <Link
@@ -105,14 +104,14 @@ export default function Navigation() {
               </li>
             ))}
             <li className="mt-3">
-              <span
-                aria-disabled="true"
-                title="Coming soon"
-                className="flex cursor-not-allowed items-center justify-center gap-2 rounded-full border border-warm-200/60 px-5 py-2.5 text-sm font-medium text-warm-400"
+              <Link
+                href="/guestbook"
+                onClick={() => setMobileOpen(false)}
+                className="flex items-center justify-center gap-2 rounded-full border border-warm-200 px-5 py-2.5 text-sm font-medium text-warm-600 transition-colors hover:border-warm-300"
               >
                 <BookOpen className="h-4 w-4" strokeWidth={2} />
                 Guest Book
-              </span>
+              </Link>
             </li>
             <li className="mt-2">
               <Link

@@ -174,13 +174,21 @@ export default function AdminPage() {
           <Palette className="h-6 w-6 text-coral-500" strokeWidth={2} />
           <h1 className="text-2xl font-bold text-warm-900">Theme Manager</h1>
         </div>
-        <button
-          onClick={handleLogout}
-          className="inline-flex items-center gap-2 rounded-lg border border-warm-200 px-4 py-2 text-sm font-medium text-warm-600 transition-colors hover:bg-warm-50"
-        >
-          <LogOut className="h-4 w-4" strokeWidth={2} />
-          Log Out
-        </button>
+        <div className="flex items-center gap-2">
+          <a
+            href="/admin/guestbook"
+            className="inline-flex items-center gap-2 rounded-lg border border-warm-200 px-4 py-2 text-sm font-medium text-warm-600 transition-colors hover:bg-warm-50"
+          >
+            Guest Book Moderation
+          </a>
+          <button
+            onClick={handleLogout}
+            className="inline-flex items-center gap-2 rounded-lg border border-warm-200 px-4 py-2 text-sm font-medium text-warm-600 transition-colors hover:bg-warm-50"
+          >
+            <LogOut className="h-4 w-4" strokeWidth={2} />
+            Log Out
+          </button>
+        </div>
       </div>
 
       <p className="mb-6 text-sm text-warm-500">

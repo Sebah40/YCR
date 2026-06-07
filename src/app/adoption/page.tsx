@@ -258,7 +258,7 @@ export default function AdoptionPage() {
 
           <div className="mt-10 flex justify-center">
             <a
-              href="https://www.petfinder.com/pet-search?shelterid=ME107"
+              href="https://www.petfinder.com/member/us/me/westbrook/yankee-chihuahua-rescue-and-adopt-me107/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-full bg-coral-500 px-7 py-3 text-base font-semibold text-white shadow-md transition-all hover:-translate-y-0.5 hover:bg-coral-600 hover:shadow-lg"
@@ -406,7 +406,7 @@ export default function AdoptionPage() {
 
           <div className="mt-10 flex justify-center">
             <a
-              href="https://www.petfinder.com/pet-search?shelterid=ME107"
+              href="https://www.petfinder.com/member/us/me/westbrook/yankee-chihuahua-rescue-and-adopt-me107/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-full bg-amber-500 px-7 py-3 text-base font-semibold text-white shadow-md transition-all hover:-translate-y-0.5 hover:bg-amber-600 hover:shadow-lg"

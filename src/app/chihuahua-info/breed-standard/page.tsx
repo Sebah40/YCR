@@ -93,6 +93,14 @@ export default function BreedStandardPage() {
               AKC - Chihuahua Breed Standard
             </h1>
             <p className="mt-4 text-warm-500">Toy Group</p>
+            <a
+              href="https://www.akc.org/dog-breeds/chihuahua/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-3 inline-flex items-center gap-1.5 text-sm font-semibold text-amber-700 underline underline-offset-2 hover:text-amber-800"
+            >
+              View on AKC.org →
+            </a>
           </div>
         </div>
       </section>

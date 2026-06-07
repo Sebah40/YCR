@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { Download } from "lucide-react";
 import HeroLogo from "@/components/HeroLogo";
 
 export const metadata = { title: "Tips For New Adopters" };
@@ -14,9 +15,26 @@ export default function TipsForNewAdoptersPage() {
               Tips For New Adopters
             </h1>
             <p className="mt-4 text-sm text-warm-500">
-              This article was written for Canadian Chihuahua Rescue &amp; Transport with the
-              assistance of Anne Puchtinger, a dog trainer located in London ON.
+              This article was written for{" "}
+              <a
+                href="https://www.ccrt.net"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-medium text-amber-700 underline underline-offset-2 hover:text-amber-800"
+              >
+                Canadian Chihuahua Rescue &amp; Transport
+              </a>{" "}
+              with the assistance of Anne Puchtinger, a dog trainer located in London ON.
             </p>
+            <a
+              href="/docs/TipsForNewAdopters.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-4 inline-flex items-center gap-2 rounded-full border border-amber-300 bg-white px-5 py-2 text-sm font-semibold text-amber-700 shadow-sm transition-all hover:-translate-y-0.5 hover:border-amber-400 hover:shadow-md"
+            >
+              <Download className="h-4 w-4" strokeWidth={2.5} />
+              Download original PDF
+            </a>
           </div>
         </div>
       </section>

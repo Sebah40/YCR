@@ -43,6 +43,7 @@ const themeIconName: Record<ThemeId, string> = {
   christmas: "Snowflake",
   "new-years": "Sparkles",
   valentines: "Heart",
+  winter: "Snowflake",
 };
 
 const particles = [

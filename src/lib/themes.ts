@@ -10,7 +10,8 @@ export type ThemeId =
   | "thanksgiving"
   | "christmas"
   | "new-years"
-  | "valentines";
+  | "valentines"
+  | "winter";
 
 export interface ThemeColors {
   warm: Record<string, string>;
@@ -53,20 +54,89 @@ export interface ThemeConfig {
   decorativeImages: Record<DecorativeSlot, DecorativeImage>;
 }
 
-// Default decorative images (St. Patrick's) used by themes that don't have their own
-const defaultDecorativeImages: Record<DecorativeSlot, DecorativeImage> = {
-  "about-float": { src: "/images/scraped/images/holidays/st-patrick/chi-st-patrick-lucky-charm.png", alt: "Chihuahua - Lucky Charm" },
-  "about-quote": { src: "/images/scraped/images/holidays/st-patrick/chi-st-patrick-lucky-dog.gif", alt: "Lucky Dog" },
-  "volunteer-aside": { src: "/images/scraped/images/holidays/st-patrick/chix2---happy-st-patrick-day.jpg", alt: "Happy Chihuahuas" },
-  "events-hero": { src: "/images/scraped/images/holidays/st-patrick/st-patrick-rainbow-archway.png", alt: "Rainbow archway" },
-  "adoption-aside": { src: "/images/scraped/images/holidays/st-patrick/chi-st-patrick-shamrock.png", alt: "Chihuahua with shamrock" },
-  "chiinfo-breed": { src: "/images/scraped/images/holidays/st-patrick/chi-st-patrick-pub.jpg", alt: "Chihuahua at the pub" },
-  "chiinfo-articles": { src: "/images/scraped/images/holidays/st-patrick/chi-hat-graphic02.png", alt: "Chihuahua with hat" },
-  "surrender-top": { src: "/images/scraped/images/holidays/st-patrick/chi-st-partrick-sleep-in-hat.png", alt: "Chihuahua sleeping in hat" },
-  "surrender-mid": { src: "/images/scraped/images/holidays/st-patrick/chi-irish-heart-leaf.png", alt: "Chihuahua with heart leaf" },
-};
-
 const themes: Record<ThemeId, ThemeConfig> = {
+  "new-years": {
+    id: "new-years",
+    name: "New Year's",
+    icon: "Sparkles",
+    preview: "#1e293b",
+    colors: {
+      warm: {
+        "50": "#f8fafc", "100": "#f1f5f9", "200": "#e2e8f0", "300": "#cbd5e1",
+        "400": "#94a3b8", "500": "#64748b", "600": "#475569", "700": "#334155",
+        "800": "#1e293b", "900": "#0f172a",
+      },
+      coral: {
+        "50": "#f8f8f8", "100": "#f0f0f0", "200": "#dcdcdc", "300": "#bfbfbf",
+        "400": "#a0a0a0", "500": "#808080", "600": "#606060", "700": "#484848",
+        "800": "#303030", "900": "#202020",
+      },
+      amber: {
+        "50": "#fdfcf0", "100": "#faf5d0", "200": "#f3e8a0", "300": "#e8d366",
+        "400": "#d9b83a", "500": "#c49e18", "600": "#a38312", "700": "#7a620e",
+        "800": "#5c4a0b", "900": "#3d3108",
+      },
+      cream: "#f8fafc",
+      creamDark: "#f1f5f9",
+    },
+    seasonalImages: [
+      { src: "/images/scraped/images/holidays/new-year/chi-synth02.png", alt: "Chihuahua celebrating New Year's", width: 220, height: 220 },
+      { src: "/images/scraped/images/holidays/new-year/hny-pointyhat01.jpg", alt: "Chihuahua in a party hat", width: 220, height: 220 },
+      { src: "/images/scraped/images/holidays/new-year/hny-cheers.png", alt: "Cheers to the New Year", width: 220, height: 220 },
+    ],
+    decorativeImages: {
+      "about-float": { src: "/images/scraped/images/holidays/new-year/chistar.png", alt: "New Year's star chihuahua" },
+      "about-quote": { src: "/images/scraped/images/holidays/new-year/hny-cheers.png", alt: "Cheers to the New Year" },
+      "volunteer-aside": { src: "/images/scraped/images/holidays/new-year/hny-pointyhat02.jpg", alt: "Chihuahua in a party hat" },
+      "events-hero": { src: "/images/scraped/images/holidays/new-year/happy-new-years.png", alt: "Happy New Year" },
+      "adoption-aside": { src: "/images/scraped/images/holidays/new-year/nhy-tux.png", alt: "Chihuahua in a tuxedo" },
+      "chiinfo-breed": { src: "/images/scraped/images/holidays/new-year/hny-bowtie.jpg", alt: "Chihuahua in a bow tie" },
+      "chiinfo-articles": { src: "/images/scraped/images/holidays/new-year/chimartini.jpg", alt: "New Year's celebration" },
+      "surrender-top": { src: "/images/scraped/images/holidays/new-year/hny-sitting.png", alt: "New Year's chihuahua" },
+      "surrender-mid": { src: "/images/scraped/images/holidays/new-year/chi-synth01.png", alt: "Chihuahua celebrating New Year's" },
+    },
+  },
+  valentines: {
+    id: "valentines",
+    name: "Valentine's Day",
+    icon: "Heart",
+    preview: "#e11d48",
+    colors: {
+      warm: {
+        "50": "#fff1f3", "100": "#ffe0e5", "200": "#ffc7d1", "300": "#ffa0b3",
+        "400": "#fd708e", "500": "#f6436b", "600": "#e11d52", "700": "#be1244",
+        "800": "#9f1240", "900": "#88133e",
+      },
+      coral: {
+        "50": "#fdf2f8", "100": "#fce7f3", "200": "#fbcfe8", "300": "#f9a8d4",
+        "400": "#f472b6", "500": "#ec4899", "600": "#db2777", "700": "#be185d",
+        "800": "#9d174d", "900": "#831843",
+      },
+      amber: {
+        "50": "#fff1f3", "100": "#ffe4e8", "200": "#fecdd5", "300": "#fda4b4",
+        "400": "#fb7190", "500": "#f43f6b", "600": "#e11d50", "700": "#be1241",
+        "800": "#9f123c", "900": "#881339",
+      },
+      cream: "#fff1f3",
+      creamDark: "#ffe0e5",
+    },
+    seasonalImages: [
+      { src: "/images/scraped/images/holidays/valentines/valentine-s-day-chi.png", alt: "Valentine's Day chihuahua", width: 220, height: 220 },
+      { src: "/images/scraped/images/holidays/valentines/chi-heartglasses.jpg", alt: "Chihuahua with heart glasses", width: 220, height: 220 },
+      { src: "/images/scraped/images/holidays/valentines/chi-rose-candy-balloon.png", alt: "Chihuahua with a rose and candy", width: 220, height: 220 },
+    ],
+    decorativeImages: {
+      "about-float": { src: "/images/scraped/images/holidays/valentines/chi-red-flower-headband.png", alt: "Chihuahua with a red flower headband" },
+      "about-quote": { src: "/images/scraped/images/holidays/valentines/chi-heart-pink-jacket.jpg", alt: "Chihuahua in a pink jacket" },
+      "volunteer-aside": { src: "/images/scraped/images/holidays/valentines/chi-with-human-parents.png", alt: "Chihuahua with its family" },
+      "events-hero": { src: "/images/scraped/images/holidays/valentines/chihuahua-dog-holding-i-love-you-bag.png", alt: "Chihuahua holding an I Love You bag" },
+      "adoption-aside": { src: "/images/scraped/images/holidays/valentines/chi-with-candybox.png", alt: "Chihuahua with a box of candy" },
+      "chiinfo-breed": { src: "/images/scraped/images/holidays/valentines/chi-lying-white-cloth-red-rose.jpg", alt: "Chihuahua with a red rose" },
+      "chiinfo-articles": { src: "/images/scraped/images/holidays/valentines/chi-laptop-flower-inmouth.png", alt: "Chihuahua with a flower" },
+      "surrender-top": { src: "/images/scraped/images/holidays/valentines/chi-couple-champain-and-glasses.png", alt: "Chihuahua couple celebrating" },
+      "surrender-mid": { src: "/images/scraped/images/holidays/valentines/chi-rose-candy-balloon.png", alt: "Chihuahua with a rose and candy" },
+    },
+  },
   "st-patricks": {
     id: "st-patricks",
     name: "St. Patrick's Day",
@@ -99,13 +169,54 @@ const themes: Record<ThemeId, ThemeConfig> = {
     decorativeImages: {
       "about-float": { src: "/images/scraped/images/holidays/st-patrick/chi-st-patrick-lucky-charm.png", alt: "Chihuahua - Lucky Charm" },
       "about-quote": { src: "/images/scraped/images/holidays/st-patrick/chi-st-patrick-lucky-dog.gif", alt: "Lucky Dog" },
-      "volunteer-aside": { src: "/images/scraped/images/holidays/st-patrick/chix2---happy-st-patrick-day.jpg", alt: "Happy St. Patrick's Day Chihuahuas" },
+      "volunteer-aside": { src: "/images/scraped/images/holidays/st-patrick/chix2-happy-st-patrick-day.jpg", alt: "Happy St. Patrick's Day Chihuahuas" },
       "events-hero": { src: "/images/scraped/images/holidays/st-patrick/st-patrick-rainbow-archway.png", alt: "St. Patrick's Day rainbow archway" },
       "adoption-aside": { src: "/images/scraped/images/holidays/st-patrick/chi-st-patrick-shamrock.png", alt: "Chihuahua with shamrock" },
-      "chiinfo-breed": { src: "/images/scraped/images/holidays/st-patrick/chi-st-patrick-pub.jpg", alt: "Chihuahua at the pub" },
+      "chiinfo-breed": { src: "/images/scraped/images/holidays/st-patrick/chi-st-patrick-pub.png", alt: "Chihuahua at the pub" },
       "chiinfo-articles": { src: "/images/scraped/images/holidays/st-patrick/chi-hat-graphic02.png", alt: "Chihuahua with hat" },
       "surrender-top": { src: "/images/scraped/images/holidays/st-patrick/chi-st-partrick-sleep-in-hat.png", alt: "Chihuahua sleeping in hat" },
       "surrender-mid": { src: "/images/scraped/images/holidays/st-patrick/chi-irish-heart-leaf.png", alt: "Chihuahua with heart leaf" },
+    },
+  },
+  spring: {
+    id: "spring",
+    name: "Spring",
+    icon: "Flower2",
+    preview: "#059669",
+    colors: {
+      warm: {
+        "50": "#f0fdf4", "100": "#dcfce7", "200": "#bbf7d0", "300": "#86efac",
+        "400": "#4ade80", "500": "#22c55e", "600": "#16a34a", "700": "#15803d",
+        "800": "#166534", "900": "#14532d",
+      },
+      coral: {
+        "50": "#fff1f2", "100": "#ffe4e6", "200": "#fecdd3", "300": "#fda4af",
+        "400": "#fb7185", "500": "#f43f5e", "600": "#e11d48", "700": "#be123c",
+        "800": "#9f1239", "900": "#881337",
+      },
+      amber: {
+        "50": "#fffbeb", "100": "#fef3c7", "200": "#fde68a", "300": "#fcd34d",
+        "400": "#fbbf24", "500": "#f59e0b", "600": "#d97706", "700": "#b45309",
+        "800": "#92400e", "900": "#78350f",
+      },
+      cream: "#f0fdf4",
+      creamDark: "#dcfce7",
+    },
+    seasonalImages: [
+      { src: "/images/scraped/images/seasons/spring/springchi.jpg", alt: "Springtime chihuahua", width: 220, height: 220 },
+      { src: "/images/scraped/images/seasons/spring/chi-daisypose.jpg", alt: "Chihuahua posing with daisies", width: 220, height: 220 },
+      { src: "/images/scraped/images/seasons/spring/flowersmell.jpg", alt: "Chihuahua smelling a flower", width: 220, height: 220 },
+    ],
+    decorativeImages: {
+      "about-float": { src: "/images/scraped/images/seasons/spring/chi-flower.png", alt: "Chihuahua with a flower" },
+      "about-quote": { src: "/images/scraped/images/seasons/spring/shi-springpose.jpg", alt: "Chihuahua in a spring pose" },
+      "volunteer-aside": { src: "/images/scraped/images/seasons/spring/chi-meadow.jpg", alt: "Chihuahua in a meadow" },
+      "events-hero": { src: "/images/scraped/images/seasons/spring/springsprung.jpg", alt: "Spring has sprung chihuahua" },
+      "adoption-aside": { src: "/images/scraped/images/seasons/spring/iriseschi.jpg", alt: "Chihuahua among irises" },
+      "chiinfo-breed": { src: "/images/scraped/images/seasons/spring/stainedglasschi.jpg", alt: "Stained glass chihuahua" },
+      "chiinfo-articles": { src: "/images/scraped/images/seasons/spring/paintedchi.jpg", alt: "Painted chihuahua" },
+      "surrender-top": { src: "/images/scraped/images/seasons/spring/chipup-easterlily.webp", alt: "Chihuahua puppy with Easter lily" },
+      "surrender-mid": { src: "/images/scraped/images/seasons/spring/chi-sunflower.png", alt: "Chihuahua with a sunflower" },
     },
   },
   easter: {
@@ -133,48 +244,21 @@ const themes: Record<ThemeId, ThemeConfig> = {
       creamDark: "#f3e8ff",
     },
     seasonalImages: [
-      { src: "/images/scraped/images/holidays/easter/Chi-CartoonBunny.png", alt: "Chihuahua in bunny costume", width: 160, height: 160 },
-      { src: "/images/scraped/images/holidays/easter/Chi-SpringFlowers.png", alt: "Chihuahua with spring flowers", width: 160, height: 160 },
-      { src: "/images/scraped/images/holidays/easter/Chi-HappyEasterPin-Transparent.png", alt: "Happy Easter chihuahuas", width: 160, height: 160 },
+      { src: "/images/scraped/images/holidays/easter/chi-cartoonbunny.png", alt: "Chihuahua in bunny costume", width: 160, height: 160 },
+      { src: "/images/scraped/images/holidays/easter/chi-springflowers.png", alt: "Chihuahua with spring flowers", width: 160, height: 160 },
+      { src: "/images/scraped/images/holidays/easter/chi-happyeasterpin-transparent.png", alt: "Happy Easter chihuahuas", width: 160, height: 160 },
     ],
     decorativeImages: {
-      "about-float": { src: "/images/scraped/images/holidays/easter/Chi-EasterBasket.png", alt: "Chihuahua in Easter basket" },
-      "about-quote": { src: "/images/scraped/images/holidays/easter/Chi-EasterChi01.png", alt: "Easter bunny chihuahua" },
+      "about-float": { src: "/images/scraped/images/holidays/easter/chi-easterbasket.png", alt: "Chihuahua in Easter basket" },
+      "about-quote": { src: "/images/scraped/images/holidays/easter/chi-easterchi01.png", alt: "Easter bunny chihuahua" },
       "volunteer-aside": { src: "/images/scraped/images/holidays/easter/chi-helping-bunny.png", alt: "Chihuahua helping the Easter bunny" },
       "events-hero": { src: "/images/scraped/images/holidays/easter/easter-basket-chi.jpg", alt: "Chihuahua in Easter basket" },
-      "adoption-aside": { src: "/images/scraped/images/holidays/easter/Chi-Easter.png", alt: "Chihuahua with Easter eggs" },
-      "chiinfo-breed": { src: "/images/scraped/images/holidays/easter/Chi-Peeps.jpg", alt: "Chihuahua with Peeps" },
-      "chiinfo-articles": { src: "/images/scraped/images/holidays/easter/Chi-EasterChi02.png", alt: "Easter bunny chihuahua" },
-      "surrender-top": { src: "/images/scraped/images/holidays/easter/Chi-BasketBunny.jpg", alt: "Chihuahua in bunny basket" },
-      "surrender-mid": { src: "/images/scraped/images/holidays/easter/Chi-CartoonBunny.png", alt: "Cartoon Easter chihuahua" },
+      "adoption-aside": { src: "/images/scraped/images/holidays/easter/chi-easter.png", alt: "Chihuahua with Easter eggs" },
+      "chiinfo-breed": { src: "/images/scraped/images/holidays/easter/chi-peeps.jpg", alt: "Chihuahua with Peeps" },
+      "chiinfo-articles": { src: "/images/scraped/images/holidays/easter/chi-easterchi02.png", alt: "Easter bunny chihuahua" },
+      "surrender-top": { src: "/images/scraped/images/holidays/easter/chi-basketbunny.jpg", alt: "Chihuahua in bunny basket" },
+      "surrender-mid": { src: "/images/scraped/images/holidays/easter/chi-cartoonbunny.png", alt: "Cartoon Easter chihuahua" },
     },
-  },
-  spring: {
-    id: "spring",
-    name: "Spring",
-    icon: "Flower2",
-    preview: "#059669",
-    colors: {
-      warm: {
-        "50": "#f0fdf4", "100": "#dcfce7", "200": "#bbf7d0", "300": "#86efac",
-        "400": "#4ade80", "500": "#22c55e", "600": "#16a34a", "700": "#15803d",
-        "800": "#166534", "900": "#14532d",
-      },
-      coral: {
-        "50": "#fff1f2", "100": "#ffe4e6", "200": "#fecdd3", "300": "#fda4af",
-        "400": "#fb7185", "500": "#f43f5e", "600": "#e11d48", "700": "#be123c",
-        "800": "#9f1239", "900": "#881337",
-      },
-      amber: {
-        "50": "#fffbeb", "100": "#fef3c7", "200": "#fde68a", "300": "#fcd34d",
-        "400": "#fbbf24", "500": "#f59e0b", "600": "#d97706", "700": "#b45309",
-        "800": "#92400e", "900": "#78350f",
-      },
-      cream: "#f0fdf4",
-      creamDark: "#dcfce7",
-    },
-    seasonalImages: [],
-    decorativeImages: defaultDecorativeImages,
   },
   graduation: {
     id: "graduation",
@@ -202,15 +286,55 @@ const themes: Record<ThemeId, ThemeConfig> = {
     },
     seasonalImages: [],
     decorativeImages: {
-      "about-float": { src: "/images/scraped/images/holidays/graduation/gradstandingchi.png", alt: "Graduation Chihuahua standing proud" },
-      "about-quote": { src: "/images/scraped/images/holidays/graduation/gradsurprisechi.jpg", alt: "Surprised graduation Chihuahua" },
-      "volunteer-aside": { src: "/images/scraped/images/holidays/graduation/gradhappychi.jpg", alt: "Happy graduation Chihuahua" },
-      "events-hero": { src: "/images/scraped/images/holidays/graduation/gradbanner.png", alt: "Graduation season banner" },
-      "adoption-aside": { src: "/images/scraped/images/holidays/graduation/gradbooksmartchi.jpg", alt: "Book-smart graduation Chihuahua" },
-      "chiinfo-breed": { src: "/images/scraped/images/holidays/graduation/gradchiprofessor.jpg", alt: "Chihuahua professor" },
-      "chiinfo-articles": { src: "/images/scraped/images/holidays/graduation/gradchipainting.jpg", alt: "Graduation Chihuahua painting" },
-      "surrender-top": { src: "/images/scraped/images/holidays/graduation/gradproudchi.jpg", alt: "Proud graduation Chihuahua" },
-      "surrender-mid": { src: "/images/scraped/images/holidays/graduation/gradchiworkready.jpg", alt: "Work-ready graduation Chihuahua" },
+      "about-float": { src: "/images/scraped/images/seasons/graduation/gradstandingchi.png", alt: "Graduation Chihuahua standing proud" },
+      "about-quote": { src: "/images/scraped/images/seasons/graduation/gradsurprisechi.jpg", alt: "Surprised graduation Chihuahua" },
+      "volunteer-aside": { src: "/images/scraped/images/seasons/graduation/gradhappychi.jpg", alt: "Happy graduation Chihuahua" },
+      "events-hero": { src: "/images/scraped/images/seasons/graduation/gradbanner.png", alt: "Graduation season banner" },
+      "adoption-aside": { src: "/images/scraped/images/seasons/graduation/gradbooksmartchi.jpg", alt: "Book-smart graduation Chihuahua" },
+      "chiinfo-breed": { src: "/images/scraped/images/seasons/graduation/gradchiprofessor.jpg", alt: "Chihuahua professor" },
+      "chiinfo-articles": { src: "/images/scraped/images/seasons/graduation/gradchipainting.jpg", alt: "Graduation Chihuahua painting" },
+      "surrender-top": { src: "/images/scraped/images/seasons/graduation/gradproudchi.jpg", alt: "Proud graduation Chihuahua" },
+      "surrender-mid": { src: "/images/scraped/images/seasons/graduation/gradchiworkready.jpg", alt: "Work-ready graduation Chihuahua" },
+    },
+  },
+  "4th-of-july": {
+    id: "4th-of-july",
+    name: "4th of July",
+    icon: "Star",
+    preview: "#1e40af",
+    colors: {
+      warm: {
+        "50": "#eff6ff", "100": "#dbeafe", "200": "#bfdbfe", "300": "#93c5fd",
+        "400": "#60a5fa", "500": "#3b82f6", "600": "#2563eb", "700": "#1d4ed8",
+        "800": "#1e40af", "900": "#1e3a8a",
+      },
+      coral: {
+        "50": "#fef2f2", "100": "#fee2e2", "200": "#fecaca", "300": "#fca5a5",
+        "400": "#f87171", "500": "#ef4444", "600": "#dc2626", "700": "#b91c1c",
+        "800": "#991b1b", "900": "#7f1d1d",
+      },
+      amber: {
+        "50": "#fafafa", "100": "#f5f5f5", "200": "#e5e5e5", "300": "#d4d4d4",
+        "400": "#a3a3a3", "500": "#737373", "600": "#525252", "700": "#404040",
+        "800": "#262626", "900": "#171717",
+      },
+      cream: "#eff6ff",
+      creamDark: "#dbeafe",
+    },
+    seasonalImages: [
+      { src: "/images/scraped/images/holidays/july-4/july4-chi1.png", alt: "Patriotic chihuahua", width: 220, height: 220 },
+      { src: "/images/scraped/images/holidays/july-4/july4-chi2.jpg", alt: "Patriotic chihuahua", width: 220, height: 220 },
+    ],
+    decorativeImages: {
+      "about-float": { src: "/images/scraped/images/holidays/july-4/july4-chi1.png", alt: "Patriotic chihuahua" },
+      "about-quote": { src: "/images/scraped/images/holidays/july-4/july4-chi2.jpg", alt: "Patriotic chihuahua" },
+      "volunteer-aside": { src: "/images/scraped/images/holidays/july-4/july4-chi1.png", alt: "Patriotic chihuahua" },
+      "events-hero": { src: "/images/scraped/images/holidays/july-4/july4-chi2.jpg", alt: "Patriotic chihuahua" },
+      "adoption-aside": { src: "/images/scraped/images/holidays/july-4/july4-chi1.png", alt: "Patriotic chihuahua" },
+      "chiinfo-breed": { src: "/images/scraped/images/holidays/july-4/july4-chi2.jpg", alt: "Patriotic chihuahua" },
+      "chiinfo-articles": { src: "/images/scraped/images/holidays/july-4/july4-chi-warning1.jpg", alt: "July 4th pet safety" },
+      "surrender-top": { src: "/images/scraped/images/holidays/july-4/july4-chi1.png", alt: "Patriotic chihuahua" },
+      "surrender-mid": { src: "/images/scraped/images/holidays/july-4/july4-chi-warning2.jpg", alt: "July 4th pet safety" },
     },
   },
   summer: {
@@ -237,35 +361,22 @@ const themes: Record<ThemeId, ThemeConfig> = {
       cream: "#f0f9ff",
       creamDark: "#e0f2fe",
     },
-    seasonalImages: [],
-    decorativeImages: defaultDecorativeImages,
-  },
-  "4th-of-july": {
-    id: "4th-of-july",
-    name: "4th of July",
-    icon: "Star",
-    preview: "#1e40af",
-    colors: {
-      warm: {
-        "50": "#eff6ff", "100": "#dbeafe", "200": "#bfdbfe", "300": "#93c5fd",
-        "400": "#60a5fa", "500": "#3b82f6", "600": "#2563eb", "700": "#1d4ed8",
-        "800": "#1e40af", "900": "#1e3a8a",
-      },
-      coral: {
-        "50": "#fef2f2", "100": "#fee2e2", "200": "#fecaca", "300": "#fca5a5",
-        "400": "#f87171", "500": "#ef4444", "600": "#dc2626", "700": "#b91c1c",
-        "800": "#991b1b", "900": "#7f1d1d",
-      },
-      amber: {
-        "50": "#fafafa", "100": "#f5f5f5", "200": "#e5e5e5", "300": "#d4d4d4",
-        "400": "#a3a3a3", "500": "#737373", "600": "#525252", "700": "#404040",
-        "800": "#262626", "900": "#171717",
-      },
-      cream: "#eff6ff",
-      creamDark: "#dbeafe",
+    seasonalImages: [
+      { src: "/images/scraped/images/seasons/summer/summertime-chi1.png", alt: "Summertime chihuahua", width: 220, height: 220 },
+      { src: "/images/scraped/images/seasons/summer/beachtime-chi1.jpg", alt: "Chihuahua at the beach", width: 220, height: 220 },
+      { src: "/images/scraped/images/seasons/summer/chi-sunbonnet.jpg", alt: "Chihuahua in a sun bonnet", width: 220, height: 220 },
+    ],
+    decorativeImages: {
+      "about-float": { src: "/images/scraped/images/seasons/summer/chi-sunflower.png", alt: "Chihuahua with a sunflower" },
+      "about-quote": { src: "/images/scraped/images/seasons/summer/sweetsummertime.avif", alt: "Sweet summertime chihuahua" },
+      "volunteer-aside": { src: "/images/scraped/images/seasons/summer/summerfest-chi-sign.jpg", alt: "Summerfest chihuahua" },
+      "events-hero": { src: "/images/scraped/images/seasons/summer/blanketumbrellawatercolor.jpg", alt: "Chihuahua under a beach umbrella" },
+      "adoption-aside": { src: "/images/scraped/images/seasons/summer/chi-bee-sunflower.webp", alt: "Chihuahua with a bee and sunflower" },
+      "chiinfo-breed": { src: "/images/scraped/images/seasons/summer/paintedchi.jpg", alt: "Painted summer chihuahua" },
+      "chiinfo-articles": { src: "/images/scraped/images/seasons/summer/summerblanket2.webp", alt: "Chihuahua on a summer blanket" },
+      "surrender-top": { src: "/images/scraped/images/seasons/summer/summertime-chi4.jpg", alt: "Summertime chihuahua" },
+      "surrender-mid": { src: "/images/scraped/images/seasons/summer/chi-flower.png", alt: "Chihuahua with a flower" },
     },
-    seasonalImages: [],
-    decorativeImages: defaultDecorativeImages,
   },
   halloween: {
     id: "halloween",
@@ -291,8 +402,22 @@ const themes: Record<ThemeId, ThemeConfig> = {
       cream: "#faf5ff",
       creamDark: "#f3e8ff",
     },
-    seasonalImages: [],
-    decorativeImages: defaultDecorativeImages,
+    seasonalImages: [
+      { src: "/images/scraped/images/holidays/halloween/chi-witch-red.png", alt: "Chihuahua in a red witch costume", width: 220, height: 220 },
+      { src: "/images/scraped/images/holidays/halloween/chi-witch-black.png", alt: "Chihuahua in a black witch costume", width: 220, height: 220 },
+      { src: "/images/scraped/images/holidays/halloween/chi-steampunk.png", alt: "Steampunk chihuahua", width: 220, height: 220 },
+    ],
+    decorativeImages: {
+      "about-float": { src: "/images/scraped/images/holidays/halloween/chi-warlock.png", alt: "Warlock chihuahua" },
+      "about-quote": { src: "/images/scraped/images/holidays/halloween/chi-witch-black.png", alt: "Witch chihuahua" },
+      "volunteer-aside": { src: "/images/scraped/images/holidays/halloween/chi1.jpg", alt: "Halloween chihuahua" },
+      "events-hero": { src: "/images/scraped/images/holidays/halloween/halloween2020-animatedgif.gif", alt: "Happy Halloween" },
+      "adoption-aside": { src: "/images/scraped/images/holidays/halloween/chi-steampunk.png", alt: "Steampunk chihuahua" },
+      "chiinfo-breed": { src: "/images/scraped/images/holidays/halloween/chi2.jpg", alt: "Halloween chihuahua" },
+      "chiinfo-articles": { src: "/images/scraped/images/holidays/halloween/chi3.png", alt: "Halloween chihuahua" },
+      "surrender-top": { src: "/images/scraped/images/holidays/halloween/chi-witch-red.png", alt: "Witch chihuahua" },
+      "surrender-mid": { src: "/images/scraped/images/holidays/halloween/pumpkin-dog.gif", alt: "Pumpkin chihuahua" },
+    },
   },
   fall: {
     id: "fall",
@@ -318,8 +443,23 @@ const themes: Record<ThemeId, ThemeConfig> = {
       cream: "#fdf8f0",
       creamDark: "#f8ead5",
     },
-    seasonalImages: [],
-    decorativeImages: defaultDecorativeImages,
+    seasonalImages: [
+      { src: "/images/scraped/images/seasons/fall/chifall01.jpg", alt: "Chihuahua in autumn", width: 220, height: 220 },
+      { src: "/images/scraped/images/seasons/fall/chipumpkins01.jpg", alt: "Chihuahua with pumpkins", width: 220, height: 220 },
+      { src: "/images/scraped/images/seasons/fall/chileaves01.jpg", alt: "Chihuahua in the autumn leaves", width: 220, height: 220 },
+    ],
+    decorativeImages: {
+      "about-float": { src: "/images/scraped/images/seasons/fall/chipumpkincostume01.webp", alt: "Chihuahua in a pumpkin costume" },
+      "about-quote": { src: "/images/scraped/images/seasons/fall/chifall01.jpg", alt: "Chihuahua in autumn" },
+      "volunteer-aside": { src: "/images/scraped/images/seasons/fall/chileaves01.jpg", alt: "Chihuahua in the autumn leaves" },
+      // Events page only: owner-specified fixed image for the Fall theme.
+      "events-hero": { src: "/images/scraped/images/seasons/fall/cozyseason.webp", alt: "Cozy season chihuahua" },
+      "adoption-aside": { src: "/images/scraped/images/seasons/fall/chipumpkins01.jpg", alt: "Chihuahua with pumpkins" },
+      "chiinfo-breed": { src: "/images/scraped/images/seasons/fall/chifallingleaves01.webp", alt: "Chihuahua among falling leaves" },
+      "chiinfo-articles": { src: "/images/scraped/images/seasons/fall/chihotcocoa.webp", alt: "Chihuahua with hot cocoa" },
+      "surrender-top": { src: "/images/scraped/images/seasons/fall/chileaves02.jpg", alt: "Chihuahua in the autumn leaves" },
+      "surrender-mid": { src: "/images/scraped/images/seasons/fall/chi-painting.png", alt: "Autumn chihuahua painting" },
+    },
   },
   thanksgiving: {
     id: "thanksgiving",
@@ -346,9 +486,63 @@ const themes: Record<ThemeId, ThemeConfig> = {
       creamDark: "#f0e4d5",
     },
     seasonalImages: [
-      { src: "/images/scraped/images/holidays/thanksgiving/wavingturkey.png", alt: "Waving turkey", width: 160, height: 160 },
+      { src: "/images/scraped/images/holidays/thanksgiving/wavingturkey.png", alt: "Waving turkey", width: 220, height: 220 },
+      { src: "/images/scraped/images/holidays/thanksgiving/happyturkey.png", alt: "Happy turkey", width: 220, height: 220 },
+      { src: "/images/scraped/images/holidays/thanksgiving/cornucopia.png", alt: "Cornucopia", width: 220, height: 220 },
     ],
-    decorativeImages: defaultDecorativeImages,
+    decorativeImages: {
+      "about-float": { src: "/images/scraped/images/holidays/thanksgiving/happyturkey.png", alt: "Happy turkey" },
+      "about-quote": { src: "/images/scraped/images/holidays/thanksgiving/turkey-dance.gif", alt: "Dancing turkey" },
+      "volunteer-aside": { src: "/images/scraped/images/holidays/thanksgiving/pumpkins-and-flower.png", alt: "Pumpkins and flowers" },
+      "events-hero": { src: "/images/scraped/images/holidays/thanksgiving/happyturkeyday.gif", alt: "Happy Thanksgiving" },
+      "adoption-aside": { src: "/images/scraped/images/holidays/thanksgiving/cornucopia.png", alt: "Cornucopia" },
+      "chiinfo-breed": { src: "/images/scraped/images/holidays/thanksgiving/pilgrim-hat-and-pumpkin.png", alt: "Pilgrim hat and pumpkin" },
+      "chiinfo-articles": { src: "/images/scraped/images/holidays/thanksgiving/pumpkin-and-wheat.png", alt: "Pumpkin and wheat" },
+      "surrender-top": { src: "/images/scraped/images/holidays/thanksgiving/baby-turkey.png", alt: "Baby turkey" },
+      "surrender-mid": { src: "/images/scraped/images/holidays/thanksgiving/pumpkin-thanks.png", alt: "Give thanks" },
+    },
+  },
+  winter: {
+    id: "winter",
+    name: "Winter",
+    icon: "Snowflake",
+    preview: "#0891b2",
+    colors: {
+      warm: {
+        "50": "#f5fafc", "100": "#e3f2f9", "200": "#c2e3f0", "300": "#93cde3",
+        "400": "#5fb2d4", "500": "#3897c0", "600": "#2a79a1", "700": "#245f80",
+        "800": "#214d66", "900": "#1d3f54",
+      },
+      coral: {
+        "50": "#eef2ff", "100": "#e0e7ff", "200": "#c7d2fe", "300": "#a5b4fc",
+        "400": "#818cf8", "500": "#6366f1", "600": "#4f46e5", "700": "#4338ca",
+        "800": "#3730a3", "900": "#312e81",
+      },
+      amber: {
+        "50": "#f8fafc", "100": "#f1f5f9", "200": "#e2e8f0", "300": "#cbd5e1",
+        "400": "#94a3b8", "500": "#64748b", "600": "#475569", "700": "#334155",
+        "800": "#1e293b", "900": "#0f172a",
+      },
+      cream: "#f5fafc",
+      creamDark: "#e3f2f9",
+    },
+    seasonalImages: [
+      { src: "/images/scraped/images/seasons/winter/snowflake1.png", alt: "Snowflake", width: 220, height: 220 },
+      { src: "/images/scraped/images/seasons/winter/snowflake-blue.jpg", alt: "Blue snowflake", width: 220, height: 220 },
+      { src: "/images/scraped/images/seasons/winter/winter-snowflaketree.gif", alt: "Snowflake tree", width: 220, height: 220 },
+    ],
+    decorativeImages: {
+      "about-float": { src: "/images/scraped/images/seasons/winter/winter-snowflaketree.gif", alt: "Snowflake tree" },
+      "about-quote": { src: "/images/scraped/images/seasons/winter/snowflake2.png", alt: "Snowflake" },
+      "volunteer-aside": { src: "/images/scraped/images/seasons/winter/winter-snowflaketree.gif", alt: "Snowflake tree" },
+      // Events page only: owner-specified fixed image for the Winter theme.
+      "events-hero": { src: "/images/scraped/images/seasons/winter/let-it-snow.png", alt: "Let it snow" },
+      "adoption-aside": { src: "/images/scraped/images/seasons/winter/snowflake-blue.jpg", alt: "Blue snowflake" },
+      "chiinfo-breed": { src: "/images/scraped/images/seasons/winter/snowflake2.png", alt: "Snowflake" },
+      "chiinfo-articles": { src: "/images/scraped/images/seasons/winter/snowflake1.png", alt: "Snowflake" },
+      "surrender-top": { src: "/images/scraped/images/seasons/winter/winter-hangingicicles.gif", alt: "Hanging icicles" },
+      "surrender-mid": { src: "/images/scraped/images/seasons/winter/snowflake2.png", alt: "Snowflake" },
+    },
   },
   christmas: {
     id: "christmas",
@@ -374,64 +568,22 @@ const themes: Record<ThemeId, ThemeConfig> = {
       cream: "#f0fdf2",
       creamDark: "#dbf9e0",
     },
-    seasonalImages: [],
-    decorativeImages: defaultDecorativeImages,
-  },
-  "new-years": {
-    id: "new-years",
-    name: "New Year's",
-    icon: "Sparkles",
-    preview: "#1e293b",
-    colors: {
-      warm: {
-        "50": "#f8fafc", "100": "#f1f5f9", "200": "#e2e8f0", "300": "#cbd5e1",
-        "400": "#94a3b8", "500": "#64748b", "600": "#475569", "700": "#334155",
-        "800": "#1e293b", "900": "#0f172a",
-      },
-      coral: {
-        "50": "#f8f8f8", "100": "#f0f0f0", "200": "#dcdcdc", "300": "#bfbfbf",
-        "400": "#a0a0a0", "500": "#808080", "600": "#606060", "700": "#484848",
-        "800": "#303030", "900": "#202020",
-      },
-      amber: {
-        "50": "#fdfcf0", "100": "#faf5d0", "200": "#f3e8a0", "300": "#e8d366",
-        "400": "#d9b83a", "500": "#c49e18", "600": "#a38312", "700": "#7a620e",
-        "800": "#5c4a0b", "900": "#3d3108",
-      },
-      cream: "#f8fafc",
-      creamDark: "#f1f5f9",
-    },
     seasonalImages: [
-      { src: "/images/scraped/images/holidays/new-year/chi-synth02.png", alt: "Chihuahua celebrating New Year's", width: 160, height: 160 },
+      { src: "/images/scraped/images/holidays/christmas/santa-chi-1.png", alt: "Santa chihuahua", width: 220, height: 220 },
+      { src: "/images/scraped/images/holidays/christmas/chiwinterhatsweater.jpg", alt: "Chihuahua in a winter hat and sweater", width: 220, height: 220 },
+      { src: "/images/scraped/images/holidays/christmas/reindeer-chi.png", alt: "Reindeer chihuahua", width: 220, height: 220 },
     ],
-    decorativeImages: defaultDecorativeImages,
-  },
-  valentines: {
-    id: "valentines",
-    name: "Valentine's Day",
-    icon: "Heart",
-    preview: "#e11d48",
-    colors: {
-      warm: {
-        "50": "#fff1f3", "100": "#ffe0e5", "200": "#ffc7d1", "300": "#ffa0b3",
-        "400": "#fd708e", "500": "#f6436b", "600": "#e11d52", "700": "#be1244",
-        "800": "#9f1240", "900": "#88133e",
-      },
-      coral: {
-        "50": "#fdf2f8", "100": "#fce7f3", "200": "#fbcfe8", "300": "#f9a8d4",
-        "400": "#f472b6", "500": "#ec4899", "600": "#db2777", "700": "#be185d",
-        "800": "#9d174d", "900": "#831843",
-      },
-      amber: {
-        "50": "#fff1f3", "100": "#ffe4e8", "200": "#fecdd5", "300": "#fda4b4",
-        "400": "#fb7190", "500": "#f43f6b", "600": "#e11d50", "700": "#be1241",
-        "800": "#9f123c", "900": "#881339",
-      },
-      cream: "#fff1f3",
-      creamDark: "#ffe0e5",
+    decorativeImages: {
+      "about-float": { src: "/images/scraped/images/holidays/christmas/santachi.png", alt: "Santa chihuahua" },
+      "about-quote": { src: "/images/scraped/images/holidays/christmas/chireindeer.gif", alt: "Reindeer chihuahua" },
+      "volunteer-aside": { src: "/images/scraped/images/holidays/christmas/chiwinterhatsweater.jpg", alt: "Chihuahua in a winter sweater" },
+      "events-hero": { src: "/images/scraped/images/holidays/christmas/merry-chihuahua-christmas-card.png", alt: "Merry Christmas from the chihuahuas" },
+      "adoption-aside": { src: "/images/scraped/images/holidays/christmas/stocking-chi.png", alt: "Chihuahua in a Christmas stocking" },
+      "chiinfo-breed": { src: "/images/scraped/images/holidays/christmas/chihat.jpg", alt: "Chihuahua in a Santa hat" },
+      "chiinfo-articles": { src: "/images/scraped/images/holidays/christmas/chimaspresent.jpg", alt: "Chihuahua with a Christmas present" },
+      "surrender-top": { src: "/images/scraped/images/holidays/christmas/santa-chi-2.png", alt: "Santa chihuahua" },
+      "surrender-mid": { src: "/images/scraped/images/holidays/christmas/christmastree-2xchi.png", alt: "Chihuahuas by the Christmas tree" },
     },
-    seasonalImages: [],
-    decorativeImages: defaultDecorativeImages,
   },
 };
 

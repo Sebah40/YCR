@@ -1,7 +1,7 @@
 "use client";
 
 import { createContext, useContext, useEffect, useState, useCallback } from "react";
-import type { ThemeId, ThemeConfig } from "@/lib/themes";
+import { themeIds, type ThemeId, type ThemeConfig } from "@/lib/themes";
 
 interface ThemeContextValue {
   themeId: ThemeId;
@@ -51,6 +51,18 @@ export default function ThemeProvider({
 
   const setThemeId = useCallback((id: ThemeId) => {
     setThemeIdState(id);
+  }, []);
+
+  // DEV-ONLY preview override: visit any page with ?theme=winter (or fall, etc.)
+  // to preview a theme locally without changing the stored (production) theme.
+  // Guarded to non-production so it can never take effect on the live site.
+  useEffect(() => {
+    if (process.env.NODE_ENV === "production") return;
+    const override = new URLSearchParams(window.location.search).get("theme");
+    if (override && (themeIds as string[]).includes(override)) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect -- dev-only preview override, removed before shipping
+      setThemeIdState(override as ThemeId);
+    }
   }, []);
 
   useEffect(() => {

@@ -105,3 +105,49 @@ html {
     transform: translateX(var(--drift, 20px));
   }
 }
+
+/* Seasonal decorative side borders (Fall leaves / Winter snow + icicles).
+   Shown only on wide screens (>=1440px) so the rails sit in the margins
+   beside the centered content and never overlap it; hidden on mobile/tablet. */
+.seasonal-frame {
+  display: none;
+}
+@media (min-width: 1440px) {
+  .seasonal-frame {
+    display: block;
+  }
+}
+.seasonal-rail {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 80px;
+  z-index: 30;
+  pointer-events: none;
+  background-repeat: repeat-y;
+  background-position: top center;
+  background-size: 80px auto;
+}
+.seasonal-rail--left {
+  left: 0;
+}
+.seasonal-rail--right {
+  right: 0;
+}
+.seasonal-icicles {
+  position: fixed;
+  left: 0;
+  right: 0;
+  height: 46px;
+  z-index: 40;
+  pointer-events: none;
+  background-repeat: repeat-x;
+  background-position: top center;
+  background-size: auto 100%;
+}
+@media (prefers-reduced-motion: reduce) {
+  .seasonal-frame {
+    /* GIF frames can't be paused via CSS; keep them but avoid layout motion. */
+    scroll-behavior: auto;
+  }
+}

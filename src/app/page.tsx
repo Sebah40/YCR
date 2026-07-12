@@ -3,7 +3,7 @@ import Link from "next/link";
 import { ArrowRight, Heart } from "lucide-react";
 import FallingLeaves from "@/components/FallingLeaves";
 import SeasonalImages from "@/components/SeasonalImages";
-import HeroLogo from "@/components/HeroLogo";
+import HeroBanner from "@/components/HeroBanner";
 import ObfuscatedEmail from "@/components/ObfuscatedEmail";
 
 export default function Home() {
@@ -12,23 +12,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative overflow-hidden bg-gradient-to-br from-amber-50 via-cream to-coral-50 pt-3 pb-8 sm:pt-4 sm:pb-12 lg:pt-6 lg:pb-16">
         <FallingLeaves />
-        <div className="flex items-center justify-center gap-6 pb-3 sm:gap-12 lg:gap-16">
-          <Image
-            src="/images/scraped/images/holidays/graduation/gradchicoolglasses.png"
-            alt="Graduation Chihuahua with cool glasses"
-            width={160}
-            height={160}
-            className="h-auto w-16 sm:w-24 md:w-28"
-          />
-          <HeroLogo />
-          <Image
-            src="/images/scraped/images/holidays/graduation/gradchistud.png"
-            alt="Graduation Chihuahua stud"
-            width={160}
-            height={240}
-            className="h-auto w-16 sm:w-24 md:w-28"
-          />
-        </div>
+        <HeroBanner />
         <div className="mx-auto max-w-7xl px-6">
           <div className="grid items-center gap-8 lg:grid-cols-2 lg:gap-12">
             <div className="text-center lg:text-left">

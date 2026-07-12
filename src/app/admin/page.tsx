@@ -168,7 +168,7 @@ export default function AdminPage() {
   }
 
   return (
-    <div className="mx-auto max-w-5xl px-6 py-12">
+    <div className="mx-auto max-w-6xl px-6 py-12">
       <div className="mb-8 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <Palette className="h-6 w-6 text-coral-500" strokeWidth={2} />
@@ -195,7 +195,7 @@ export default function AdminPage() {
         Select a seasonal theme to apply site-wide. The theme changes colors, animations, and seasonal images.
       </p>
 
-      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
         {themes.map((theme) => {
           const isActive = theme.id === activeTheme;
           return (

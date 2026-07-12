@@ -13,6 +13,14 @@ interface FrameConfig {
 
 // Themes with decorative edge borders and/or a strip strung under the nav.
 const FRAMES: Partial<Record<ThemeId, FrameConfig>> = {
+  "st-patricks": {
+    left: "/images/scraped/images/holidays/st-patrick/clover-border-left.png",
+    right: "/images/scraped/images/holidays/st-patrick/clover-border-right.png",
+  },
+  easter: {
+    left: "/images/scraped/images/holidays/easter/eastereggborderleft.png",
+    right: "/images/scraped/images/holidays/easter/eastereggborderright.png",
+  },
   fall: {
     left: "/images/scraped/images/seasons/fall/fall-leaves1-falling-blowing.gif",
     right: "/images/scraped/images/seasons/fall/fall-leaves1-falling-blowing2.gif",

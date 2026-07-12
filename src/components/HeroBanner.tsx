@@ -26,27 +26,97 @@ const LOGO_HEIGHT_CLASS = "h-[116px] w-auto sm:h-[142px] lg:h-[155px]";
 // Slightly larger, for text-heavy images that need to stay readable.
 const LOGO_HEIGHT_LG = "h-[135px] w-auto sm:h-[165px] lg:h-[180px]";
 
-// Default hero: the two graduation Chihuahuas flanking the Yankee Chihuahua logo.
-const DEFAULT_FLANK: Flank = {
-  left: {
-    src: "/images/scraped/images/seasons/graduation/gradchicoolglasses.png",
-    alt: "Graduation Chihuahua with cool glasses",
-    width: 160,
-    height: 160,
-    className: GRAD_CLASS,
-  },
-  right: {
-    src: "/images/scraped/images/seasons/graduation/gradchistud.png",
-    alt: "Graduation Chihuahua stud",
-    width: 160,
-    height: 240,
-    className: GRAD_CLASS,
-  },
-};
+// Default hero: just the Yankee Chihuahua logo, centered — no flanking images.
+const DEFAULT_FLANK: Flank = {};
 
 // Themes that replace the grad Chihuahuas with their own image(s) flanking the
 // logo. Each themed image is sized to the logo's height and centered as a group.
 const FLANK_BY_THEME: Partial<Record<ThemeId, Flank>> = {
+  // Graduation keeps its two grad Chihuahuas (previously the site-wide default).
+  graduation: {
+    left: {
+      src: "/images/scraped/images/seasons/graduation/gradchicoolglasses.png",
+      alt: "Graduation Chihuahua with cool glasses",
+      width: 160,
+      height: 160,
+      className: GRAD_CLASS,
+    },
+    right: {
+      src: "/images/scraped/images/seasons/graduation/gradchistud.png",
+      alt: "Graduation Chihuahua stud",
+      width: 160,
+      height: 240,
+      className: GRAD_CLASS,
+    },
+  },
+  summer: {
+    right: {
+      src: "/images/scraped/images/seasons/summer/summertime-chi3.png",
+      alt: "Summertime chihuahua",
+      width: 265,
+      height: 169,
+      className: LOGO_HEIGHT_CLASS,
+    },
+  },
+  "st-patricks": {
+    right: {
+      src: "/images/scraped/images/holidays/st-patrick/happy-st-patricks-day.png",
+      alt: "Happy St. Patrick's Day",
+      width: 822,
+      height: 439,
+      className: LOGO_HEIGHT_CLASS,
+    },
+  },
+  easter: {
+    left: {
+      src: "/images/scraped/images/holidays/easter/easter-huahua.jpg",
+      alt: "Easter chihuahua",
+      width: 413,
+      height: 482,
+      className: LOGO_HEIGHT_CLASS,
+    },
+    right: {
+      src: "/images/scraped/images/holidays/easter/chi-happyeasterpin-transparent.png",
+      alt: "Happy Easter chihuahuas",
+      width: 593,
+      height: 597,
+      className: LOGO_HEIGHT_CLASS,
+    },
+  },
+  spring: {
+    left: {
+      src: "/images/scraped/images/seasons/spring/chi-flower.png",
+      alt: "Chihuahua with a flower",
+      width: 224,
+      height: 330,
+      className: LOGO_HEIGHT_CLASS,
+    },
+    right: {
+      src: "/images/scraped/images/seasons/spring/chi-sunflower.png",
+      alt: "Chihuahua with a sunflower",
+      width: 366,
+      height: 378,
+      className: LOGO_HEIGHT_CLASS,
+    },
+  },
+  halloween: {
+    right: {
+      src: "/images/scraped/images/holidays/halloween/happy-halloween-transparent-fire.gif",
+      alt: "Happy Halloween",
+      width: 347,
+      height: 218,
+      className: LOGO_HEIGHT_CLASS,
+    },
+  },
+  thanksgiving: {
+    right: {
+      src: "/images/scraped/images/holidays/thanksgiving/thanksgiving.png",
+      alt: "Happy Thanksgiving",
+      width: 238,
+      height: 143,
+      className: LOGO_HEIGHT_CLASS,
+    },
+  },
   fall: {
     right: {
       src: "/images/scraped/images/seasons/fall/chihuahua-word-cloud.png",

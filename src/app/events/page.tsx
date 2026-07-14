@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import ThemedDecorativeImage from "@/components/ThemedDecorativeImage";
 import HeroLogo from "@/components/HeroLogo";
@@ -23,25 +22,99 @@ export default function EventsPage() {
       {/* Main Content */}
       <section className="py-10 sm:py-14">
         <div className="mx-auto max-w-4xl px-6">
-          <div className="flex flex-col items-center gap-10 sm:flex-row sm:items-start">
-            <Image
-              src="/images/scraped/images/longhaired-chihuahua-3.jpg"
-              alt="Long-haired Chihuahua"
-              width={200}
-              height={280}
-              className="h-auto w-48 shrink-0 rounded-2xl shadow-sm"
-            />
-            <div className="text-center sm:text-left">
-              <p className="text-xl leading-relaxed text-warm-700">
-                Sorry. There are no planned events at this time.
-              </p>
-              <p className="mt-4 text-lg text-warm-600">
-                But you never know when there will be another.
-              </p>
-              <p className="mt-4 text-lg text-warm-600">
-                Please check back. We&apos;ll keep you informed.
-              </p>
-            </div>
+          <div className="rounded-2xl border border-amber-200 bg-white/70 p-8 shadow-sm sm:p-10">
+            <p className="text-sm font-semibold uppercase tracking-wide text-coral-500">
+              Upcoming Event
+            </p>
+            <h2 className="mt-2 text-3xl font-bold tracking-tight text-warm-900 sm:text-4xl">
+              28th Annual Pet Rock Festival
+            </h2>
+            <a
+              href="https://www.petrockfest.org/about"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-1 inline-block text-sm font-semibold text-coral-500 hover:text-coral-400"
+            >
+              About Pet Rock Festival →
+            </a>
+
+            <dl className="mt-6 grid gap-x-8 gap-y-5 sm:grid-cols-2">
+              <div>
+                <dt className="text-sm font-semibold uppercase tracking-wide text-warm-500">
+                  When
+                </dt>
+                <dd className="mt-1 text-lg text-warm-800">
+                  Sunday, Oct 4, 2026
+                  <br />
+                  Noon to 5 p.m.
+                </dd>
+              </div>
+
+              <div>
+                <dt className="text-sm font-semibold uppercase tracking-wide text-warm-500">
+                  Where
+                </dt>
+                <dd className="mt-1 text-lg text-warm-800">
+                  Lancaster Fairgrounds
+                  <br />
+                  Lancaster, MA
+                </dd>
+                <dd className="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-sm font-semibold">
+                  <a
+                    href="https://www.google.com/maps/search/?api=1&query=The+Fairgrounds+at+Lancaster%2C+318+Seven+Bridge+Rd%2C+Lancaster%2C+MA+01523"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-coral-500 hover:text-coral-400"
+                  >
+                    Google Maps →
+                  </a>
+                  <a
+                    href="https://www.bing.com/maps?q=The+Fairgrounds+at+Lancaster%2C+318+Seven+Bridge+Rd%2C+Lancaster%2C+MA+01523"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-coral-500 hover:text-coral-400"
+                  >
+                    Bing Maps →
+                  </a>
+                </dd>
+              </div>
+
+              <div>
+                <dt className="text-sm font-semibold uppercase tracking-wide text-warm-500">
+                  Admission
+                </dt>
+                <dd className="mt-1 text-lg text-warm-800">
+                  $15 adults, $5 kids 12 and under
+                </dd>
+                <dd className="mt-1 text-sm text-warm-600">
+                  At the gate · Venmo, PayPal, Cash accepted
+                </dd>
+              </div>
+
+              <div>
+                <dt className="text-sm font-semibold uppercase tracking-wide text-warm-500">
+                  More
+                </dt>
+                <dd className="mt-1 flex flex-col gap-1 text-lg">
+                  <a
+                    href="https://www.petrockfest.org/_files/ugd/c3bea5_2f7cc7a08c594b56ab47a0f85e6e26f4.pdf"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="font-semibold text-coral-500 hover:text-coral-400"
+                  >
+                    Coupons for you and your friends →
+                  </a>
+                  <a
+                    href="https://www.petrockfest.org/projects"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="font-semibold text-coral-500 hover:text-coral-400"
+                  >
+                    Find out more →
+                  </a>
+                </dd>
+              </div>
+            </dl>
           </div>
 
           <div className="mt-16 flex justify-center">
@@ -62,8 +135,8 @@ export default function EventsPage() {
             Support Yankee Chihuahua Rescue
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-warm-600">
-            While there are no events scheduled, you can still help our Chihuahuas by
-            donating, volunteering, or shopping through iGive.
+            Come see us at the Pet Rock Festival — and you can always help our
+            Chihuahuas by donating, volunteering, or shopping through iGive.
           </p>
           <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
             <a

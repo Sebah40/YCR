@@ -27,7 +27,7 @@ export default function SeasonalImages() {
             alt={img.alt}
             width={img.width}
             height={img.height}
-            className="h-auto w-28 sm:w-36"
+            className={`h-auto ${img.sizeClassName ?? "w-28 sm:w-36"}`}
           />
         ))}
       </div>

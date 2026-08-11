@@ -26,6 +26,8 @@ export interface SeasonalImage {
   alt: string;
   width: number;
   height: number;
+  /** Optional Tailwind width classes to override the default sizing for this image. */
+  sizeClassName?: string;
 }
 
 export type DecorativeSlot =
@@ -363,8 +365,7 @@ const themes: Record<ThemeId, ThemeConfig> = {
     },
     seasonalImages: [
       { src: "/images/scraped/images/seasons/summer/summertime-chi1.png", alt: "Summertime chihuahua", width: 220, height: 220 },
-      { src: "/images/scraped/images/seasons/summer/beachtime-chi1.jpg", alt: "Chihuahua at the beach", width: 220, height: 220 },
-      { src: "/images/scraped/images/seasons/summer/chi-sunbonnet.jpg", alt: "Chihuahua in a sun bonnet", width: 220, height: 220 },
+      { src: "/images/scraped/images/seasons/summer/beachtime-chi1.jpg", alt: "Chihuahua at the beach", width: 220, height: 220, sizeClassName: "w-[10.5rem] sm:w-[13.5rem]" },
     ],
     decorativeImages: {
       "about-float": { src: "/images/scraped/images/seasons/summer/chi-sunflower.png", alt: "Chihuahua with a sunflower" },

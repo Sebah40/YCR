@@ -176,6 +176,12 @@ export default function AdminPage() {
         </div>
         <div className="flex items-center gap-2">
           <a
+            href="/admin/stats"
+            className="inline-flex items-center gap-2 rounded-lg border border-warm-200 px-4 py-2 text-sm font-medium text-warm-600 transition-colors hover:bg-warm-50"
+          >
+            Visitor Statistics
+          </a>
+          <a
             href="/admin/guestbook"
             className="inline-flex items-center gap-2 rounded-lg border border-warm-200 px-4 py-2 text-sm font-medium text-warm-600 transition-colors hover:bg-warm-50"
           >

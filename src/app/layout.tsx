@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
 import SeasonalBorders from "@/components/SeasonalBorders";
+import VisitorTracker from "@/components/VisitorTracker";
 import ThemeProvider from "@/components/ThemeProvider";
 import { getTheme } from "@/lib/theme-store";
 import "./globals.css";
@@ -124,6 +125,7 @@ export default async function RootLayout({
       </head>
       <body className={`${inter.variable} font-sans antialiased`}>
         <ThemeProvider initialTheme={theme}>
+          <VisitorTracker />
           <Navigation />
           <SeasonalBorders />
           <main className="min-h-screen">{children}</main>

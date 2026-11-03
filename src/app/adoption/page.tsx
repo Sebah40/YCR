@@ -8,13 +8,13 @@ import ObfuscatedEmail from "@/components/ObfuscatedEmail";
 export const metadata = { title: "Adoption" };
 
 const fees = [
-  { age: "0 – 6 months", donation: "To be determined (per dog)", medical: "To be determined if any" },
-  { age: "6 mos – 2 yrs", donation: "$250", medical: "To be determined if any" },
-  { age: "2 – 4 years", donation: "$200", medical: "To be determined if any" },
-  { age: "4 – 6 years", donation: "$250", medical: "To be determined if any" },
-  { age: "6 – 8 years", donation: "$200", medical: "To be determined if any" },
-  { age: "8 – 10 years", donation: "$100", medical: "To be determined if any" },
-  { age: "Over 10 years", donation: "$75 or negotiable to a great home", medical: "To be determined if any" },
+  { age: "0 – 6 months", donation: "To be determined (per dog)", medical: "TBD if any" },
+  { age: "6 mos – 2 yrs", donation: "$250", medical: "TBD if any" },
+  { age: "2 – 4 years", donation: "$200", medical: "TBD if any" },
+  { age: "4 – 6 years", donation: "$250", medical: "TBD if any" },
+  { age: "6 – 8 years", donation: "$200", medical: "TBD if any" },
+  { age: "8 – 10 years", donation: "$100", medical: "TBD if any" },
+  { age: "Over 10 years", donation: "$75 or negotiable to a great home", medical: "TBD if any" },
 ];
 
 const policies = [
@@ -208,7 +208,7 @@ export default function AdoptionPage() {
                 <tr className="border-b border-warm-200 bg-warm-50">
                   <th className="px-5 py-3 font-semibold text-warm-800">Age</th>
                   <th className="px-5 py-3 font-semibold text-warm-800">Donation</th>
-                  <th className="hidden px-5 py-3 font-semibold text-warm-800 sm:table-cell">Medical Expenses</th>
+                  <th className="px-5 py-3 font-semibold text-warm-800">Medical Expenses</th>
                 </tr>
               </thead>
               <tbody>
@@ -216,7 +216,7 @@ export default function AdoptionPage() {
                   <tr key={row.age} className="border-b border-warm-100 last:border-0">
                     <td className="px-5 py-3 font-medium text-warm-800">{row.age}</td>
                     <td className="px-5 py-3 text-warm-600">{row.donation}</td>
-                    <td className="hidden px-5 py-3 text-warm-500 sm:table-cell">{row.medical}</td>
+                    <td className="px-5 py-3 text-warm-500">{row.medical}</td>
                   </tr>
                 ))}
               </tbody>
